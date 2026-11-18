@@ -1,0 +1,1001 @@
+medicine_id,medicine_name,generic_name,brand_name,category,dosage_form,strength,prescription_type,manufacturer,description
+MED0001,Dolo 500mg,Paracetamol,Dolo,Analgesics & Antipyretics,Tablet,500mg,OTC,Micro Labs Ltd,Used for fever reduction and mild to moderate pain relief.
+MED0002,Calpol 120mg/5ml,Paracetamol,Calpol,Analgesics & Antipyretics,Syrup,120mg/5ml,OTC,GSK Pharmaceuticals,Pediatric and adult antipyretic suspension for fever.
+MED0003,Combiflam 400mg+325mg,Ibuprofen + Paracetamol,Combiflam,Analgesics & Antipyretics,Tablet,400mg+325mg,OTC,Sanofi India,Combination anti-inflammatory and analgesic for musculoskeletal pain.
+MED0004,Zerodol-P 100mg+325mg,Aceclofenac + Paracetamol,Zerodol,Analgesics & Antipyretics,Tablet,100mg+325mg,Prescription,Ipca Laboratories,"Prescribed for joint pain, arthritis, and dental pain."
+MED0005,Voveran SR 50mg,Diclofenac Sodium,Voveran,Analgesics & Antipyretics,Tablet,50mg,Prescription,Novartis India,Sustained release NSAID for acute inflammation and pain.
+MED0006,Ultracet 37.5mg+325mg,Tramadol + Paracetamol,Ultracet,Analgesics & Antipyretics,Tablet,37.5mg+325mg,Prescription,Janssen Pharmaceuticals,Moderate to severe acute pain management.
+MED0007,Meftal-Spas 250mg+10mg,Mefenamic Acid + Dicyclomine,Meftal,Analgesics & Antipyretics,Tablet,250mg+10mg,Prescription,Blue Cross Laboratories,Antispasmodic and analgesic for abdominal cramps.
+MED0008,Crocin Advance 500mg,Paracetamol,Crocin,Analgesics & Antipyretics,Tablet,500mg,OTC,GSK Consumer Healthcare,Fast-release paracetamol for headache and body ache.
+MED0009,Nise 100mg,Nimesulide,Nise,Analgesics & Antipyretics,Tablet,100mg,Prescription,Dr. Reddy's Laboratories,NSAID for acute pain and inflammatory conditions.
+MED0010,Flexon 400mg+325mg,Ibuprofen + Paracetamol,Flexon,Analgesics & Antipyretics,Tablet,400mg+325mg,OTC,Aristo Pharmaceuticals,"Relieves toothache, muscle ache, and fever."
+MED0011,Augmentin Duo 625mg,Amoxicillin + Clavulanic Acid,Augmentin,Antibiotics,Tablet,625mg,Prescription,GSK Pharmaceuticals,Broad-spectrum penicillin antibiotic for respiratory and skin infections.
+MED0012,Azithral 250mg,Azithromycin,Azithral,Antibiotics,Tablet,250mg,Prescription,Alembic Pharmaceuticals,"Macrolide antibiotic for throat, sinus, and chest infections."
+MED0013,Taxim-O 100mg,Cefixime,Taxim,Antibiotics,Tablet,100mg,Prescription,Alkem Laboratories,Third-generation cephalosporin for urinary and typhoid infections.
+MED0014,Cifran 250mg,Ciprofloxacin,Cifran,Antibiotics,Tablet,250mg,Prescription,Sun Pharma,Fluoroquinolone antibiotic for bacterial gastroenteritis and UTIs.
+MED0015,Monocef-O 100mg,Cefpodoxime Proxetil,Monocef,Antibiotics,Tablet,100mg,Prescription,Aristo Pharmaceuticals,Oral cephalosporin for respiratory tract infections.
+MED0016,Moxikind-CV 375mg,Amoxicillin + Clavulanic Acid,Moxikind,Antibiotics,Tablet,375mg,Prescription,Mankind Pharma,"Treats bacterial ear, sinus, and lower respiratory infections."
+MED0017,Zifi 200mg,Cefixime,Zifi,Antibiotics,Tablet,200mg,Prescription,FDC Ltd,Broad-spectrum antibiotic for uncomplicated bacterial infections.
+MED0018,Oflox 200mg,Ofloxacin,Oflox,Antibiotics,Tablet,200mg,Prescription,Cipla Ltd,Antibiotic for gastrointestinal and urinary tract bacterial infections.
+MED0019,Doxy-1 L-DR 100mg,Doxycycline,Doxy-1,Antibiotics,Capsule,100mg,Prescription,USV Ltd,Tetracycline antibiotic for acne and atypical respiratory infections.
+MED0020,Metrogyl 200mg,Metronidazole,Metrogyl,Antibiotics,Tablet,200mg,Prescription,JB Chemicals,Antiprotozoal and anaerobic antibacterial agent.
+MED0021,Glycomet-GP 1mg+500mg,Glimepiride + Metformin,Glycomet,Antidiabetics,Tablet,1mg+500mg,Prescription,USV Ltd,Dual therapy for glycemic control in Type 2 diabetes mellitus.
+MED0022,Janumet 50mg+500mg,Sitagliptin + Metformin,Janumet,Antidiabetics,Tablet,50mg+500mg,Prescription,MSD Pharmaceuticals,DPP-4 inhibitor combination to improve insulin response.
+MED0023,Galvus Met 50mg+500mg,Vildagliptin + Metformin,Galvus,Antidiabetics,Tablet,50mg+500mg,Prescription,Novartis India,Controls fasting and post-meal blood sugar in Type 2 diabetes.
+MED0024,Lantus Solostar 100IU/ml,Insulin Glargine,Lantus,Antidiabetics,Injection,100IU/ml,Prescription,Sanofi India,Long-acting basal insulin analog for 24-hour blood glucose control.
+MED0025,Jardiance 10mg,Empagliflozin,Jardiance,Antidiabetics,Tablet,10mg,Prescription,Boehringer Ingelheim,SGLT2 inhibitor aiding glucose excretion and cardiovascular protection.
+MED0026,Glycomet SR 500mg,Metformin,Glycomet,Antidiabetics,Tablet,500mg,Prescription,USV Ltd,First-line sustained-release oral antidiabetic medication.
+MED0027,Amaryl 1mg,Glimepiride,Amaryl,Antidiabetics,Tablet,1mg,Prescription,Sanofi India,Sulfonylurea stimulating pancreatic insulin release.
+MED0028,Istamet 50mg+500mg,Sitagliptin + Metformin,Istamet,Antidiabetics,Tablet,50mg+500mg,Prescription,Sun Pharma,Oral antihyperglycemic combination for Type 2 diabetes.
+MED0029,Mixtard 30 40IU/ml,Human Insulin,Mixtard,Antidiabetics,Injection,40IU/ml,Prescription,Novo Nordisk,Biphasic insulin suspension for mealtime and basal glycemic control.
+MED0030,Teneligliptin Zita 20mg,Teneligliptin,Zita,Antidiabetics,Tablet,20mg,Prescription,Glenmark Pharmaceuticals,DPP-4 inhibitor for blood glucose regulation.
+MED0031,Telma 20mg,Telmisartan,Telma,Antihypertensives,Tablet,20mg,Prescription,Glenmark Pharmaceuticals,Angiotensin II receptor blocker (ARB) for hypertension.
+MED0032,Telma-H 40mg+12.5mg,Telmisartan + Hydrochlorothiazide,Telma,Antihypertensives,Tablet,40mg+12.5mg,Prescription,Glenmark Pharmaceuticals,ARB and diuretic combination for uncontrolled hypertension.
+MED0033,Amlokind-AT 5mg+50mg,Amlodipine + Atenolol,Amlokind,Antihypertensives,Tablet,5mg+50mg,Prescription,Mankind Pharma,Calcium channel blocker and beta-blocker for blood pressure.
+MED0034,Stamlo 2.5mg,Amlodipine,Stamlo,Antihypertensives,Tablet,2.5mg,Prescription,Dr. Reddy's Laboratories,Relaxes blood vessels to lower blood pressure and angina.
+MED0035,Concor 2.5mg,Bisoprolol,Concor,Antihypertensives,Tablet,2.5mg,Prescription,Merck Ltd,Cardioselective beta-blocker for hypertension and heart failure.
+MED0036,Met XL 25mg,Metoprolol Succinate,Met XL,Antihypertensives,Tablet,25mg,Prescription,Ajanta Pharma,Extended-release beta-blocker for blood pressure and arrhythmia.
+MED0037,Olmezest 20mg,Olmesartan Medoxomil,Olmezest,Antihypertensives,Tablet,20mg,Prescription,Sun Pharma,ARB antihypertensive for sustained blood pressure reduction.
+MED0038,Losar 25mg,Losartan Potassium,Losar,Antihypertensives,Tablet,25mg,Prescription,Unichem Laboratories,Protects kidneys and reduces blood pressure in hypertensive patients.
+MED0039,Arkamin 100mcg,Clonidine,Arkamin,Antihypertensives,Tablet,100mcg,Prescription,Torrent Pharmaceuticals,Centrally acting alpha-agonist for resistant hypertension.
+MED0040,Dytor 10mg,Torasemide,Dytor,Antihypertensives,Tablet,10mg,Prescription,Cipla Ltd,Loop diuretic for fluid retention and hypertension.
+MED0041,Pan-D 40mg+30mg,Pantoprazole + Domperidone,Pan,Gastrointestinal,Capsule,40mg+30mg,Prescription,Alkem Laboratories,Proton pump inhibitor and prokinetic for GERD and acid reflux.
+MED0042,Pan 40 40mg,Pantoprazole,Pan,Gastrointestinal,Tablet,40mg,Prescription,Alkem Laboratories,Reduces stomach acid production in gastritis and peptic ulcers.
+MED0043,Omez 20mg,Omeprazole,Omez,Gastrointestinal,Capsule,20mg,OTC,Dr. Reddy's Laboratories,"Relieves heartburn, acid indigestion, and sour stomach."
+MED0044,Digene Gel 200ml,Magnesium Hydroxide + Simethicone,Digene,Gastrointestinal,Syrup,200ml,OTC,Abbott India,Antacid and anti-flatulent suspension for quick acidity relief.
+MED0045,Rantac 150mg,Ranitidine,Rantac,Gastrointestinal,Tablet,150mg,OTC,JB Chemicals,H2 receptor blocker for heartburn and hyperacidity.
+MED0046,Ondem 4mg,Ondansetron,Ondem,Gastrointestinal,Tablet,4mg,Prescription,Alkem Laboratories,Antiemetic medication to prevent nausea and vomiting.
+MED0047,Cremaffin Plus 225ml,Liquid Paraffin + Milk of Magnesia,Cremaffin,Gastrointestinal,Syrup,225ml,OTC,Abbott India,Gentle osmotic and lubricant laxative for constipation.
+MED0048,Econorm 250mg,Saccharomyces boulardii,Econorm,Gastrointestinal,Sachet,250mg,OTC,Dr. Reddy's Laboratories,Probiotic yeast supplement for acute infectious diarrhea.
+MED0049,Udapa / Udiliv 150mg,Ursodeoxycholic Acid,Udiliv,Gastrointestinal,Tablet,150mg,Prescription,Abbott India,Hepatoprotective bile acid for gallstones and fatty liver.
+MED0050,Gaviscon 150ml,Sodium Alginate + Sodium Bicarbonate,Gaviscon,Gastrointestinal,Syrup,150ml,OTC,Reckitt Benckiser,Forms protective raft against gastroesophageal reflux.
+MED0051,Montair LC 10mg+5mg,Montelukast + Levocetirizine,Montair,Respiratory & Anti-Allergics,Tablet,10mg+5mg,Prescription,Cipla Ltd,"Treats allergic rhinitis, sneezing, and seasonal asthma."
+MED0052,Allegra 120mg,Fexofenadine,Allegra,Respiratory & Anti-Allergics,Tablet,120mg,OTC,Sanofi India,Non-drowsy antihistamine for hay fever and urticaria.
+MED0053,Cetrizine Okacet 10mg,Cetirizine,Okacet,Respiratory & Anti-Allergics,Tablet,10mg,OTC,Cipla Ltd,"Relieves watery eyes, runny nose, and skin itching."
+MED0054,Asthalin Inhaler 100mcg,Salbutamol,Asthalin,Respiratory & Anti-Allergics,Inhaler,100mcg,Prescription,Cipla Ltd,Fast-acting bronchodilator for acute asthma bronchospasm.
+MED0055,Foracort Inhaler 200mcg,Formoterol + Budesonide,Foracort,Respiratory & Anti-Allergics,Inhaler,200mcg,Prescription,Cipla Ltd,Maintenance inhaler for asthma and COPD airway inflammation.
+MED0056,Benadryl Cough 150ml,Diphenhydramine + Ammonium Chloride,Benadryl,Respiratory & Anti-Allergics,Syrup,150ml,OTC,Johnson & Johnson,Relieves productive and allergic cough and throat irritation.
+MED0057,Ascoril LS 100ml,Levosalbutamol + Ambroxol + Guaifenesin,Ascoril,Respiratory & Anti-Allergics,Syrup,100ml,Prescription,Glenmark Pharmaceuticals,Mucolytic and bronchodilator expectorant for wet cough.
+MED0058,Otrivin Oxy 0.05%,Oxymetazoline,Otrivin,Respiratory & Anti-Allergics,Drops,0.05%,OTC,GSK Consumer Healthcare,Nasal decongestant drops for blocked nose relief.
+MED0059,Sinarest New 500mg+10mg+2mg,Paracetamol + Phenylephrine + Chlorpheniramine,Sinarest,Respiratory & Anti-Allergics,Tablet,500mg+10mg+2mg,OTC,Centaur Pharmaceuticals,"Multi-symptom relief for common cold, sinusitis, and headache."
+MED0060,Budecort Respules 0.5mg/2ml,Budesonide,Budecort,Respiratory & Anti-Allergics,Suspension,0.5mg/2ml,Prescription,Cipla Ltd,Nebulizer corticosteroid suspension for pediatric and adult asthma.
+MED0061,Shelcal 500 500mg+250IU,Calcium + Vitamin D3,Shelcal,Vitamins & Supplements,Tablet,500mg+250IU,OTC,Torrent Pharmaceuticals,"Supports bone density, calcium absorption, and joint strength."
+MED0062,Becosules Z Standard,B-Complex + Vitamin C + Zinc,Becosules,Vitamins & Supplements,Capsule,Standard,OTC,Pfizer Ltd,"Boosts immunity, energy metabolism, and tissue repair."
+MED0063,Limcee 500mg,Vitamin C (Ascorbic Acid),Limcee,Vitamins & Supplements,Tablet,500mg,OTC,Abbott India,Chewable antioxidant supplement for immune defense.
+MED0064,Neurobion Forte Standard,Vitamin B1 + B2 + B3 + B6 + B12,Neurobion,Vitamins & Supplements,Tablet,Standard,OTC,Procter & Gamble Health,Supports nerve health and relieves tingling or numbness.
+MED0065,Uprise-D3 60000IU,Cholecalciferol (Vitamin D3),Uprise,Vitamins & Supplements,Capsule,60000IU,OTC,Alkem Laboratories,Weekly high-dose Vitamin D3 supplement for deficiency.
+MED0066,Zincovit Standard,Multivitamins + Multiminerals + Grape Seed,Zincovit,Vitamins & Supplements,Tablet,Standard,OTC,Apex Laboratories,Daily nutritional supplement for general wellness and recovery.
+MED0067,Evion 200mg,Vitamin E (Tocopheryl Acetate),Evion,Vitamins & Supplements,Capsule,200mg,OTC,Procter & Gamble Health,"Antioxidant supporting skin, hair, and muscle health."
+MED0068,Autrin Standard,Ferrous Fumarate + Folic Acid + B12,Autrin,Vitamins & Supplements,Capsule,Standard,OTC,Pfizer Ltd,Hematinic supplement for iron deficiency anemia.
+MED0069,Supradyn Daily Standard,Multivitamin + Trace Elements,Supradyn,Vitamins & Supplements,Tablet,Standard,OTC,Bayer Zydus Pharma,Comprehensive daily vitality and micronutrient tablet.
+MED0070,Livogen-Z Standard,Ferrous Fumarate + Folic Acid + Zinc,Livogen,Vitamins & Supplements,Tablet,Standard,OTC,Procter & Gamble Health,Iron and folic acid supplement for pregnancy and anemia.
+MED0071,Betadine Ointment 5% w/w,Povidone-Iodine,Betadine,Dermatologicals,Ointment,5% w/w,OTC,Win-Medicare,"Topical antiseptic for minor cuts, wounds, and burns."
+MED0072,Candid-B Cream 15g,Clotrimazole + Beclomethasone,Candid,Dermatologicals,Cream,15g,Prescription,Glenmark Pharmaceuticals,Antifungal and anti-inflammatory cream for fungal skin infections.
+MED0073,Soframycin Skin 1% w/w,Framycetin,Soframycin,Dermatologicals,Cream,1% w/w,OTC,Sanofi India,Topical antibacterial cream for minor skin infections and boils.
+MED0074,T-Bact Ointment 2% w/w,Mupirocin,T-Bact,Dermatologicals,Ointment,2% w/w,Prescription,GSK Pharmaceuticals,Topical antibiotic for impetigo and bacterial skin lesions.
+MED0075,Cligel-N 1%+4%,Clindamycin + Nicotinamide,Cligel,Dermatologicals,Gel,1%+4%,Prescription,Glenmark Pharmaceuticals,Topical anti-acne gel reducing pimples and inflammation.
+MED0076,Calamine Lacto 120ml,Calamine + Light Kaolin,Lacto Calamine,Dermatologicals,Lotion,120ml,OTC,Piramal Pharma,"Soothing skin lotion for sunburn, rashes, and itching."
+MED0077,Quadriderm RF 10g,Beclomethasone + Neomycin + Clotrimazole,Quadriderm,Dermatologicals,Cream,10g,Prescription,MSD Pharmaceuticals,Broad-spectrum topical cream for mixed skin infections.
+MED0078,Ketocip Shampoo 2% w/v,Ketoconazole,Ketocip,Dermatologicals,Shampoo,2% w/v,OTC,Cipla Ltd,Medicated antifungal shampoo for dandruff and seborrheic dermatitis.
+MED0079,Melamet Cream 15g,Hydroquinone + Tretinoin + Mometasone,Melamet,Dermatologicals,Cream,15g,Prescription,Universal NutriScience,Depigmenting cream for melasma under dermatological supervision.
+MED0080,Silverex Ionic 0.2% w/w,Silver Nitrate,Silverex,Dermatologicals,Gel,0.2% w/w,OTC,Sun Pharma,Antimicrobial gel for burn wounds and skin ulcers.
+MED0081,Ecosprin 75mg,Aspirin,Ecosprin,Cardiovascular & Lipid Lowering,Tablet,75mg,Prescription,USV Ltd,Low-dose antiplatelet agent preventing heart attacks and strokes.
+MED0082,Atorva 10mg,Atorvastatin,Atorva,Cardiovascular & Lipid Lowering,Tablet,10mg,Prescription,Zydus Lifesciences,Statin medication to lower LDL cholesterol and triglycerides.
+MED0083,Rosuvas 5mg,Rosuvastatin,Rosuvas,Cardiovascular & Lipid Lowering,Tablet,5mg,Prescription,Sun Pharma,Potent lipid-lowering statin for dyslipidemia management.
+MED0084,Clopilet 75mg,Clopidogrel,Clopilet,Cardiovascular & Lipid Lowering,Tablet,75mg,Prescription,Sun Pharma,Antiplatelet blood thinner for coronary artery disease.
+MED0085,Ecosprin AV 75mg+10mg,Aspirin + Atorvastatin,Ecosprin,Cardiovascular & Lipid Lowering,Capsule,75mg+10mg,Prescription,USV Ltd,Dual cardiovascular preventive therapy combining statin and aspirin.
+MED0086,Sorbitrate 5mg,Isosorbide Dinitrate,Sorbitrate,Cardiovascular & Lipid Lowering,Tablet,5mg,Prescription,Abbott India,Sublingual vasodilator for acute angina chest pain.
+MED0087,Nikoran 5mg,Nicorandil,Nikoran,Cardiovascular & Lipid Lowering,Tablet,5mg,Prescription,Torrent Pharmaceuticals,Potassium channel activator for chronic stable angina.
+MED0088,Cardace 2.5mg,Ramipril,Cardace,Cardiovascular & Lipid Lowering,Tablet,2.5mg,Prescription,Sanofi India,ACE inhibitor improving survival post-myocardial infarction.
+MED0089,Lipikind 10mg,Atorvastatin,Lipikind,Cardiovascular & Lipid Lowering,Tablet,10mg,Prescription,Mankind Pharma,Reduces bad cholesterol and slows plaque buildup in arteries.
+MED0090,Rozucor 10mg,Rosuvastatin,Rozucor,Cardiovascular & Lipid Lowering,Tablet,10mg,Prescription,Torrent Pharmaceuticals,Controls hypercholesterolemia and reduces cardiovascular events.
+MED0091,Nexito 5mg,Escitalopram,Nexito,Neurology & Psychiatry,Tablet,5mg,Prescription,Sun Pharma,SSRI antidepressant prescribed for anxiety and major depressive disorder.
+MED0092,Gabapin NT 100mg+10mg,Gabapentin + Nortriptyline,Gabapin,Neurology & Psychiatry,Tablet,100mg+10mg,Prescription,Intas Pharmaceuticals,Treats diabetic neuropathy and chronic nerve pain.
+MED0093,Naxdom 250mg+10mg,Naproxen + Domperidone,Naxdom,Neurology & Psychiatry,Tablet,250mg+10mg,Prescription,Sun Pharma,Prevents and relieves acute migraine headaches and nausea.
+MED0094,Vertin 8mg,Betahistine,Vertin,Neurology & Psychiatry,Tablet,8mg,Prescription,Abbott India,"Treats vertigo, tinnitus, and Meniere's disease balance disorders."
+MED0095,Pregalin M 75mg+750mcg,Pregabalin + Methylcobalamin,Pregalin,Neurology & Psychiatry,Capsule,75mg+750mcg,Prescription,Torrent Pharmaceuticals,Supports nerve regeneration and relieves neuropathic pain.
+MED0096,Zapiz 0.25mg,Clonazepam,Zapiz,Neurology & Psychiatry,Tablet,0.25mg,Prescription,Intas Pharmaceuticals,Benzodiazepine for panic disorder and seizure management.
+MED0097,Zolfresh 5mg,Zolpidem,Zolfresh,Neurology & Psychiatry,Tablet,5mg,Prescription,Abbott India,Short-term treatment for acute insomnia and sleep onset.
+MED0098,Levipil 250mg,Levetiracetam,Levipil,Neurology & Psychiatry,Tablet,250mg,Prescription,Sun Pharma,Antiepileptic drug for focal and generalized seizures.
+MED0099,Sibelium 5mg,Flunarizine,Sibelium,Neurology & Psychiatry,Tablet,5mg,Prescription,Janssen Pharmaceuticals,Prophylactic medication to reduce migraine frequency.
+MED0100,Petril MD 0.5mg,Clonazepam,Petril,Neurology & Psychiatry,Tablet,0.5mg,Prescription,Micro Labs Ltd,Mouth-dissolving tablet for acute anxiety and epilepsy.
+MED0101,Dolo 650mg - Strip of 15,Paracetamol,Dolo,Analgesics & Antipyretics,Tablet,650mg,OTC,Micro Labs Ltd,Used for fever reduction and mild to moderate pain relief.
+MED0102,Calpol 250mg/5ml - Strip of 15,Paracetamol,Calpol,Analgesics & Antipyretics,Syrup,250mg/5ml,OTC,GSK Pharmaceuticals,Pediatric and adult antipyretic suspension for fever.
+MED0103,Combiflam 400mg+325mg - Strip of 15,Ibuprofen + Paracetamol,Combiflam,Analgesics & Antipyretics,Tablet,400mg+325mg,OTC,Sanofi India,Combination anti-inflammatory and analgesic for musculoskeletal pain.
+MED0104,Zerodol-P 100mg+325mg - Strip of 15,Aceclofenac + Paracetamol,Zerodol,Analgesics & Antipyretics,Tablet,100mg+325mg,Prescription,Ipca Laboratories,"Prescribed for joint pain, arthritis, and dental pain."
+MED0105,Voveran SR 100mg - Strip of 15,Diclofenac Sodium,Voveran,Analgesics & Antipyretics,Tablet,100mg,Prescription,Novartis India,Sustained release NSAID for acute inflammation and pain.
+MED0106,Ultracet 37.5mg+325mg - Strip of 15,Tramadol + Paracetamol,Ultracet,Analgesics & Antipyretics,Tablet,37.5mg+325mg,Prescription,Janssen Pharmaceuticals,Moderate to severe acute pain management.
+MED0107,Meftal-Spas 500mg+20mg - Strip of 15,Mefenamic Acid + Dicyclomine,Meftal,Analgesics & Antipyretics,Tablet,500mg+20mg,Prescription,Blue Cross Laboratories,Antispasmodic and analgesic for abdominal cramps.
+MED0108,Crocin Advance 650mg - Strip of 15,Paracetamol,Crocin,Analgesics & Antipyretics,Tablet,650mg,OTC,GSK Consumer Healthcare,Fast-release paracetamol for headache and body ache.
+MED0109,Nise 100mg - Strip of 15,Nimesulide,Nise,Analgesics & Antipyretics,Tablet,100mg,Prescription,Dr. Reddy's Laboratories,NSAID for acute pain and inflammatory conditions.
+MED0110,Flexon 400mg+325mg - Strip of 15,Ibuprofen + Paracetamol,Flexon,Analgesics & Antipyretics,Tablet,400mg+325mg,OTC,Aristo Pharmaceuticals,"Relieves toothache, muscle ache, and fever."
+MED0111,Augmentin Duo 1000mg - Strip of 15,Amoxicillin + Clavulanic Acid,Augmentin,Antibiotics,Tablet,1000mg,Prescription,GSK Pharmaceuticals,Broad-spectrum penicillin antibiotic for respiratory and skin infections.
+MED0112,Azithral 500mg - Strip of 15,Azithromycin,Azithral,Antibiotics,Tablet,500mg,Prescription,Alembic Pharmaceuticals,"Macrolide antibiotic for throat, sinus, and chest infections."
+MED0113,Taxim-O 200mg - Strip of 15,Cefixime,Taxim,Antibiotics,Tablet,200mg,Prescription,Alkem Laboratories,Third-generation cephalosporin for urinary and typhoid infections.
+MED0114,Cifran 500mg - Strip of 15,Ciprofloxacin,Cifran,Antibiotics,Tablet,500mg,Prescription,Sun Pharma,Fluoroquinolone antibiotic for bacterial gastroenteritis and UTIs.
+MED0115,Monocef-O 200mg - Strip of 15,Cefpodoxime Proxetil,Monocef,Antibiotics,Tablet,200mg,Prescription,Aristo Pharmaceuticals,Oral cephalosporin for respiratory tract infections.
+MED0116,Moxikind-CV 625mg - Strip of 15,Amoxicillin + Clavulanic Acid,Moxikind,Antibiotics,Tablet,625mg,Prescription,Mankind Pharma,"Treats bacterial ear, sinus, and lower respiratory infections."
+MED0117,Zifi 400mg - Strip of 15,Cefixime,Zifi,Antibiotics,Tablet,400mg,Prescription,FDC Ltd,Broad-spectrum antibiotic for uncomplicated bacterial infections.
+MED0118,Oflox 400mg - Strip of 15,Ofloxacin,Oflox,Antibiotics,Tablet,400mg,Prescription,Cipla Ltd,Antibiotic for gastrointestinal and urinary tract bacterial infections.
+MED0119,Doxy-1 L-DR 100mg - Strip of 15,Doxycycline,Doxy-1,Antibiotics,Capsule,100mg,Prescription,USV Ltd,Tetracycline antibiotic for acne and atypical respiratory infections.
+MED0120,Metrogyl 400mg - Strip of 15,Metronidazole,Metrogyl,Antibiotics,Tablet,400mg,Prescription,JB Chemicals,Antiprotozoal and anaerobic antibacterial agent.
+MED0121,Glycomet-GP 2mg+500mg - Strip of 15,Glimepiride + Metformin,Glycomet,Antidiabetics,Tablet,2mg+500mg,Prescription,USV Ltd,Dual therapy for glycemic control in Type 2 diabetes mellitus.
+MED0122,Janumet 50mg+1000mg - Strip of 15,Sitagliptin + Metformin,Janumet,Antidiabetics,Tablet,50mg+1000mg,Prescription,MSD Pharmaceuticals,DPP-4 inhibitor combination to improve insulin response.
+MED0123,Galvus Met 50mg+850mg - Strip of 15,Vildagliptin + Metformin,Galvus,Antidiabetics,Tablet,50mg+850mg,Prescription,Novartis India,Controls fasting and post-meal blood sugar in Type 2 diabetes.
+MED0124,Lantus Solostar 100IU/ml - Strip of 15,Insulin Glargine,Lantus,Antidiabetics,Injection,100IU/ml,Prescription,Sanofi India,Long-acting basal insulin analog for 24-hour blood glucose control.
+MED0125,Jardiance 25mg - Strip of 15,Empagliflozin,Jardiance,Antidiabetics,Tablet,25mg,Prescription,Boehringer Ingelheim,SGLT2 inhibitor aiding glucose excretion and cardiovascular protection.
+MED0126,Glycomet SR 1000mg - Strip of 15,Metformin,Glycomet,Antidiabetics,Tablet,1000mg,Prescription,USV Ltd,First-line sustained-release oral antidiabetic medication.
+MED0127,Amaryl 2mg - Strip of 15,Glimepiride,Amaryl,Antidiabetics,Tablet,2mg,Prescription,Sanofi India,Sulfonylurea stimulating pancreatic insulin release.
+MED0128,Istamet 50mg+1000mg - Strip of 15,Sitagliptin + Metformin,Istamet,Antidiabetics,Tablet,50mg+1000mg,Prescription,Sun Pharma,Oral antihyperglycemic combination for Type 2 diabetes.
+MED0129,Mixtard 30 40IU/ml - Strip of 15,Human Insulin,Mixtard,Antidiabetics,Injection,40IU/ml,Prescription,Novo Nordisk,Biphasic insulin suspension for mealtime and basal glycemic control.
+MED0130,Teneligliptin Zita 20mg - Strip of 15,Teneligliptin,Zita,Antidiabetics,Tablet,20mg,Prescription,Glenmark Pharmaceuticals,DPP-4 inhibitor for blood glucose regulation.
+MED0131,Telma 40mg - Strip of 15,Telmisartan,Telma,Antihypertensives,Tablet,40mg,Prescription,Glenmark Pharmaceuticals,Angiotensin II receptor blocker (ARB) for hypertension.
+MED0132,Telma-H 40mg+12.5mg - Strip of 15,Telmisartan + Hydrochlorothiazide,Telma,Antihypertensives,Tablet,40mg+12.5mg,Prescription,Glenmark Pharmaceuticals,ARB and diuretic combination for uncontrolled hypertension.
+MED0133,Amlokind-AT 5mg+50mg - Strip of 15,Amlodipine + Atenolol,Amlokind,Antihypertensives,Tablet,5mg+50mg,Prescription,Mankind Pharma,Calcium channel blocker and beta-blocker for blood pressure.
+MED0134,Stamlo 5mg - Strip of 15,Amlodipine,Stamlo,Antihypertensives,Tablet,5mg,Prescription,Dr. Reddy's Laboratories,Relaxes blood vessels to lower blood pressure and angina.
+MED0135,Concor 5mg - Strip of 15,Bisoprolol,Concor,Antihypertensives,Tablet,5mg,Prescription,Merck Ltd,Cardioselective beta-blocker for hypertension and heart failure.
+MED0136,Met XL 50mg - Strip of 15,Metoprolol Succinate,Met XL,Antihypertensives,Tablet,50mg,Prescription,Ajanta Pharma,Extended-release beta-blocker for blood pressure and arrhythmia.
+MED0137,Olmezest 40mg - Strip of 15,Olmesartan Medoxomil,Olmezest,Antihypertensives,Tablet,40mg,Prescription,Sun Pharma,ARB antihypertensive for sustained blood pressure reduction.
+MED0138,Losar 50mg - Strip of 15,Losartan Potassium,Losar,Antihypertensives,Tablet,50mg,Prescription,Unichem Laboratories,Protects kidneys and reduces blood pressure in hypertensive patients.
+MED0139,Arkamin 100mcg - Strip of 15,Clonidine,Arkamin,Antihypertensives,Tablet,100mcg,Prescription,Torrent Pharmaceuticals,Centrally acting alpha-agonist for resistant hypertension.
+MED0140,Dytor 20mg - Strip of 15,Torasemide,Dytor,Antihypertensives,Tablet,20mg,Prescription,Cipla Ltd,Loop diuretic for fluid retention and hypertension.
+MED0141,Pan-D 40mg+30mg - Strip of 15,Pantoprazole + Domperidone,Pan,Gastrointestinal,Capsule,40mg+30mg,Prescription,Alkem Laboratories,Proton pump inhibitor and prokinetic for GERD and acid reflux.
+MED0142,Pan 40 40mg - Strip of 15,Pantoprazole,Pan,Gastrointestinal,Tablet,40mg,Prescription,Alkem Laboratories,Reduces stomach acid production in gastritis and peptic ulcers.
+MED0143,Omez 20mg - Strip of 15,Omeprazole,Omez,Gastrointestinal,Capsule,20mg,OTC,Dr. Reddy's Laboratories,"Relieves heartburn, acid indigestion, and sour stomach."
+MED0144,Digene Gel 200ml - Strip of 15,Magnesium Hydroxide + Simethicone,Digene,Gastrointestinal,Syrup,200ml,OTC,Abbott India,Antacid and anti-flatulent suspension for quick acidity relief.
+MED0145,Rantac 300mg - Strip of 15,Ranitidine,Rantac,Gastrointestinal,Tablet,300mg,OTC,JB Chemicals,H2 receptor blocker for heartburn and hyperacidity.
+MED0146,Ondem 8mg - Strip of 15,Ondansetron,Ondem,Gastrointestinal,Tablet,8mg,Prescription,Alkem Laboratories,Antiemetic medication to prevent nausea and vomiting.
+MED0147,Cremaffin Plus 225ml - Strip of 15,Liquid Paraffin + Milk of Magnesia,Cremaffin,Gastrointestinal,Syrup,225ml,OTC,Abbott India,Gentle osmotic and lubricant laxative for constipation.
+MED0148,Econorm 250mg - Strip of 15,Saccharomyces boulardii,Econorm,Gastrointestinal,Sachet,250mg,OTC,Dr. Reddy's Laboratories,Probiotic yeast supplement for acute infectious diarrhea.
+MED0149,Udapa / Udiliv 300mg - Strip of 15,Ursodeoxycholic Acid,Udiliv,Gastrointestinal,Tablet,300mg,Prescription,Abbott India,Hepatoprotective bile acid for gallstones and fatty liver.
+MED0150,Gaviscon 150ml - Strip of 15,Sodium Alginate + Sodium Bicarbonate,Gaviscon,Gastrointestinal,Syrup,150ml,OTC,Reckitt Benckiser,Forms protective raft against gastroesophageal reflux.
+MED0151,Montair LC 10mg+5mg - Strip of 15,Montelukast + Levocetirizine,Montair,Respiratory & Anti-Allergics,Tablet,10mg+5mg,Prescription,Cipla Ltd,"Treats allergic rhinitis, sneezing, and seasonal asthma."
+MED0152,Allegra 180mg - Strip of 15,Fexofenadine,Allegra,Respiratory & Anti-Allergics,Tablet,180mg,OTC,Sanofi India,Non-drowsy antihistamine for hay fever and urticaria.
+MED0153,Cetrizine Okacet 10mg - Strip of 15,Cetirizine,Okacet,Respiratory & Anti-Allergics,Tablet,10mg,OTC,Cipla Ltd,"Relieves watery eyes, runny nose, and skin itching."
+MED0154,Asthalin Inhaler 100mcg - Strip of 15,Salbutamol,Asthalin,Respiratory & Anti-Allergics,Inhaler,100mcg,Prescription,Cipla Ltd,Fast-acting bronchodilator for acute asthma bronchospasm.
+MED0155,Foracort Inhaler 400mcg - Strip of 15,Formoterol + Budesonide,Foracort,Respiratory & Anti-Allergics,Inhaler,400mcg,Prescription,Cipla Ltd,Maintenance inhaler for asthma and COPD airway inflammation.
+MED0156,Benadryl Cough 150ml - Strip of 15,Diphenhydramine + Ammonium Chloride,Benadryl,Respiratory & Anti-Allergics,Syrup,150ml,OTC,Johnson & Johnson,Relieves productive and allergic cough and throat irritation.
+MED0157,Ascoril LS 100ml - Strip of 15,Levosalbutamol + Ambroxol + Guaifenesin,Ascoril,Respiratory & Anti-Allergics,Syrup,100ml,Prescription,Glenmark Pharmaceuticals,Mucolytic and bronchodilator expectorant for wet cough.
+MED0158,Otrivin Oxy 0.05% - Strip of 15,Oxymetazoline,Otrivin,Respiratory & Anti-Allergics,Drops,0.05%,OTC,GSK Consumer Healthcare,Nasal decongestant drops for blocked nose relief.
+MED0159,Sinarest New 500mg+10mg+2mg - Strip of 15,Paracetamol + Phenylephrine + Chlorpheniramine,Sinarest,Respiratory & Anti-Allergics,Tablet,500mg+10mg+2mg,OTC,Centaur Pharmaceuticals,"Multi-symptom relief for common cold, sinusitis, and headache."
+MED0160,Budecort Respules 0.5mg/2ml - Strip of 15,Budesonide,Budecort,Respiratory & Anti-Allergics,Suspension,0.5mg/2ml,Prescription,Cipla Ltd,Nebulizer corticosteroid suspension for pediatric and adult asthma.
+MED0161,Shelcal 500 500mg+250IU - Strip of 15,Calcium + Vitamin D3,Shelcal,Vitamins & Supplements,Tablet,500mg+250IU,OTC,Torrent Pharmaceuticals,"Supports bone density, calcium absorption, and joint strength."
+MED0162,Becosules Z Standard - Strip of 15,B-Complex + Vitamin C + Zinc,Becosules,Vitamins & Supplements,Capsule,Standard,OTC,Pfizer Ltd,"Boosts immunity, energy metabolism, and tissue repair."
+MED0163,Limcee 500mg - Strip of 15,Vitamin C (Ascorbic Acid),Limcee,Vitamins & Supplements,Tablet,500mg,OTC,Abbott India,Chewable antioxidant supplement for immune defense.
+MED0164,Neurobion Forte Standard - Strip of 15,Vitamin B1 + B2 + B3 + B6 + B12,Neurobion,Vitamins & Supplements,Tablet,Standard,OTC,Procter & Gamble Health,Supports nerve health and relieves tingling or numbness.
+MED0165,Uprise-D3 60000IU - Strip of 15,Cholecalciferol (Vitamin D3),Uprise,Vitamins & Supplements,Capsule,60000IU,OTC,Alkem Laboratories,Weekly high-dose Vitamin D3 supplement for deficiency.
+MED0166,Zincovit Standard - Strip of 15,Multivitamins + Multiminerals + Grape Seed,Zincovit,Vitamins & Supplements,Tablet,Standard,OTC,Apex Laboratories,Daily nutritional supplement for general wellness and recovery.
+MED0167,Evion 400mg - Strip of 15,Vitamin E (Tocopheryl Acetate),Evion,Vitamins & Supplements,Capsule,400mg,OTC,Procter & Gamble Health,"Antioxidant supporting skin, hair, and muscle health."
+MED0168,Autrin Standard - Strip of 15,Ferrous Fumarate + Folic Acid + B12,Autrin,Vitamins & Supplements,Capsule,Standard,OTC,Pfizer Ltd,Hematinic supplement for iron deficiency anemia.
+MED0169,Supradyn Daily Standard - Strip of 15,Multivitamin + Trace Elements,Supradyn,Vitamins & Supplements,Tablet,Standard,OTC,Bayer Zydus Pharma,Comprehensive daily vitality and micronutrient tablet.
+MED0170,Livogen-Z Standard - Strip of 15,Ferrous Fumarate + Folic Acid + Zinc,Livogen,Vitamins & Supplements,Tablet,Standard,OTC,Procter & Gamble Health,Iron and folic acid supplement for pregnancy and anemia.
+MED0171,Betadine Ointment 10% w/w - Strip of 15,Povidone-Iodine,Betadine,Dermatologicals,Ointment,10% w/w,OTC,Win-Medicare,"Topical antiseptic for minor cuts, wounds, and burns."
+MED0172,Candid-B Cream 30g - Strip of 15,Clotrimazole + Beclomethasone,Candid,Dermatologicals,Cream,30g,Prescription,Glenmark Pharmaceuticals,Antifungal and anti-inflammatory cream for fungal skin infections.
+MED0173,Soframycin Skin 1% w/w - Strip of 15,Framycetin,Soframycin,Dermatologicals,Cream,1% w/w,OTC,Sanofi India,Topical antibacterial cream for minor skin infections and boils.
+MED0174,T-Bact Ointment 2% w/w - Strip of 15,Mupirocin,T-Bact,Dermatologicals,Ointment,2% w/w,Prescription,GSK Pharmaceuticals,Topical antibiotic for impetigo and bacterial skin lesions.
+MED0175,Cligel-N 1%+4% - Strip of 15,Clindamycin + Nicotinamide,Cligel,Dermatologicals,Gel,1%+4%,Prescription,Glenmark Pharmaceuticals,Topical anti-acne gel reducing pimples and inflammation.
+MED0176,Calamine Lacto 120ml - Strip of 15,Calamine + Light Kaolin,Lacto Calamine,Dermatologicals,Lotion,120ml,OTC,Piramal Pharma,"Soothing skin lotion for sunburn, rashes, and itching."
+MED0177,Quadriderm RF 10g - Strip of 15,Beclomethasone + Neomycin + Clotrimazole,Quadriderm,Dermatologicals,Cream,10g,Prescription,MSD Pharmaceuticals,Broad-spectrum topical cream for mixed skin infections.
+MED0178,Ketocip Shampoo 2% w/v - Strip of 15,Ketoconazole,Ketocip,Dermatologicals,Shampoo,2% w/v,OTC,Cipla Ltd,Medicated antifungal shampoo for dandruff and seborrheic dermatitis.
+MED0179,Melamet Cream 15g - Strip of 15,Hydroquinone + Tretinoin + Mometasone,Melamet,Dermatologicals,Cream,15g,Prescription,Universal NutriScience,Depigmenting cream for melasma under dermatological supervision.
+MED0180,Silverex Ionic 0.2% w/w - Strip of 15,Silver Nitrate,Silverex,Dermatologicals,Gel,0.2% w/w,OTC,Sun Pharma,Antimicrobial gel for burn wounds and skin ulcers.
+MED0181,Ecosprin 150mg - Strip of 15,Aspirin,Ecosprin,Cardiovascular & Lipid Lowering,Tablet,150mg,Prescription,USV Ltd,Low-dose antiplatelet agent preventing heart attacks and strokes.
+MED0182,Atorva 20mg - Strip of 15,Atorvastatin,Atorva,Cardiovascular & Lipid Lowering,Tablet,20mg,Prescription,Zydus Lifesciences,Statin medication to lower LDL cholesterol and triglycerides.
+MED0183,Rosuvas 10mg - Strip of 15,Rosuvastatin,Rosuvas,Cardiovascular & Lipid Lowering,Tablet,10mg,Prescription,Sun Pharma,Potent lipid-lowering statin for dyslipidemia management.
+MED0184,Clopilet 75mg - Strip of 15,Clopidogrel,Clopilet,Cardiovascular & Lipid Lowering,Tablet,75mg,Prescription,Sun Pharma,Antiplatelet blood thinner for coronary artery disease.
+MED0185,Ecosprin AV 75mg+20mg - Strip of 15,Aspirin + Atorvastatin,Ecosprin,Cardiovascular & Lipid Lowering,Capsule,75mg+20mg,Prescription,USV Ltd,Dual cardiovascular preventive therapy combining statin and aspirin.
+MED0186,Sorbitrate 10mg - Strip of 15,Isosorbide Dinitrate,Sorbitrate,Cardiovascular & Lipid Lowering,Tablet,10mg,Prescription,Abbott India,Sublingual vasodilator for acute angina chest pain.
+MED0187,Nikoran 10mg - Strip of 15,Nicorandil,Nikoran,Cardiovascular & Lipid Lowering,Tablet,10mg,Prescription,Torrent Pharmaceuticals,Potassium channel activator for chronic stable angina.
+MED0188,Cardace 5mg - Strip of 15,Ramipril,Cardace,Cardiovascular & Lipid Lowering,Tablet,5mg,Prescription,Sanofi India,ACE inhibitor improving survival post-myocardial infarction.
+MED0189,Lipikind 20mg - Strip of 15,Atorvastatin,Lipikind,Cardiovascular & Lipid Lowering,Tablet,20mg,Prescription,Mankind Pharma,Reduces bad cholesterol and slows plaque buildup in arteries.
+MED0190,Rozucor 20mg - Strip of 15,Rosuvastatin,Rozucor,Cardiovascular & Lipid Lowering,Tablet,20mg,Prescription,Torrent Pharmaceuticals,Controls hypercholesterolemia and reduces cardiovascular events.
+MED0191,Nexito 10mg - Strip of 15,Escitalopram,Nexito,Neurology & Psychiatry,Tablet,10mg,Prescription,Sun Pharma,SSRI antidepressant prescribed for anxiety and major depressive disorder.
+MED0192,Gabapin NT 400mg+10mg - Strip of 15,Gabapentin + Nortriptyline,Gabapin,Neurology & Psychiatry,Tablet,400mg+10mg,Prescription,Intas Pharmaceuticals,Treats diabetic neuropathy and chronic nerve pain.
+MED0193,Naxdom 500mg+10mg - Strip of 15,Naproxen + Domperidone,Naxdom,Neurology & Psychiatry,Tablet,500mg+10mg,Prescription,Sun Pharma,Prevents and relieves acute migraine headaches and nausea.
+MED0194,Vertin 16mg - Strip of 15,Betahistine,Vertin,Neurology & Psychiatry,Tablet,16mg,Prescription,Abbott India,"Treats vertigo, tinnitus, and Meniere's disease balance disorders."
+MED0195,Pregalin M 75mg+750mcg - Strip of 15,Pregabalin + Methylcobalamin,Pregalin,Neurology & Psychiatry,Capsule,75mg+750mcg,Prescription,Torrent Pharmaceuticals,Supports nerve regeneration and relieves neuropathic pain.
+MED0196,Zapiz 0.5mg - Strip of 15,Clonazepam,Zapiz,Neurology & Psychiatry,Tablet,0.5mg,Prescription,Intas Pharmaceuticals,Benzodiazepine for panic disorder and seizure management.
+MED0197,Zolfresh 10mg - Strip of 15,Zolpidem,Zolfresh,Neurology & Psychiatry,Tablet,10mg,Prescription,Abbott India,Short-term treatment for acute insomnia and sleep onset.
+MED0198,Levipil 500mg - Strip of 15,Levetiracetam,Levipil,Neurology & Psychiatry,Tablet,500mg,Prescription,Sun Pharma,Antiepileptic drug for focal and generalized seizures.
+MED0199,Sibelium 10mg - Strip of 15,Flunarizine,Sibelium,Neurology & Psychiatry,Tablet,10mg,Prescription,Janssen Pharmaceuticals,Prophylactic medication to reduce migraine frequency.
+MED0200,Petril MD 0.25mg - Bottle,Clonazepam,Petril,Neurology & Psychiatry,Tablet,0.25mg,Prescription,Micro Labs Ltd,Mouth-dissolving tablet for acute anxiety and epilepsy.
+MED0201,Dolo 500mg - Bottle,Paracetamol,Dolo,Analgesics & Antipyretics,Tablet,500mg,OTC,Micro Labs Ltd,Used for fever reduction and mild to moderate pain relief.
+MED0202,Calpol 120mg/5ml - Bottle,Paracetamol,Calpol,Analgesics & Antipyretics,Syrup,120mg/5ml,OTC,GSK Pharmaceuticals,Pediatric and adult antipyretic suspension for fever.
+MED0203,Combiflam 400mg+325mg - Bottle,Ibuprofen + Paracetamol,Combiflam,Analgesics & Antipyretics,Tablet,400mg+325mg,OTC,Sanofi India,Combination anti-inflammatory and analgesic for musculoskeletal pain.
+MED0204,Zerodol-P 100mg+325mg - Bottle,Aceclofenac + Paracetamol,Zerodol,Analgesics & Antipyretics,Tablet,100mg+325mg,Prescription,Ipca Laboratories,"Prescribed for joint pain, arthritis, and dental pain."
+MED0205,Voveran SR 50mg - Bottle,Diclofenac Sodium,Voveran,Analgesics & Antipyretics,Tablet,50mg,Prescription,Novartis India,Sustained release NSAID for acute inflammation and pain.
+MED0206,Ultracet 37.5mg+325mg - Bottle,Tramadol + Paracetamol,Ultracet,Analgesics & Antipyretics,Tablet,37.5mg+325mg,Prescription,Janssen Pharmaceuticals,Moderate to severe acute pain management.
+MED0207,Meftal-Spas 250mg+10mg - Bottle,Mefenamic Acid + Dicyclomine,Meftal,Analgesics & Antipyretics,Tablet,250mg+10mg,Prescription,Blue Cross Laboratories,Antispasmodic and analgesic for abdominal cramps.
+MED0208,Crocin Advance 500mg - Bottle,Paracetamol,Crocin,Analgesics & Antipyretics,Tablet,500mg,OTC,GSK Consumer Healthcare,Fast-release paracetamol for headache and body ache.
+MED0209,Nise 100mg - Bottle,Nimesulide,Nise,Analgesics & Antipyretics,Tablet,100mg,Prescription,Dr. Reddy's Laboratories,NSAID for acute pain and inflammatory conditions.
+MED0210,Flexon 400mg+325mg - Bottle,Ibuprofen + Paracetamol,Flexon,Analgesics & Antipyretics,Tablet,400mg+325mg,OTC,Aristo Pharmaceuticals,"Relieves toothache, muscle ache, and fever."
+MED0211,Augmentin Duo 625mg - Bottle,Amoxicillin + Clavulanic Acid,Augmentin,Antibiotics,Tablet,625mg,Prescription,GSK Pharmaceuticals,Broad-spectrum penicillin antibiotic for respiratory and skin infections.
+MED0212,Azithral 250mg - Bottle,Azithromycin,Azithral,Antibiotics,Tablet,250mg,Prescription,Alembic Pharmaceuticals,"Macrolide antibiotic for throat, sinus, and chest infections."
+MED0213,Taxim-O 100mg - Bottle,Cefixime,Taxim,Antibiotics,Tablet,100mg,Prescription,Alkem Laboratories,Third-generation cephalosporin for urinary and typhoid infections.
+MED0214,Cifran 250mg - Bottle,Ciprofloxacin,Cifran,Antibiotics,Tablet,250mg,Prescription,Sun Pharma,Fluoroquinolone antibiotic for bacterial gastroenteritis and UTIs.
+MED0215,Monocef-O 100mg - Bottle,Cefpodoxime Proxetil,Monocef,Antibiotics,Tablet,100mg,Prescription,Aristo Pharmaceuticals,Oral cephalosporin for respiratory tract infections.
+MED0216,Moxikind-CV 375mg - Bottle,Amoxicillin + Clavulanic Acid,Moxikind,Antibiotics,Tablet,375mg,Prescription,Mankind Pharma,"Treats bacterial ear, sinus, and lower respiratory infections."
+MED0217,Zifi 200mg - Bottle,Cefixime,Zifi,Antibiotics,Tablet,200mg,Prescription,FDC Ltd,Broad-spectrum antibiotic for uncomplicated bacterial infections.
+MED0218,Oflox 200mg - Bottle,Ofloxacin,Oflox,Antibiotics,Tablet,200mg,Prescription,Cipla Ltd,Antibiotic for gastrointestinal and urinary tract bacterial infections.
+MED0219,Doxy-1 L-DR 100mg - Bottle,Doxycycline,Doxy-1,Antibiotics,Capsule,100mg,Prescription,USV Ltd,Tetracycline antibiotic for acne and atypical respiratory infections.
+MED0220,Metrogyl 200mg - Bottle,Metronidazole,Metrogyl,Antibiotics,Tablet,200mg,Prescription,JB Chemicals,Antiprotozoal and anaerobic antibacterial agent.
+MED0221,Glycomet-GP 1mg+500mg - Bottle,Glimepiride + Metformin,Glycomet,Antidiabetics,Tablet,1mg+500mg,Prescription,USV Ltd,Dual therapy for glycemic control in Type 2 diabetes mellitus.
+MED0222,Janumet 50mg+500mg - Bottle,Sitagliptin + Metformin,Janumet,Antidiabetics,Tablet,50mg+500mg,Prescription,MSD Pharmaceuticals,DPP-4 inhibitor combination to improve insulin response.
+MED0223,Galvus Met 50mg+500mg - Bottle,Vildagliptin + Metformin,Galvus,Antidiabetics,Tablet,50mg+500mg,Prescription,Novartis India,Controls fasting and post-meal blood sugar in Type 2 diabetes.
+MED0224,Lantus Solostar 100IU/ml - Bottle,Insulin Glargine,Lantus,Antidiabetics,Injection,100IU/ml,Prescription,Sanofi India,Long-acting basal insulin analog for 24-hour blood glucose control.
+MED0225,Jardiance 10mg - Bottle,Empagliflozin,Jardiance,Antidiabetics,Tablet,10mg,Prescription,Boehringer Ingelheim,SGLT2 inhibitor aiding glucose excretion and cardiovascular protection.
+MED0226,Glycomet SR 500mg - Bottle,Metformin,Glycomet,Antidiabetics,Tablet,500mg,Prescription,USV Ltd,First-line sustained-release oral antidiabetic medication.
+MED0227,Amaryl 1mg - Bottle,Glimepiride,Amaryl,Antidiabetics,Tablet,1mg,Prescription,Sanofi India,Sulfonylurea stimulating pancreatic insulin release.
+MED0228,Istamet 50mg+500mg - Bottle,Sitagliptin + Metformin,Istamet,Antidiabetics,Tablet,50mg+500mg,Prescription,Sun Pharma,Oral antihyperglycemic combination for Type 2 diabetes.
+MED0229,Mixtard 30 40IU/ml - Bottle,Human Insulin,Mixtard,Antidiabetics,Injection,40IU/ml,Prescription,Novo Nordisk,Biphasic insulin suspension for mealtime and basal glycemic control.
+MED0230,Teneligliptin Zita 20mg - Bottle,Teneligliptin,Zita,Antidiabetics,Tablet,20mg,Prescription,Glenmark Pharmaceuticals,DPP-4 inhibitor for blood glucose regulation.
+MED0231,Telma 80mg - Bottle,Telmisartan,Telma,Antihypertensives,Tablet,80mg,Prescription,Glenmark Pharmaceuticals,Angiotensin II receptor blocker (ARB) for hypertension.
+MED0232,Telma-H 40mg+12.5mg - Bottle,Telmisartan + Hydrochlorothiazide,Telma,Antihypertensives,Tablet,40mg+12.5mg,Prescription,Glenmark Pharmaceuticals,ARB and diuretic combination for uncontrolled hypertension.
+MED0233,Amlokind-AT 5mg+50mg - Bottle,Amlodipine + Atenolol,Amlokind,Antihypertensives,Tablet,5mg+50mg,Prescription,Mankind Pharma,Calcium channel blocker and beta-blocker for blood pressure.
+MED0234,Stamlo 10mg - Bottle,Amlodipine,Stamlo,Antihypertensives,Tablet,10mg,Prescription,Dr. Reddy's Laboratories,Relaxes blood vessels to lower blood pressure and angina.
+MED0235,Concor 2.5mg - Bottle,Bisoprolol,Concor,Antihypertensives,Tablet,2.5mg,Prescription,Merck Ltd,Cardioselective beta-blocker for hypertension and heart failure.
+MED0236,Met XL 25mg - Bottle,Metoprolol Succinate,Met XL,Antihypertensives,Tablet,25mg,Prescription,Ajanta Pharma,Extended-release beta-blocker for blood pressure and arrhythmia.
+MED0237,Olmezest 20mg - Bottle,Olmesartan Medoxomil,Olmezest,Antihypertensives,Tablet,20mg,Prescription,Sun Pharma,ARB antihypertensive for sustained blood pressure reduction.
+MED0238,Losar 25mg - Bottle,Losartan Potassium,Losar,Antihypertensives,Tablet,25mg,Prescription,Unichem Laboratories,Protects kidneys and reduces blood pressure in hypertensive patients.
+MED0239,Arkamin 100mcg - Bottle,Clonidine,Arkamin,Antihypertensives,Tablet,100mcg,Prescription,Torrent Pharmaceuticals,Centrally acting alpha-agonist for resistant hypertension.
+MED0240,Dytor 10mg - Bottle,Torasemide,Dytor,Antihypertensives,Tablet,10mg,Prescription,Cipla Ltd,Loop diuretic for fluid retention and hypertension.
+MED0241,Pan-D 40mg+30mg - Bottle,Pantoprazole + Domperidone,Pan,Gastrointestinal,Capsule,40mg+30mg,Prescription,Alkem Laboratories,Proton pump inhibitor and prokinetic for GERD and acid reflux.
+MED0242,Pan 40 40mg - Bottle,Pantoprazole,Pan,Gastrointestinal,Tablet,40mg,Prescription,Alkem Laboratories,Reduces stomach acid production in gastritis and peptic ulcers.
+MED0243,Omez 20mg - Bottle,Omeprazole,Omez,Gastrointestinal,Capsule,20mg,OTC,Dr. Reddy's Laboratories,"Relieves heartburn, acid indigestion, and sour stomach."
+MED0244,Digene Gel 200ml - Bottle,Magnesium Hydroxide + Simethicone,Digene,Gastrointestinal,Syrup,200ml,OTC,Abbott India,Antacid and anti-flatulent suspension for quick acidity relief.
+MED0245,Rantac 150mg - Bottle,Ranitidine,Rantac,Gastrointestinal,Tablet,150mg,OTC,JB Chemicals,H2 receptor blocker for heartburn and hyperacidity.
+MED0246,Ondem 4mg - Bottle,Ondansetron,Ondem,Gastrointestinal,Tablet,4mg,Prescription,Alkem Laboratories,Antiemetic medication to prevent nausea and vomiting.
+MED0247,Cremaffin Plus 225ml - Bottle,Liquid Paraffin + Milk of Magnesia,Cremaffin,Gastrointestinal,Syrup,225ml,OTC,Abbott India,Gentle osmotic and lubricant laxative for constipation.
+MED0248,Econorm 250mg - Bottle,Saccharomyces boulardii,Econorm,Gastrointestinal,Sachet,250mg,OTC,Dr. Reddy's Laboratories,Probiotic yeast supplement for acute infectious diarrhea.
+MED0249,Udapa / Udiliv 150mg - Bottle,Ursodeoxycholic Acid,Udiliv,Gastrointestinal,Tablet,150mg,Prescription,Abbott India,Hepatoprotective bile acid for gallstones and fatty liver.
+MED0250,Gaviscon 150ml - Bottle,Sodium Alginate + Sodium Bicarbonate,Gaviscon,Gastrointestinal,Syrup,150ml,OTC,Reckitt Benckiser,Forms protective raft against gastroesophageal reflux.
+MED0251,Montair LC 10mg+5mg - Bottle,Montelukast + Levocetirizine,Montair,Respiratory & Anti-Allergics,Tablet,10mg+5mg,Prescription,Cipla Ltd,"Treats allergic rhinitis, sneezing, and seasonal asthma."
+MED0252,Allegra 120mg - Bottle,Fexofenadine,Allegra,Respiratory & Anti-Allergics,Tablet,120mg,OTC,Sanofi India,Non-drowsy antihistamine for hay fever and urticaria.
+MED0253,Cetrizine Okacet 10mg - Bottle,Cetirizine,Okacet,Respiratory & Anti-Allergics,Tablet,10mg,OTC,Cipla Ltd,"Relieves watery eyes, runny nose, and skin itching."
+MED0254,Asthalin Inhaler 100mcg - Bottle,Salbutamol,Asthalin,Respiratory & Anti-Allergics,Inhaler,100mcg,Prescription,Cipla Ltd,Fast-acting bronchodilator for acute asthma bronchospasm.
+MED0255,Foracort Inhaler 200mcg - Bottle,Formoterol + Budesonide,Foracort,Respiratory & Anti-Allergics,Inhaler,200mcg,Prescription,Cipla Ltd,Maintenance inhaler for asthma and COPD airway inflammation.
+MED0256,Benadryl Cough 150ml - Bottle,Diphenhydramine + Ammonium Chloride,Benadryl,Respiratory & Anti-Allergics,Syrup,150ml,OTC,Johnson & Johnson,Relieves productive and allergic cough and throat irritation.
+MED0257,Ascoril LS 100ml - Bottle,Levosalbutamol + Ambroxol + Guaifenesin,Ascoril,Respiratory & Anti-Allergics,Syrup,100ml,Prescription,Glenmark Pharmaceuticals,Mucolytic and bronchodilator expectorant for wet cough.
+MED0258,Otrivin Oxy 0.05% - Bottle,Oxymetazoline,Otrivin,Respiratory & Anti-Allergics,Drops,0.05%,OTC,GSK Consumer Healthcare,Nasal decongestant drops for blocked nose relief.
+MED0259,Sinarest New 500mg+10mg+2mg - Bottle,Paracetamol + Phenylephrine + Chlorpheniramine,Sinarest,Respiratory & Anti-Allergics,Tablet,500mg+10mg+2mg,OTC,Centaur Pharmaceuticals,"Multi-symptom relief for common cold, sinusitis, and headache."
+MED0260,Budecort Respules 0.5mg/2ml - Bottle,Budesonide,Budecort,Respiratory & Anti-Allergics,Suspension,0.5mg/2ml,Prescription,Cipla Ltd,Nebulizer corticosteroid suspension for pediatric and adult asthma.
+MED0261,Shelcal 500 500mg+250IU - Bottle,Calcium + Vitamin D3,Shelcal,Vitamins & Supplements,Tablet,500mg+250IU,OTC,Torrent Pharmaceuticals,"Supports bone density, calcium absorption, and joint strength."
+MED0262,Becosules Z Standard - Bottle,B-Complex + Vitamin C + Zinc,Becosules,Vitamins & Supplements,Capsule,Standard,OTC,Pfizer Ltd,"Boosts immunity, energy metabolism, and tissue repair."
+MED0263,Limcee 500mg - Bottle,Vitamin C (Ascorbic Acid),Limcee,Vitamins & Supplements,Tablet,500mg,OTC,Abbott India,Chewable antioxidant supplement for immune defense.
+MED0264,Neurobion Forte Standard - Bottle,Vitamin B1 + B2 + B3 + B6 + B12,Neurobion,Vitamins & Supplements,Tablet,Standard,OTC,Procter & Gamble Health,Supports nerve health and relieves tingling or numbness.
+MED0265,Uprise-D3 60000IU - Bottle,Cholecalciferol (Vitamin D3),Uprise,Vitamins & Supplements,Capsule,60000IU,OTC,Alkem Laboratories,Weekly high-dose Vitamin D3 supplement for deficiency.
+MED0266,Zincovit Standard - Bottle,Multivitamins + Multiminerals + Grape Seed,Zincovit,Vitamins & Supplements,Tablet,Standard,OTC,Apex Laboratories,Daily nutritional supplement for general wellness and recovery.
+MED0267,Evion 200mg - Bottle,Vitamin E (Tocopheryl Acetate),Evion,Vitamins & Supplements,Capsule,200mg,OTC,Procter & Gamble Health,"Antioxidant supporting skin, hair, and muscle health."
+MED0268,Autrin Standard - Bottle,Ferrous Fumarate + Folic Acid + B12,Autrin,Vitamins & Supplements,Capsule,Standard,OTC,Pfizer Ltd,Hematinic supplement for iron deficiency anemia.
+MED0269,Supradyn Daily Standard - Bottle,Multivitamin + Trace Elements,Supradyn,Vitamins & Supplements,Tablet,Standard,OTC,Bayer Zydus Pharma,Comprehensive daily vitality and micronutrient tablet.
+MED0270,Livogen-Z Standard - Bottle,Ferrous Fumarate + Folic Acid + Zinc,Livogen,Vitamins & Supplements,Tablet,Standard,OTC,Procter & Gamble Health,Iron and folic acid supplement for pregnancy and anemia.
+MED0271,Betadine Ointment 5% w/w - Bottle,Povidone-Iodine,Betadine,Dermatologicals,Ointment,5% w/w,OTC,Win-Medicare,"Topical antiseptic for minor cuts, wounds, and burns."
+MED0272,Candid-B Cream 15g - Bottle,Clotrimazole + Beclomethasone,Candid,Dermatologicals,Cream,15g,Prescription,Glenmark Pharmaceuticals,Antifungal and anti-inflammatory cream for fungal skin infections.
+MED0273,Soframycin Skin 1% w/w - Bottle,Framycetin,Soframycin,Dermatologicals,Cream,1% w/w,OTC,Sanofi India,Topical antibacterial cream for minor skin infections and boils.
+MED0274,T-Bact Ointment 2% w/w - Bottle,Mupirocin,T-Bact,Dermatologicals,Ointment,2% w/w,Prescription,GSK Pharmaceuticals,Topical antibiotic for impetigo and bacterial skin lesions.
+MED0275,Cligel-N 1%+4% - Bottle,Clindamycin + Nicotinamide,Cligel,Dermatologicals,Gel,1%+4%,Prescription,Glenmark Pharmaceuticals,Topical anti-acne gel reducing pimples and inflammation.
+MED0276,Calamine Lacto 120ml - Bottle,Calamine + Light Kaolin,Lacto Calamine,Dermatologicals,Lotion,120ml,OTC,Piramal Pharma,"Soothing skin lotion for sunburn, rashes, and itching."
+MED0277,Quadriderm RF 10g - Bottle,Beclomethasone + Neomycin + Clotrimazole,Quadriderm,Dermatologicals,Cream,10g,Prescription,MSD Pharmaceuticals,Broad-spectrum topical cream for mixed skin infections.
+MED0278,Ketocip Shampoo 2% w/v - Bottle,Ketoconazole,Ketocip,Dermatologicals,Shampoo,2% w/v,OTC,Cipla Ltd,Medicated antifungal shampoo for dandruff and seborrheic dermatitis.
+MED0279,Melamet Cream 15g - Bottle,Hydroquinone + Tretinoin + Mometasone,Melamet,Dermatologicals,Cream,15g,Prescription,Universal NutriScience,Depigmenting cream for melasma under dermatological supervision.
+MED0280,Silverex Ionic 0.2% w/w - Bottle,Silver Nitrate,Silverex,Dermatologicals,Gel,0.2% w/w,OTC,Sun Pharma,Antimicrobial gel for burn wounds and skin ulcers.
+MED0281,Ecosprin 75mg - Bottle,Aspirin,Ecosprin,Cardiovascular & Lipid Lowering,Tablet,75mg,Prescription,USV Ltd,Low-dose antiplatelet agent preventing heart attacks and strokes.
+MED0282,Atorva 40mg - Bottle,Atorvastatin,Atorva,Cardiovascular & Lipid Lowering,Tablet,40mg,Prescription,Zydus Lifesciences,Statin medication to lower LDL cholesterol and triglycerides.
+MED0283,Rosuvas 20mg - Bottle,Rosuvastatin,Rosuvas,Cardiovascular & Lipid Lowering,Tablet,20mg,Prescription,Sun Pharma,Potent lipid-lowering statin for dyslipidemia management.
+MED0284,Clopilet 75mg - Bottle,Clopidogrel,Clopilet,Cardiovascular & Lipid Lowering,Tablet,75mg,Prescription,Sun Pharma,Antiplatelet blood thinner for coronary artery disease.
+MED0285,Ecosprin AV 75mg+10mg - Bottle,Aspirin + Atorvastatin,Ecosprin,Cardiovascular & Lipid Lowering,Capsule,75mg+10mg,Prescription,USV Ltd,Dual cardiovascular preventive therapy combining statin and aspirin.
+MED0286,Sorbitrate 5mg - Bottle,Isosorbide Dinitrate,Sorbitrate,Cardiovascular & Lipid Lowering,Tablet,5mg,Prescription,Abbott India,Sublingual vasodilator for acute angina chest pain.
+MED0287,Nikoran 5mg - Bottle,Nicorandil,Nikoran,Cardiovascular & Lipid Lowering,Tablet,5mg,Prescription,Torrent Pharmaceuticals,Potassium channel activator for chronic stable angina.
+MED0288,Cardace 2.5mg - Bottle,Ramipril,Cardace,Cardiovascular & Lipid Lowering,Tablet,2.5mg,Prescription,Sanofi India,ACE inhibitor improving survival post-myocardial infarction.
+MED0289,Lipikind 10mg - Bottle,Atorvastatin,Lipikind,Cardiovascular & Lipid Lowering,Tablet,10mg,Prescription,Mankind Pharma,Reduces bad cholesterol and slows plaque buildup in arteries.
+MED0290,Rozucor 10mg - Bottle,Rosuvastatin,Rozucor,Cardiovascular & Lipid Lowering,Tablet,10mg,Prescription,Torrent Pharmaceuticals,Controls hypercholesterolemia and reduces cardiovascular events.
+MED0291,Nexito 20mg - Bottle,Escitalopram,Nexito,Neurology & Psychiatry,Tablet,20mg,Prescription,Sun Pharma,SSRI antidepressant prescribed for anxiety and major depressive disorder.
+MED0292,Gabapin NT 100mg+10mg - Bottle,Gabapentin + Nortriptyline,Gabapin,Neurology & Psychiatry,Tablet,100mg+10mg,Prescription,Intas Pharmaceuticals,Treats diabetic neuropathy and chronic nerve pain.
+MED0293,Naxdom 250mg+10mg - Bottle,Naproxen + Domperidone,Naxdom,Neurology & Psychiatry,Tablet,250mg+10mg,Prescription,Sun Pharma,Prevents and relieves acute migraine headaches and nausea.
+MED0294,Vertin 24mg - Bottle,Betahistine,Vertin,Neurology & Psychiatry,Tablet,24mg,Prescription,Abbott India,"Treats vertigo, tinnitus, and Meniere's disease balance disorders."
+MED0295,Pregalin M 75mg+750mcg - Bottle,Pregabalin + Methylcobalamin,Pregalin,Neurology & Psychiatry,Capsule,75mg+750mcg,Prescription,Torrent Pharmaceuticals,Supports nerve regeneration and relieves neuropathic pain.
+MED0296,Zapiz 0.25mg - Bottle,Clonazepam,Zapiz,Neurology & Psychiatry,Tablet,0.25mg,Prescription,Intas Pharmaceuticals,Benzodiazepine for panic disorder and seizure management.
+MED0297,Zolfresh 5mg - Bottle,Zolpidem,Zolfresh,Neurology & Psychiatry,Tablet,5mg,Prescription,Abbott India,Short-term treatment for acute insomnia and sleep onset.
+MED0298,Levipil 250mg - Bottle,Levetiracetam,Levipil,Neurology & Psychiatry,Tablet,250mg,Prescription,Sun Pharma,Antiepileptic drug for focal and generalized seizures.
+MED0299,Sibelium 5mg - Bottle,Flunarizine,Sibelium,Neurology & Psychiatry,Tablet,5mg,Prescription,Janssen Pharmaceuticals,Prophylactic medication to reduce migraine frequency.
+MED0300,Petril MD 0.5mg - Pack of 1,Clonazepam,Petril,Neurology & Psychiatry,Tablet,0.5mg,Prescription,Micro Labs Ltd,Mouth-dissolving tablet for acute anxiety and epilepsy.
+MED0301,Dolo 650mg - Pack of 1,Paracetamol,Dolo,Analgesics & Antipyretics,Tablet,650mg,OTC,Micro Labs Ltd,Used for fever reduction and mild to moderate pain relief.
+MED0302,Calpol 250mg/5ml - Pack of 1,Paracetamol,Calpol,Analgesics & Antipyretics,Syrup,250mg/5ml,OTC,GSK Pharmaceuticals,Pediatric and adult antipyretic suspension for fever.
+MED0303,Combiflam 400mg+325mg - Pack of 1,Ibuprofen + Paracetamol,Combiflam,Analgesics & Antipyretics,Tablet,400mg+325mg,OTC,Sanofi India,Combination anti-inflammatory and analgesic for musculoskeletal pain.
+MED0304,Zerodol-P 100mg+325mg - Pack of 1,Aceclofenac + Paracetamol,Zerodol,Analgesics & Antipyretics,Tablet,100mg+325mg,Prescription,Ipca Laboratories,"Prescribed for joint pain, arthritis, and dental pain."
+MED0305,Voveran SR 100mg - Pack of 1,Diclofenac Sodium,Voveran,Analgesics & Antipyretics,Tablet,100mg,Prescription,Novartis India,Sustained release NSAID for acute inflammation and pain.
+MED0306,Ultracet 37.5mg+325mg - Pack of 1,Tramadol + Paracetamol,Ultracet,Analgesics & Antipyretics,Tablet,37.5mg+325mg,Prescription,Janssen Pharmaceuticals,Moderate to severe acute pain management.
+MED0307,Meftal-Spas 500mg+20mg - Pack of 1,Mefenamic Acid + Dicyclomine,Meftal,Analgesics & Antipyretics,Tablet,500mg+20mg,Prescription,Blue Cross Laboratories,Antispasmodic and analgesic for abdominal cramps.
+MED0308,Crocin Advance 650mg - Pack of 1,Paracetamol,Crocin,Analgesics & Antipyretics,Tablet,650mg,OTC,GSK Consumer Healthcare,Fast-release paracetamol for headache and body ache.
+MED0309,Nise 100mg - Pack of 1,Nimesulide,Nise,Analgesics & Antipyretics,Tablet,100mg,Prescription,Dr. Reddy's Laboratories,NSAID for acute pain and inflammatory conditions.
+MED0310,Flexon 400mg+325mg - Pack of 1,Ibuprofen + Paracetamol,Flexon,Analgesics & Antipyretics,Tablet,400mg+325mg,OTC,Aristo Pharmaceuticals,"Relieves toothache, muscle ache, and fever."
+MED0311,Augmentin Duo 1000mg - Pack of 1,Amoxicillin + Clavulanic Acid,Augmentin,Antibiotics,Tablet,1000mg,Prescription,GSK Pharmaceuticals,Broad-spectrum penicillin antibiotic for respiratory and skin infections.
+MED0312,Azithral 500mg - Pack of 1,Azithromycin,Azithral,Antibiotics,Tablet,500mg,Prescription,Alembic Pharmaceuticals,"Macrolide antibiotic for throat, sinus, and chest infections."
+MED0313,Taxim-O 200mg - Pack of 1,Cefixime,Taxim,Antibiotics,Tablet,200mg,Prescription,Alkem Laboratories,Third-generation cephalosporin for urinary and typhoid infections.
+MED0314,Cifran 500mg - Pack of 1,Ciprofloxacin,Cifran,Antibiotics,Tablet,500mg,Prescription,Sun Pharma,Fluoroquinolone antibiotic for bacterial gastroenteritis and UTIs.
+MED0315,Monocef-O 200mg - Pack of 1,Cefpodoxime Proxetil,Monocef,Antibiotics,Tablet,200mg,Prescription,Aristo Pharmaceuticals,Oral cephalosporin for respiratory tract infections.
+MED0316,Moxikind-CV 625mg - Pack of 1,Amoxicillin + Clavulanic Acid,Moxikind,Antibiotics,Tablet,625mg,Prescription,Mankind Pharma,"Treats bacterial ear, sinus, and lower respiratory infections."
+MED0317,Zifi 400mg - Pack of 1,Cefixime,Zifi,Antibiotics,Tablet,400mg,Prescription,FDC Ltd,Broad-spectrum antibiotic for uncomplicated bacterial infections.
+MED0318,Oflox 400mg - Pack of 1,Ofloxacin,Oflox,Antibiotics,Tablet,400mg,Prescription,Cipla Ltd,Antibiotic for gastrointestinal and urinary tract bacterial infections.
+MED0319,Doxy-1 L-DR 100mg - Pack of 1,Doxycycline,Doxy-1,Antibiotics,Capsule,100mg,Prescription,USV Ltd,Tetracycline antibiotic for acne and atypical respiratory infections.
+MED0320,Metrogyl 400mg - Pack of 1,Metronidazole,Metrogyl,Antibiotics,Tablet,400mg,Prescription,JB Chemicals,Antiprotozoal and anaerobic antibacterial agent.
+MED0321,Glycomet-GP 2mg+500mg - Pack of 1,Glimepiride + Metformin,Glycomet,Antidiabetics,Tablet,2mg+500mg,Prescription,USV Ltd,Dual therapy for glycemic control in Type 2 diabetes mellitus.
+MED0322,Janumet 50mg+1000mg - Pack of 1,Sitagliptin + Metformin,Janumet,Antidiabetics,Tablet,50mg+1000mg,Prescription,MSD Pharmaceuticals,DPP-4 inhibitor combination to improve insulin response.
+MED0323,Galvus Met 50mg+850mg - Pack of 1,Vildagliptin + Metformin,Galvus,Antidiabetics,Tablet,50mg+850mg,Prescription,Novartis India,Controls fasting and post-meal blood sugar in Type 2 diabetes.
+MED0324,Lantus Solostar 100IU/ml - Pack of 1,Insulin Glargine,Lantus,Antidiabetics,Injection,100IU/ml,Prescription,Sanofi India,Long-acting basal insulin analog for 24-hour blood glucose control.
+MED0325,Jardiance 25mg - Pack of 1,Empagliflozin,Jardiance,Antidiabetics,Tablet,25mg,Prescription,Boehringer Ingelheim,SGLT2 inhibitor aiding glucose excretion and cardiovascular protection.
+MED0326,Glycomet SR 1000mg - Pack of 1,Metformin,Glycomet,Antidiabetics,Tablet,1000mg,Prescription,USV Ltd,First-line sustained-release oral antidiabetic medication.
+MED0327,Amaryl 2mg - Pack of 1,Glimepiride,Amaryl,Antidiabetics,Tablet,2mg,Prescription,Sanofi India,Sulfonylurea stimulating pancreatic insulin release.
+MED0328,Istamet 50mg+1000mg - Pack of 1,Sitagliptin + Metformin,Istamet,Antidiabetics,Tablet,50mg+1000mg,Prescription,Sun Pharma,Oral antihyperglycemic combination for Type 2 diabetes.
+MED0329,Mixtard 30 40IU/ml - Pack of 1,Human Insulin,Mixtard,Antidiabetics,Injection,40IU/ml,Prescription,Novo Nordisk,Biphasic insulin suspension for mealtime and basal glycemic control.
+MED0330,Teneligliptin Zita 20mg - Pack of 1,Teneligliptin,Zita,Antidiabetics,Tablet,20mg,Prescription,Glenmark Pharmaceuticals,DPP-4 inhibitor for blood glucose regulation.
+MED0331,Telma 20mg - Pack of 1,Telmisartan,Telma,Antihypertensives,Tablet,20mg,Prescription,Glenmark Pharmaceuticals,Angiotensin II receptor blocker (ARB) for hypertension.
+MED0332,Telma-H 40mg+12.5mg - Pack of 1,Telmisartan + Hydrochlorothiazide,Telma,Antihypertensives,Tablet,40mg+12.5mg,Prescription,Glenmark Pharmaceuticals,ARB and diuretic combination for uncontrolled hypertension.
+MED0333,Amlokind-AT 5mg+50mg - Pack of 1,Amlodipine + Atenolol,Amlokind,Antihypertensives,Tablet,5mg+50mg,Prescription,Mankind Pharma,Calcium channel blocker and beta-blocker for blood pressure.
+MED0334,Stamlo 2.5mg - Pack of 1,Amlodipine,Stamlo,Antihypertensives,Tablet,2.5mg,Prescription,Dr. Reddy's Laboratories,Relaxes blood vessels to lower blood pressure and angina.
+MED0335,Concor 5mg - Pack of 1,Bisoprolol,Concor,Antihypertensives,Tablet,5mg,Prescription,Merck Ltd,Cardioselective beta-blocker for hypertension and heart failure.
+MED0336,Met XL 50mg - Pack of 1,Metoprolol Succinate,Met XL,Antihypertensives,Tablet,50mg,Prescription,Ajanta Pharma,Extended-release beta-blocker for blood pressure and arrhythmia.
+MED0337,Olmezest 40mg - Pack of 1,Olmesartan Medoxomil,Olmezest,Antihypertensives,Tablet,40mg,Prescription,Sun Pharma,ARB antihypertensive for sustained blood pressure reduction.
+MED0338,Losar 50mg - Pack of 1,Losartan Potassium,Losar,Antihypertensives,Tablet,50mg,Prescription,Unichem Laboratories,Protects kidneys and reduces blood pressure in hypertensive patients.
+MED0339,Arkamin 100mcg - Pack of 1,Clonidine,Arkamin,Antihypertensives,Tablet,100mcg,Prescription,Torrent Pharmaceuticals,Centrally acting alpha-agonist for resistant hypertension.
+MED0340,Dytor 20mg - Pack of 1,Torasemide,Dytor,Antihypertensives,Tablet,20mg,Prescription,Cipla Ltd,Loop diuretic for fluid retention and hypertension.
+MED0341,Pan-D 40mg+30mg - Pack of 1,Pantoprazole + Domperidone,Pan,Gastrointestinal,Capsule,40mg+30mg,Prescription,Alkem Laboratories,Proton pump inhibitor and prokinetic for GERD and acid reflux.
+MED0342,Pan 40 40mg - Pack of 1,Pantoprazole,Pan,Gastrointestinal,Tablet,40mg,Prescription,Alkem Laboratories,Reduces stomach acid production in gastritis and peptic ulcers.
+MED0343,Omez 20mg - Pack of 1,Omeprazole,Omez,Gastrointestinal,Capsule,20mg,OTC,Dr. Reddy's Laboratories,"Relieves heartburn, acid indigestion, and sour stomach."
+MED0344,Digene Gel 200ml - Pack of 1,Magnesium Hydroxide + Simethicone,Digene,Gastrointestinal,Syrup,200ml,OTC,Abbott India,Antacid and anti-flatulent suspension for quick acidity relief.
+MED0345,Rantac 300mg - Pack of 1,Ranitidine,Rantac,Gastrointestinal,Tablet,300mg,OTC,JB Chemicals,H2 receptor blocker for heartburn and hyperacidity.
+MED0346,Ondem 8mg - Pack of 1,Ondansetron,Ondem,Gastrointestinal,Tablet,8mg,Prescription,Alkem Laboratories,Antiemetic medication to prevent nausea and vomiting.
+MED0347,Cremaffin Plus 225ml - Pack of 1,Liquid Paraffin + Milk of Magnesia,Cremaffin,Gastrointestinal,Syrup,225ml,OTC,Abbott India,Gentle osmotic and lubricant laxative for constipation.
+MED0348,Econorm 250mg - Pack of 1,Saccharomyces boulardii,Econorm,Gastrointestinal,Sachet,250mg,OTC,Dr. Reddy's Laboratories,Probiotic yeast supplement for acute infectious diarrhea.
+MED0349,Udapa / Udiliv 300mg - Pack of 1,Ursodeoxycholic Acid,Udiliv,Gastrointestinal,Tablet,300mg,Prescription,Abbott India,Hepatoprotective bile acid for gallstones and fatty liver.
+MED0350,Gaviscon 150ml - Pack of 1,Sodium Alginate + Sodium Bicarbonate,Gaviscon,Gastrointestinal,Syrup,150ml,OTC,Reckitt Benckiser,Forms protective raft against gastroesophageal reflux.
+MED0351,Montair LC 10mg+5mg - Pack of 1,Montelukast + Levocetirizine,Montair,Respiratory & Anti-Allergics,Tablet,10mg+5mg,Prescription,Cipla Ltd,"Treats allergic rhinitis, sneezing, and seasonal asthma."
+MED0352,Allegra 180mg - Pack of 1,Fexofenadine,Allegra,Respiratory & Anti-Allergics,Tablet,180mg,OTC,Sanofi India,Non-drowsy antihistamine for hay fever and urticaria.
+MED0353,Cetrizine Okacet 10mg - Pack of 1,Cetirizine,Okacet,Respiratory & Anti-Allergics,Tablet,10mg,OTC,Cipla Ltd,"Relieves watery eyes, runny nose, and skin itching."
+MED0354,Asthalin Inhaler 100mcg - Pack of 1,Salbutamol,Asthalin,Respiratory & Anti-Allergics,Inhaler,100mcg,Prescription,Cipla Ltd,Fast-acting bronchodilator for acute asthma bronchospasm.
+MED0355,Foracort Inhaler 400mcg - Pack of 1,Formoterol + Budesonide,Foracort,Respiratory & Anti-Allergics,Inhaler,400mcg,Prescription,Cipla Ltd,Maintenance inhaler for asthma and COPD airway inflammation.
+MED0356,Benadryl Cough 150ml - Pack of 1,Diphenhydramine + Ammonium Chloride,Benadryl,Respiratory & Anti-Allergics,Syrup,150ml,OTC,Johnson & Johnson,Relieves productive and allergic cough and throat irritation.
+MED0357,Ascoril LS 100ml - Pack of 1,Levosalbutamol + Ambroxol + Guaifenesin,Ascoril,Respiratory & Anti-Allergics,Syrup,100ml,Prescription,Glenmark Pharmaceuticals,Mucolytic and bronchodilator expectorant for wet cough.
+MED0358,Otrivin Oxy 0.05% - Pack of 1,Oxymetazoline,Otrivin,Respiratory & Anti-Allergics,Drops,0.05%,OTC,GSK Consumer Healthcare,Nasal decongestant drops for blocked nose relief.
+MED0359,Sinarest New 500mg+10mg+2mg - Pack of 1,Paracetamol + Phenylephrine + Chlorpheniramine,Sinarest,Respiratory & Anti-Allergics,Tablet,500mg+10mg+2mg,OTC,Centaur Pharmaceuticals,"Multi-symptom relief for common cold, sinusitis, and headache."
+MED0360,Budecort Respules 0.5mg/2ml - Pack of 1,Budesonide,Budecort,Respiratory & Anti-Allergics,Suspension,0.5mg/2ml,Prescription,Cipla Ltd,Nebulizer corticosteroid suspension for pediatric and adult asthma.
+MED0361,Shelcal 500 500mg+250IU - Pack of 1,Calcium + Vitamin D3,Shelcal,Vitamins & Supplements,Tablet,500mg+250IU,OTC,Torrent Pharmaceuticals,"Supports bone density, calcium absorption, and joint strength."
+MED0362,Becosules Z Standard - Pack of 1,B-Complex + Vitamin C + Zinc,Becosules,Vitamins & Supplements,Capsule,Standard,OTC,Pfizer Ltd,"Boosts immunity, energy metabolism, and tissue repair."
+MED0363,Limcee 500mg - Pack of 1,Vitamin C (Ascorbic Acid),Limcee,Vitamins & Supplements,Tablet,500mg,OTC,Abbott India,Chewable antioxidant supplement for immune defense.
+MED0364,Neurobion Forte Standard - Pack of 1,Vitamin B1 + B2 + B3 + B6 + B12,Neurobion,Vitamins & Supplements,Tablet,Standard,OTC,Procter & Gamble Health,Supports nerve health and relieves tingling or numbness.
+MED0365,Uprise-D3 60000IU - Pack of 1,Cholecalciferol (Vitamin D3),Uprise,Vitamins & Supplements,Capsule,60000IU,OTC,Alkem Laboratories,Weekly high-dose Vitamin D3 supplement for deficiency.
+MED0366,Zincovit Standard - Pack of 1,Multivitamins + Multiminerals + Grape Seed,Zincovit,Vitamins & Supplements,Tablet,Standard,OTC,Apex Laboratories,Daily nutritional supplement for general wellness and recovery.
+MED0367,Evion 400mg - Pack of 1,Vitamin E (Tocopheryl Acetate),Evion,Vitamins & Supplements,Capsule,400mg,OTC,Procter & Gamble Health,"Antioxidant supporting skin, hair, and muscle health."
+MED0368,Autrin Standard - Pack of 1,Ferrous Fumarate + Folic Acid + B12,Autrin,Vitamins & Supplements,Capsule,Standard,OTC,Pfizer Ltd,Hematinic supplement for iron deficiency anemia.
+MED0369,Supradyn Daily Standard - Pack of 1,Multivitamin + Trace Elements,Supradyn,Vitamins & Supplements,Tablet,Standard,OTC,Bayer Zydus Pharma,Comprehensive daily vitality and micronutrient tablet.
+MED0370,Livogen-Z Standard - Pack of 1,Ferrous Fumarate + Folic Acid + Zinc,Livogen,Vitamins & Supplements,Tablet,Standard,OTC,Procter & Gamble Health,Iron and folic acid supplement for pregnancy and anemia.
+MED0371,Betadine Ointment 10% w/w - Pack of 1,Povidone-Iodine,Betadine,Dermatologicals,Ointment,10% w/w,OTC,Win-Medicare,"Topical antiseptic for minor cuts, wounds, and burns."
+MED0372,Candid-B Cream 30g - Pack of 1,Clotrimazole + Beclomethasone,Candid,Dermatologicals,Cream,30g,Prescription,Glenmark Pharmaceuticals,Antifungal and anti-inflammatory cream for fungal skin infections.
+MED0373,Soframycin Skin 1% w/w - Pack of 1,Framycetin,Soframycin,Dermatologicals,Cream,1% w/w,OTC,Sanofi India,Topical antibacterial cream for minor skin infections and boils.
+MED0374,T-Bact Ointment 2% w/w - Pack of 1,Mupirocin,T-Bact,Dermatologicals,Ointment,2% w/w,Prescription,GSK Pharmaceuticals,Topical antibiotic for impetigo and bacterial skin lesions.
+MED0375,Cligel-N 1%+4% - Pack of 1,Clindamycin + Nicotinamide,Cligel,Dermatologicals,Gel,1%+4%,Prescription,Glenmark Pharmaceuticals,Topical anti-acne gel reducing pimples and inflammation.
+MED0376,Calamine Lacto 120ml - Pack of 1,Calamine + Light Kaolin,Lacto Calamine,Dermatologicals,Lotion,120ml,OTC,Piramal Pharma,"Soothing skin lotion for sunburn, rashes, and itching."
+MED0377,Quadriderm RF 10g - Pack of 1,Beclomethasone + Neomycin + Clotrimazole,Quadriderm,Dermatologicals,Cream,10g,Prescription,MSD Pharmaceuticals,Broad-spectrum topical cream for mixed skin infections.
+MED0378,Ketocip Shampoo 2% w/v - Pack of 1,Ketoconazole,Ketocip,Dermatologicals,Shampoo,2% w/v,OTC,Cipla Ltd,Medicated antifungal shampoo for dandruff and seborrheic dermatitis.
+MED0379,Melamet Cream 15g - Pack of 1,Hydroquinone + Tretinoin + Mometasone,Melamet,Dermatologicals,Cream,15g,Prescription,Universal NutriScience,Depigmenting cream for melasma under dermatological supervision.
+MED0380,Silverex Ionic 0.2% w/w - Pack of 1,Silver Nitrate,Silverex,Dermatologicals,Gel,0.2% w/w,OTC,Sun Pharma,Antimicrobial gel for burn wounds and skin ulcers.
+MED0381,Ecosprin 150mg - Pack of 1,Aspirin,Ecosprin,Cardiovascular & Lipid Lowering,Tablet,150mg,Prescription,USV Ltd,Low-dose antiplatelet agent preventing heart attacks and strokes.
+MED0382,Atorva 10mg - Pack of 1,Atorvastatin,Atorva,Cardiovascular & Lipid Lowering,Tablet,10mg,Prescription,Zydus Lifesciences,Statin medication to lower LDL cholesterol and triglycerides.
+MED0383,Rosuvas 5mg - Pack of 1,Rosuvastatin,Rosuvas,Cardiovascular & Lipid Lowering,Tablet,5mg,Prescription,Sun Pharma,Potent lipid-lowering statin for dyslipidemia management.
+MED0384,Clopilet 75mg - Pack of 1,Clopidogrel,Clopilet,Cardiovascular & Lipid Lowering,Tablet,75mg,Prescription,Sun Pharma,Antiplatelet blood thinner for coronary artery disease.
+MED0385,Ecosprin AV 75mg+20mg - Pack of 1,Aspirin + Atorvastatin,Ecosprin,Cardiovascular & Lipid Lowering,Capsule,75mg+20mg,Prescription,USV Ltd,Dual cardiovascular preventive therapy combining statin and aspirin.
+MED0386,Sorbitrate 10mg - Pack of 1,Isosorbide Dinitrate,Sorbitrate,Cardiovascular & Lipid Lowering,Tablet,10mg,Prescription,Abbott India,Sublingual vasodilator for acute angina chest pain.
+MED0387,Nikoran 10mg - Pack of 1,Nicorandil,Nikoran,Cardiovascular & Lipid Lowering,Tablet,10mg,Prescription,Torrent Pharmaceuticals,Potassium channel activator for chronic stable angina.
+MED0388,Cardace 5mg - Pack of 1,Ramipril,Cardace,Cardiovascular & Lipid Lowering,Tablet,5mg,Prescription,Sanofi India,ACE inhibitor improving survival post-myocardial infarction.
+MED0389,Lipikind 20mg - Pack of 1,Atorvastatin,Lipikind,Cardiovascular & Lipid Lowering,Tablet,20mg,Prescription,Mankind Pharma,Reduces bad cholesterol and slows plaque buildup in arteries.
+MED0390,Rozucor 20mg - Pack of 1,Rosuvastatin,Rozucor,Cardiovascular & Lipid Lowering,Tablet,20mg,Prescription,Torrent Pharmaceuticals,Controls hypercholesterolemia and reduces cardiovascular events.
+MED0391,Nexito 5mg - Pack of 1,Escitalopram,Nexito,Neurology & Psychiatry,Tablet,5mg,Prescription,Sun Pharma,SSRI antidepressant prescribed for anxiety and major depressive disorder.
+MED0392,Gabapin NT 400mg+10mg - Pack of 1,Gabapentin + Nortriptyline,Gabapin,Neurology & Psychiatry,Tablet,400mg+10mg,Prescription,Intas Pharmaceuticals,Treats diabetic neuropathy and chronic nerve pain.
+MED0393,Naxdom 500mg+10mg - Pack of 1,Naproxen + Domperidone,Naxdom,Neurology & Psychiatry,Tablet,500mg+10mg,Prescription,Sun Pharma,Prevents and relieves acute migraine headaches and nausea.
+MED0394,Vertin 8mg - Pack of 1,Betahistine,Vertin,Neurology & Psychiatry,Tablet,8mg,Prescription,Abbott India,"Treats vertigo, tinnitus, and Meniere's disease balance disorders."
+MED0395,Pregalin M 75mg+750mcg - Pack of 1,Pregabalin + Methylcobalamin,Pregalin,Neurology & Psychiatry,Capsule,75mg+750mcg,Prescription,Torrent Pharmaceuticals,Supports nerve regeneration and relieves neuropathic pain.
+MED0396,Zapiz 0.5mg - Pack of 1,Clonazepam,Zapiz,Neurology & Psychiatry,Tablet,0.5mg,Prescription,Intas Pharmaceuticals,Benzodiazepine for panic disorder and seizure management.
+MED0397,Zolfresh 10mg - Pack of 1,Zolpidem,Zolfresh,Neurology & Psychiatry,Tablet,10mg,Prescription,Abbott India,Short-term treatment for acute insomnia and sleep onset.
+MED0398,Levipil 500mg - Pack of 1,Levetiracetam,Levipil,Neurology & Psychiatry,Tablet,500mg,Prescription,Sun Pharma,Antiepileptic drug for focal and generalized seizures.
+MED0399,Sibelium 10mg - Pack of 1,Flunarizine,Sibelium,Neurology & Psychiatry,Tablet,10mg,Prescription,Janssen Pharmaceuticals,Prophylactic medication to reduce migraine frequency.
+MED0400,Petril MD 0.25mg - Blister Pack,Clonazepam,Petril,Neurology & Psychiatry,Tablet,0.25mg,Prescription,Micro Labs Ltd,Mouth-dissolving tablet for acute anxiety and epilepsy.
+MED0401,Dolo 500mg (Blister Pack #5),Paracetamol,Dolo,Analgesics & Antipyretics,Tablet,500mg,OTC,Micro Labs Ltd,Used for fever reduction and mild to moderate pain relief.
+MED0402,Calpol 120mg/5ml (Blister Pack #5),Paracetamol,Calpol,Analgesics & Antipyretics,Syrup,120mg/5ml,OTC,GSK Pharmaceuticals,Pediatric and adult antipyretic suspension for fever.
+MED0403,Combiflam 400mg+325mg (Blister Pack #5),Ibuprofen + Paracetamol,Combiflam,Analgesics & Antipyretics,Tablet,400mg+325mg,OTC,Sanofi India,Combination anti-inflammatory and analgesic for musculoskeletal pain.
+MED0404,Zerodol-P 100mg+325mg (Blister Pack #5),Aceclofenac + Paracetamol,Zerodol,Analgesics & Antipyretics,Tablet,100mg+325mg,Prescription,Ipca Laboratories,"Prescribed for joint pain, arthritis, and dental pain."
+MED0405,Voveran SR 50mg (Blister Pack #5),Diclofenac Sodium,Voveran,Analgesics & Antipyretics,Tablet,50mg,Prescription,Novartis India,Sustained release NSAID for acute inflammation and pain.
+MED0406,Ultracet 37.5mg+325mg (Blister Pack #5),Tramadol + Paracetamol,Ultracet,Analgesics & Antipyretics,Tablet,37.5mg+325mg,Prescription,Janssen Pharmaceuticals,Moderate to severe acute pain management.
+MED0407,Meftal-Spas 250mg+10mg (Blister Pack #5),Mefenamic Acid + Dicyclomine,Meftal,Analgesics & Antipyretics,Tablet,250mg+10mg,Prescription,Blue Cross Laboratories,Antispasmodic and analgesic for abdominal cramps.
+MED0408,Crocin Advance 500mg (Blister Pack #5),Paracetamol,Crocin,Analgesics & Antipyretics,Tablet,500mg,OTC,GSK Consumer Healthcare,Fast-release paracetamol for headache and body ache.
+MED0409,Nise 100mg (Blister Pack #5),Nimesulide,Nise,Analgesics & Antipyretics,Tablet,100mg,Prescription,Dr. Reddy's Laboratories,NSAID for acute pain and inflammatory conditions.
+MED0410,Flexon 400mg+325mg (Blister Pack #5),Ibuprofen + Paracetamol,Flexon,Analgesics & Antipyretics,Tablet,400mg+325mg,OTC,Aristo Pharmaceuticals,"Relieves toothache, muscle ache, and fever."
+MED0411,Augmentin Duo 625mg (Blister Pack #5),Amoxicillin + Clavulanic Acid,Augmentin,Antibiotics,Tablet,625mg,Prescription,GSK Pharmaceuticals,Broad-spectrum penicillin antibiotic for respiratory and skin infections.
+MED0412,Azithral 250mg (Blister Pack #5),Azithromycin,Azithral,Antibiotics,Tablet,250mg,Prescription,Alembic Pharmaceuticals,"Macrolide antibiotic for throat, sinus, and chest infections."
+MED0413,Taxim-O 100mg (Blister Pack #5),Cefixime,Taxim,Antibiotics,Tablet,100mg,Prescription,Alkem Laboratories,Third-generation cephalosporin for urinary and typhoid infections.
+MED0414,Cifran 250mg (Blister Pack #5),Ciprofloxacin,Cifran,Antibiotics,Tablet,250mg,Prescription,Sun Pharma,Fluoroquinolone antibiotic for bacterial gastroenteritis and UTIs.
+MED0415,Monocef-O 100mg (Blister Pack #5),Cefpodoxime Proxetil,Monocef,Antibiotics,Tablet,100mg,Prescription,Aristo Pharmaceuticals,Oral cephalosporin for respiratory tract infections.
+MED0416,Moxikind-CV 375mg (Blister Pack #5),Amoxicillin + Clavulanic Acid,Moxikind,Antibiotics,Tablet,375mg,Prescription,Mankind Pharma,"Treats bacterial ear, sinus, and lower respiratory infections."
+MED0417,Zifi 200mg (Blister Pack #5),Cefixime,Zifi,Antibiotics,Tablet,200mg,Prescription,FDC Ltd,Broad-spectrum antibiotic for uncomplicated bacterial infections.
+MED0418,Oflox 200mg (Blister Pack #5),Ofloxacin,Oflox,Antibiotics,Tablet,200mg,Prescription,Cipla Ltd,Antibiotic for gastrointestinal and urinary tract bacterial infections.
+MED0419,Doxy-1 L-DR 100mg (Blister Pack #5),Doxycycline,Doxy-1,Antibiotics,Capsule,100mg,Prescription,USV Ltd,Tetracycline antibiotic for acne and atypical respiratory infections.
+MED0420,Metrogyl 200mg (Blister Pack #5),Metronidazole,Metrogyl,Antibiotics,Tablet,200mg,Prescription,JB Chemicals,Antiprotozoal and anaerobic antibacterial agent.
+MED0421,Glycomet-GP 1mg+500mg (Blister Pack #5),Glimepiride + Metformin,Glycomet,Antidiabetics,Tablet,1mg+500mg,Prescription,USV Ltd,Dual therapy for glycemic control in Type 2 diabetes mellitus.
+MED0422,Janumet 50mg+500mg (Blister Pack #5),Sitagliptin + Metformin,Janumet,Antidiabetics,Tablet,50mg+500mg,Prescription,MSD Pharmaceuticals,DPP-4 inhibitor combination to improve insulin response.
+MED0423,Galvus Met 50mg+500mg (Blister Pack #5),Vildagliptin + Metformin,Galvus,Antidiabetics,Tablet,50mg+500mg,Prescription,Novartis India,Controls fasting and post-meal blood sugar in Type 2 diabetes.
+MED0424,Lantus Solostar 100IU/ml (Blister Pack #5),Insulin Glargine,Lantus,Antidiabetics,Injection,100IU/ml,Prescription,Sanofi India,Long-acting basal insulin analog for 24-hour blood glucose control.
+MED0425,Jardiance 10mg (Blister Pack #5),Empagliflozin,Jardiance,Antidiabetics,Tablet,10mg,Prescription,Boehringer Ingelheim,SGLT2 inhibitor aiding glucose excretion and cardiovascular protection.
+MED0426,Glycomet SR 500mg (Blister Pack #5),Metformin,Glycomet,Antidiabetics,Tablet,500mg,Prescription,USV Ltd,First-line sustained-release oral antidiabetic medication.
+MED0427,Amaryl 1mg (Blister Pack #5),Glimepiride,Amaryl,Antidiabetics,Tablet,1mg,Prescription,Sanofi India,Sulfonylurea stimulating pancreatic insulin release.
+MED0428,Istamet 50mg+500mg (Blister Pack #5),Sitagliptin + Metformin,Istamet,Antidiabetics,Tablet,50mg+500mg,Prescription,Sun Pharma,Oral antihyperglycemic combination for Type 2 diabetes.
+MED0429,Mixtard 30 40IU/ml (Blister Pack #5),Human Insulin,Mixtard,Antidiabetics,Injection,40IU/ml,Prescription,Novo Nordisk,Biphasic insulin suspension for mealtime and basal glycemic control.
+MED0430,Teneligliptin Zita 20mg (Blister Pack #5),Teneligliptin,Zita,Antidiabetics,Tablet,20mg,Prescription,Glenmark Pharmaceuticals,DPP-4 inhibitor for blood glucose regulation.
+MED0431,Telma 40mg (Blister Pack #5),Telmisartan,Telma,Antihypertensives,Tablet,40mg,Prescription,Glenmark Pharmaceuticals,Angiotensin II receptor blocker (ARB) for hypertension.
+MED0432,Telma-H 40mg+12.5mg (Blister Pack #5),Telmisartan + Hydrochlorothiazide,Telma,Antihypertensives,Tablet,40mg+12.5mg,Prescription,Glenmark Pharmaceuticals,ARB and diuretic combination for uncontrolled hypertension.
+MED0433,Amlokind-AT 5mg+50mg (Blister Pack #5),Amlodipine + Atenolol,Amlokind,Antihypertensives,Tablet,5mg+50mg,Prescription,Mankind Pharma,Calcium channel blocker and beta-blocker for blood pressure.
+MED0434,Stamlo 5mg (Blister Pack #5),Amlodipine,Stamlo,Antihypertensives,Tablet,5mg,Prescription,Dr. Reddy's Laboratories,Relaxes blood vessels to lower blood pressure and angina.
+MED0435,Concor 2.5mg (Blister Pack #5),Bisoprolol,Concor,Antihypertensives,Tablet,2.5mg,Prescription,Merck Ltd,Cardioselective beta-blocker for hypertension and heart failure.
+MED0436,Met XL 25mg (Blister Pack #5),Metoprolol Succinate,Met XL,Antihypertensives,Tablet,25mg,Prescription,Ajanta Pharma,Extended-release beta-blocker for blood pressure and arrhythmia.
+MED0437,Olmezest 20mg (Blister Pack #5),Olmesartan Medoxomil,Olmezest,Antihypertensives,Tablet,20mg,Prescription,Sun Pharma,ARB antihypertensive for sustained blood pressure reduction.
+MED0438,Losar 25mg (Blister Pack #5),Losartan Potassium,Losar,Antihypertensives,Tablet,25mg,Prescription,Unichem Laboratories,Protects kidneys and reduces blood pressure in hypertensive patients.
+MED0439,Arkamin 100mcg (Blister Pack #5),Clonidine,Arkamin,Antihypertensives,Tablet,100mcg,Prescription,Torrent Pharmaceuticals,Centrally acting alpha-agonist for resistant hypertension.
+MED0440,Dytor 10mg (Blister Pack #5),Torasemide,Dytor,Antihypertensives,Tablet,10mg,Prescription,Cipla Ltd,Loop diuretic for fluid retention and hypertension.
+MED0441,Pan-D 40mg+30mg (Blister Pack #5),Pantoprazole + Domperidone,Pan,Gastrointestinal,Capsule,40mg+30mg,Prescription,Alkem Laboratories,Proton pump inhibitor and prokinetic for GERD and acid reflux.
+MED0442,Pan 40 40mg (Blister Pack #5),Pantoprazole,Pan,Gastrointestinal,Tablet,40mg,Prescription,Alkem Laboratories,Reduces stomach acid production in gastritis and peptic ulcers.
+MED0443,Omez 20mg (Blister Pack #5),Omeprazole,Omez,Gastrointestinal,Capsule,20mg,OTC,Dr. Reddy's Laboratories,"Relieves heartburn, acid indigestion, and sour stomach."
+MED0444,Digene Gel 200ml (Blister Pack #5),Magnesium Hydroxide + Simethicone,Digene,Gastrointestinal,Syrup,200ml,OTC,Abbott India,Antacid and anti-flatulent suspension for quick acidity relief.
+MED0445,Rantac 150mg (Blister Pack #5),Ranitidine,Rantac,Gastrointestinal,Tablet,150mg,OTC,JB Chemicals,H2 receptor blocker for heartburn and hyperacidity.
+MED0446,Ondem 4mg (Blister Pack #5),Ondansetron,Ondem,Gastrointestinal,Tablet,4mg,Prescription,Alkem Laboratories,Antiemetic medication to prevent nausea and vomiting.
+MED0447,Cremaffin Plus 225ml (Blister Pack #5),Liquid Paraffin + Milk of Magnesia,Cremaffin,Gastrointestinal,Syrup,225ml,OTC,Abbott India,Gentle osmotic and lubricant laxative for constipation.
+MED0448,Econorm 250mg (Blister Pack #5),Saccharomyces boulardii,Econorm,Gastrointestinal,Sachet,250mg,OTC,Dr. Reddy's Laboratories,Probiotic yeast supplement for acute infectious diarrhea.
+MED0449,Udapa / Udiliv 150mg (Blister Pack #5),Ursodeoxycholic Acid,Udiliv,Gastrointestinal,Tablet,150mg,Prescription,Abbott India,Hepatoprotective bile acid for gallstones and fatty liver.
+MED0450,Gaviscon 150ml (Blister Pack #5),Sodium Alginate + Sodium Bicarbonate,Gaviscon,Gastrointestinal,Syrup,150ml,OTC,Reckitt Benckiser,Forms protective raft against gastroesophageal reflux.
+MED0451,Montair LC 10mg+5mg (Blister Pack #5),Montelukast + Levocetirizine,Montair,Respiratory & Anti-Allergics,Tablet,10mg+5mg,Prescription,Cipla Ltd,"Treats allergic rhinitis, sneezing, and seasonal asthma."
+MED0452,Allegra 120mg (Blister Pack #5),Fexofenadine,Allegra,Respiratory & Anti-Allergics,Tablet,120mg,OTC,Sanofi India,Non-drowsy antihistamine for hay fever and urticaria.
+MED0453,Cetrizine Okacet 10mg (Blister Pack #5),Cetirizine,Okacet,Respiratory & Anti-Allergics,Tablet,10mg,OTC,Cipla Ltd,"Relieves watery eyes, runny nose, and skin itching."
+MED0454,Asthalin Inhaler 100mcg (Blister Pack #5),Salbutamol,Asthalin,Respiratory & Anti-Allergics,Inhaler,100mcg,Prescription,Cipla Ltd,Fast-acting bronchodilator for acute asthma bronchospasm.
+MED0455,Foracort Inhaler 200mcg (Blister Pack #5),Formoterol + Budesonide,Foracort,Respiratory & Anti-Allergics,Inhaler,200mcg,Prescription,Cipla Ltd,Maintenance inhaler for asthma and COPD airway inflammation.
+MED0456,Benadryl Cough 150ml (Blister Pack #5),Diphenhydramine + Ammonium Chloride,Benadryl,Respiratory & Anti-Allergics,Syrup,150ml,OTC,Johnson & Johnson,Relieves productive and allergic cough and throat irritation.
+MED0457,Ascoril LS 100ml (Blister Pack #5),Levosalbutamol + Ambroxol + Guaifenesin,Ascoril,Respiratory & Anti-Allergics,Syrup,100ml,Prescription,Glenmark Pharmaceuticals,Mucolytic and bronchodilator expectorant for wet cough.
+MED0458,Otrivin Oxy 0.05% (Blister Pack #5),Oxymetazoline,Otrivin,Respiratory & Anti-Allergics,Drops,0.05%,OTC,GSK Consumer Healthcare,Nasal decongestant drops for blocked nose relief.
+MED0459,Sinarest New 500mg+10mg+2mg (Blister Pack #5),Paracetamol + Phenylephrine + Chlorpheniramine,Sinarest,Respiratory & Anti-Allergics,Tablet,500mg+10mg+2mg,OTC,Centaur Pharmaceuticals,"Multi-symptom relief for common cold, sinusitis, and headache."
+MED0460,Budecort Respules 0.5mg/2ml (Blister Pack #5),Budesonide,Budecort,Respiratory & Anti-Allergics,Suspension,0.5mg/2ml,Prescription,Cipla Ltd,Nebulizer corticosteroid suspension for pediatric and adult asthma.
+MED0461,Shelcal 500 500mg+250IU (Blister Pack #5),Calcium + Vitamin D3,Shelcal,Vitamins & Supplements,Tablet,500mg+250IU,OTC,Torrent Pharmaceuticals,"Supports bone density, calcium absorption, and joint strength."
+MED0462,Becosules Z Standard (Blister Pack #5),B-Complex + Vitamin C + Zinc,Becosules,Vitamins & Supplements,Capsule,Standard,OTC,Pfizer Ltd,"Boosts immunity, energy metabolism, and tissue repair."
+MED0463,Limcee 500mg (Blister Pack #5),Vitamin C (Ascorbic Acid),Limcee,Vitamins & Supplements,Tablet,500mg,OTC,Abbott India,Chewable antioxidant supplement for immune defense.
+MED0464,Neurobion Forte Standard (Blister Pack #5),Vitamin B1 + B2 + B3 + B6 + B12,Neurobion,Vitamins & Supplements,Tablet,Standard,OTC,Procter & Gamble Health,Supports nerve health and relieves tingling or numbness.
+MED0465,Uprise-D3 60000IU (Blister Pack #5),Cholecalciferol (Vitamin D3),Uprise,Vitamins & Supplements,Capsule,60000IU,OTC,Alkem Laboratories,Weekly high-dose Vitamin D3 supplement for deficiency.
+MED0466,Zincovit Standard (Blister Pack #5),Multivitamins + Multiminerals + Grape Seed,Zincovit,Vitamins & Supplements,Tablet,Standard,OTC,Apex Laboratories,Daily nutritional supplement for general wellness and recovery.
+MED0467,Evion 200mg (Blister Pack #5),Vitamin E (Tocopheryl Acetate),Evion,Vitamins & Supplements,Capsule,200mg,OTC,Procter & Gamble Health,"Antioxidant supporting skin, hair, and muscle health."
+MED0468,Autrin Standard (Blister Pack #5),Ferrous Fumarate + Folic Acid + B12,Autrin,Vitamins & Supplements,Capsule,Standard,OTC,Pfizer Ltd,Hematinic supplement for iron deficiency anemia.
+MED0469,Supradyn Daily Standard (Blister Pack #5),Multivitamin + Trace Elements,Supradyn,Vitamins & Supplements,Tablet,Standard,OTC,Bayer Zydus Pharma,Comprehensive daily vitality and micronutrient tablet.
+MED0470,Livogen-Z Standard (Blister Pack #5),Ferrous Fumarate + Folic Acid + Zinc,Livogen,Vitamins & Supplements,Tablet,Standard,OTC,Procter & Gamble Health,Iron and folic acid supplement for pregnancy and anemia.
+MED0471,Betadine Ointment 5% w/w (Blister Pack #5),Povidone-Iodine,Betadine,Dermatologicals,Ointment,5% w/w,OTC,Win-Medicare,"Topical antiseptic for minor cuts, wounds, and burns."
+MED0472,Candid-B Cream 15g (Blister Pack #5),Clotrimazole + Beclomethasone,Candid,Dermatologicals,Cream,15g,Prescription,Glenmark Pharmaceuticals,Antifungal and anti-inflammatory cream for fungal skin infections.
+MED0473,Soframycin Skin 1% w/w (Blister Pack #5),Framycetin,Soframycin,Dermatologicals,Cream,1% w/w,OTC,Sanofi India,Topical antibacterial cream for minor skin infections and boils.
+MED0474,T-Bact Ointment 2% w/w (Blister Pack #5),Mupirocin,T-Bact,Dermatologicals,Ointment,2% w/w,Prescription,GSK Pharmaceuticals,Topical antibiotic for impetigo and bacterial skin lesions.
+MED0475,Cligel-N 1%+4% (Blister Pack #5),Clindamycin + Nicotinamide,Cligel,Dermatologicals,Gel,1%+4%,Prescription,Glenmark Pharmaceuticals,Topical anti-acne gel reducing pimples and inflammation.
+MED0476,Calamine Lacto 120ml (Blister Pack #5),Calamine + Light Kaolin,Lacto Calamine,Dermatologicals,Lotion,120ml,OTC,Piramal Pharma,"Soothing skin lotion for sunburn, rashes, and itching."
+MED0477,Quadriderm RF 10g (Blister Pack #5),Beclomethasone + Neomycin + Clotrimazole,Quadriderm,Dermatologicals,Cream,10g,Prescription,MSD Pharmaceuticals,Broad-spectrum topical cream for mixed skin infections.
+MED0478,Ketocip Shampoo 2% w/v (Blister Pack #5),Ketoconazole,Ketocip,Dermatologicals,Shampoo,2% w/v,OTC,Cipla Ltd,Medicated antifungal shampoo for dandruff and seborrheic dermatitis.
+MED0479,Melamet Cream 15g (Blister Pack #5),Hydroquinone + Tretinoin + Mometasone,Melamet,Dermatologicals,Cream,15g,Prescription,Universal NutriScience,Depigmenting cream for melasma under dermatological supervision.
+MED0480,Silverex Ionic 0.2% w/w (Blister Pack #5),Silver Nitrate,Silverex,Dermatologicals,Gel,0.2% w/w,OTC,Sun Pharma,Antimicrobial gel for burn wounds and skin ulcers.
+MED0481,Ecosprin 75mg (Blister Pack #5),Aspirin,Ecosprin,Cardiovascular & Lipid Lowering,Tablet,75mg,Prescription,USV Ltd,Low-dose antiplatelet agent preventing heart attacks and strokes.
+MED0482,Atorva 20mg (Blister Pack #5),Atorvastatin,Atorva,Cardiovascular & Lipid Lowering,Tablet,20mg,Prescription,Zydus Lifesciences,Statin medication to lower LDL cholesterol and triglycerides.
+MED0483,Rosuvas 10mg (Blister Pack #5),Rosuvastatin,Rosuvas,Cardiovascular & Lipid Lowering,Tablet,10mg,Prescription,Sun Pharma,Potent lipid-lowering statin for dyslipidemia management.
+MED0484,Clopilet 75mg (Blister Pack #5),Clopidogrel,Clopilet,Cardiovascular & Lipid Lowering,Tablet,75mg,Prescription,Sun Pharma,Antiplatelet blood thinner for coronary artery disease.
+MED0485,Ecosprin AV 75mg+10mg (Blister Pack #5),Aspirin + Atorvastatin,Ecosprin,Cardiovascular & Lipid Lowering,Capsule,75mg+10mg,Prescription,USV Ltd,Dual cardiovascular preventive therapy combining statin and aspirin.
+MED0486,Sorbitrate 5mg (Blister Pack #5),Isosorbide Dinitrate,Sorbitrate,Cardiovascular & Lipid Lowering,Tablet,5mg,Prescription,Abbott India,Sublingual vasodilator for acute angina chest pain.
+MED0487,Nikoran 5mg (Blister Pack #5),Nicorandil,Nikoran,Cardiovascular & Lipid Lowering,Tablet,5mg,Prescription,Torrent Pharmaceuticals,Potassium channel activator for chronic stable angina.
+MED0488,Cardace 2.5mg (Blister Pack #5),Ramipril,Cardace,Cardiovascular & Lipid Lowering,Tablet,2.5mg,Prescription,Sanofi India,ACE inhibitor improving survival post-myocardial infarction.
+MED0489,Lipikind 10mg (Blister Pack #5),Atorvastatin,Lipikind,Cardiovascular & Lipid Lowering,Tablet,10mg,Prescription,Mankind Pharma,Reduces bad cholesterol and slows plaque buildup in arteries.
+MED0490,Rozucor 10mg (Blister Pack #5),Rosuvastatin,Rozucor,Cardiovascular & Lipid Lowering,Tablet,10mg,Prescription,Torrent Pharmaceuticals,Controls hypercholesterolemia and reduces cardiovascular events.
+MED0491,Nexito 10mg (Blister Pack #5),Escitalopram,Nexito,Neurology & Psychiatry,Tablet,10mg,Prescription,Sun Pharma,SSRI antidepressant prescribed for anxiety and major depressive disorder.
+MED0492,Gabapin NT 100mg+10mg (Blister Pack #5),Gabapentin + Nortriptyline,Gabapin,Neurology & Psychiatry,Tablet,100mg+10mg,Prescription,Intas Pharmaceuticals,Treats diabetic neuropathy and chronic nerve pain.
+MED0493,Naxdom 250mg+10mg (Blister Pack #5),Naproxen + Domperidone,Naxdom,Neurology & Psychiatry,Tablet,250mg+10mg,Prescription,Sun Pharma,Prevents and relieves acute migraine headaches and nausea.
+MED0494,Vertin 16mg (Blister Pack #5),Betahistine,Vertin,Neurology & Psychiatry,Tablet,16mg,Prescription,Abbott India,"Treats vertigo, tinnitus, and Meniere's disease balance disorders."
+MED0495,Pregalin M 75mg+750mcg (Blister Pack #5),Pregabalin + Methylcobalamin,Pregalin,Neurology & Psychiatry,Capsule,75mg+750mcg,Prescription,Torrent Pharmaceuticals,Supports nerve regeneration and relieves neuropathic pain.
+MED0496,Zapiz 0.25mg (Blister Pack #5),Clonazepam,Zapiz,Neurology & Psychiatry,Tablet,0.25mg,Prescription,Intas Pharmaceuticals,Benzodiazepine for panic disorder and seizure management.
+MED0497,Zolfresh 5mg (Blister Pack #5),Zolpidem,Zolfresh,Neurology & Psychiatry,Tablet,5mg,Prescription,Abbott India,Short-term treatment for acute insomnia and sleep onset.
+MED0498,Levipil 250mg (Blister Pack #5),Levetiracetam,Levipil,Neurology & Psychiatry,Tablet,250mg,Prescription,Sun Pharma,Antiepileptic drug for focal and generalized seizures.
+MED0499,Sibelium 5mg (Blister Pack #5),Flunarizine,Sibelium,Neurology & Psychiatry,Tablet,5mg,Prescription,Janssen Pharmaceuticals,Prophylactic medication to reduce migraine frequency.
+MED0500,Petril MD 0.5mg (Box #6),Clonazepam,Petril,Neurology & Psychiatry,Tablet,0.5mg,Prescription,Micro Labs Ltd,Mouth-dissolving tablet for acute anxiety and epilepsy.
+MED0501,Dolo 650mg (Box #6),Paracetamol,Dolo,Analgesics & Antipyretics,Tablet,650mg,OTC,Micro Labs Ltd,Used for fever reduction and mild to moderate pain relief.
+MED0502,Calpol 250mg/5ml (Box #6),Paracetamol,Calpol,Analgesics & Antipyretics,Syrup,250mg/5ml,OTC,GSK Pharmaceuticals,Pediatric and adult antipyretic suspension for fever.
+MED0503,Combiflam 400mg+325mg (Box #6),Ibuprofen + Paracetamol,Combiflam,Analgesics & Antipyretics,Tablet,400mg+325mg,OTC,Sanofi India,Combination anti-inflammatory and analgesic for musculoskeletal pain.
+MED0504,Zerodol-P 100mg+325mg (Box #6),Aceclofenac + Paracetamol,Zerodol,Analgesics & Antipyretics,Tablet,100mg+325mg,Prescription,Ipca Laboratories,"Prescribed for joint pain, arthritis, and dental pain."
+MED0505,Voveran SR 100mg (Box #6),Diclofenac Sodium,Voveran,Analgesics & Antipyretics,Tablet,100mg,Prescription,Novartis India,Sustained release NSAID for acute inflammation and pain.
+MED0506,Ultracet 37.5mg+325mg (Box #6),Tramadol + Paracetamol,Ultracet,Analgesics & Antipyretics,Tablet,37.5mg+325mg,Prescription,Janssen Pharmaceuticals,Moderate to severe acute pain management.
+MED0507,Meftal-Spas 500mg+20mg (Box #6),Mefenamic Acid + Dicyclomine,Meftal,Analgesics & Antipyretics,Tablet,500mg+20mg,Prescription,Blue Cross Laboratories,Antispasmodic and analgesic for abdominal cramps.
+MED0508,Crocin Advance 650mg (Box #6),Paracetamol,Crocin,Analgesics & Antipyretics,Tablet,650mg,OTC,GSK Consumer Healthcare,Fast-release paracetamol for headache and body ache.
+MED0509,Nise 100mg (Box #6),Nimesulide,Nise,Analgesics & Antipyretics,Tablet,100mg,Prescription,Dr. Reddy's Laboratories,NSAID for acute pain and inflammatory conditions.
+MED0510,Flexon 400mg+325mg (Box #6),Ibuprofen + Paracetamol,Flexon,Analgesics & Antipyretics,Tablet,400mg+325mg,OTC,Aristo Pharmaceuticals,"Relieves toothache, muscle ache, and fever."
+MED0511,Augmentin Duo 1000mg (Box #6),Amoxicillin + Clavulanic Acid,Augmentin,Antibiotics,Tablet,1000mg,Prescription,GSK Pharmaceuticals,Broad-spectrum penicillin antibiotic for respiratory and skin infections.
+MED0512,Azithral 500mg (Box #6),Azithromycin,Azithral,Antibiotics,Tablet,500mg,Prescription,Alembic Pharmaceuticals,"Macrolide antibiotic for throat, sinus, and chest infections."
+MED0513,Taxim-O 200mg (Box #6),Cefixime,Taxim,Antibiotics,Tablet,200mg,Prescription,Alkem Laboratories,Third-generation cephalosporin for urinary and typhoid infections.
+MED0514,Cifran 500mg (Box #6),Ciprofloxacin,Cifran,Antibiotics,Tablet,500mg,Prescription,Sun Pharma,Fluoroquinolone antibiotic for bacterial gastroenteritis and UTIs.
+MED0515,Monocef-O 200mg (Box #6),Cefpodoxime Proxetil,Monocef,Antibiotics,Tablet,200mg,Prescription,Aristo Pharmaceuticals,Oral cephalosporin for respiratory tract infections.
+MED0516,Moxikind-CV 625mg (Box #6),Amoxicillin + Clavulanic Acid,Moxikind,Antibiotics,Tablet,625mg,Prescription,Mankind Pharma,"Treats bacterial ear, sinus, and lower respiratory infections."
+MED0517,Zifi 400mg (Box #6),Cefixime,Zifi,Antibiotics,Tablet,400mg,Prescription,FDC Ltd,Broad-spectrum antibiotic for uncomplicated bacterial infections.
+MED0518,Oflox 400mg (Box #6),Ofloxacin,Oflox,Antibiotics,Tablet,400mg,Prescription,Cipla Ltd,Antibiotic for gastrointestinal and urinary tract bacterial infections.
+MED0519,Doxy-1 L-DR 100mg (Box #6),Doxycycline,Doxy-1,Antibiotics,Capsule,100mg,Prescription,USV Ltd,Tetracycline antibiotic for acne and atypical respiratory infections.
+MED0520,Metrogyl 400mg (Box #6),Metronidazole,Metrogyl,Antibiotics,Tablet,400mg,Prescription,JB Chemicals,Antiprotozoal and anaerobic antibacterial agent.
+MED0521,Glycomet-GP 2mg+500mg (Box #6),Glimepiride + Metformin,Glycomet,Antidiabetics,Tablet,2mg+500mg,Prescription,USV Ltd,Dual therapy for glycemic control in Type 2 diabetes mellitus.
+MED0522,Janumet 50mg+1000mg (Box #6),Sitagliptin + Metformin,Janumet,Antidiabetics,Tablet,50mg+1000mg,Prescription,MSD Pharmaceuticals,DPP-4 inhibitor combination to improve insulin response.
+MED0523,Galvus Met 50mg+850mg (Box #6),Vildagliptin + Metformin,Galvus,Antidiabetics,Tablet,50mg+850mg,Prescription,Novartis India,Controls fasting and post-meal blood sugar in Type 2 diabetes.
+MED0524,Lantus Solostar 100IU/ml (Box #6),Insulin Glargine,Lantus,Antidiabetics,Injection,100IU/ml,Prescription,Sanofi India,Long-acting basal insulin analog for 24-hour blood glucose control.
+MED0525,Jardiance 25mg (Box #6),Empagliflozin,Jardiance,Antidiabetics,Tablet,25mg,Prescription,Boehringer Ingelheim,SGLT2 inhibitor aiding glucose excretion and cardiovascular protection.
+MED0526,Glycomet SR 1000mg (Box #6),Metformin,Glycomet,Antidiabetics,Tablet,1000mg,Prescription,USV Ltd,First-line sustained-release oral antidiabetic medication.
+MED0527,Amaryl 2mg (Box #6),Glimepiride,Amaryl,Antidiabetics,Tablet,2mg,Prescription,Sanofi India,Sulfonylurea stimulating pancreatic insulin release.
+MED0528,Istamet 50mg+1000mg (Box #6),Sitagliptin + Metformin,Istamet,Antidiabetics,Tablet,50mg+1000mg,Prescription,Sun Pharma,Oral antihyperglycemic combination for Type 2 diabetes.
+MED0529,Mixtard 30 40IU/ml (Box #6),Human Insulin,Mixtard,Antidiabetics,Injection,40IU/ml,Prescription,Novo Nordisk,Biphasic insulin suspension for mealtime and basal glycemic control.
+MED0530,Teneligliptin Zita 20mg (Box #6),Teneligliptin,Zita,Antidiabetics,Tablet,20mg,Prescription,Glenmark Pharmaceuticals,DPP-4 inhibitor for blood glucose regulation.
+MED0531,Telma 80mg (Box #6),Telmisartan,Telma,Antihypertensives,Tablet,80mg,Prescription,Glenmark Pharmaceuticals,Angiotensin II receptor blocker (ARB) for hypertension.
+MED0532,Telma-H 40mg+12.5mg (Box #6),Telmisartan + Hydrochlorothiazide,Telma,Antihypertensives,Tablet,40mg+12.5mg,Prescription,Glenmark Pharmaceuticals,ARB and diuretic combination for uncontrolled hypertension.
+MED0533,Amlokind-AT 5mg+50mg (Box #6),Amlodipine + Atenolol,Amlokind,Antihypertensives,Tablet,5mg+50mg,Prescription,Mankind Pharma,Calcium channel blocker and beta-blocker for blood pressure.
+MED0534,Stamlo 10mg (Box #6),Amlodipine,Stamlo,Antihypertensives,Tablet,10mg,Prescription,Dr. Reddy's Laboratories,Relaxes blood vessels to lower blood pressure and angina.
+MED0535,Concor 5mg (Box #6),Bisoprolol,Concor,Antihypertensives,Tablet,5mg,Prescription,Merck Ltd,Cardioselective beta-blocker for hypertension and heart failure.
+MED0536,Met XL 50mg (Box #6),Metoprolol Succinate,Met XL,Antihypertensives,Tablet,50mg,Prescription,Ajanta Pharma,Extended-release beta-blocker for blood pressure and arrhythmia.
+MED0537,Olmezest 40mg (Box #6),Olmesartan Medoxomil,Olmezest,Antihypertensives,Tablet,40mg,Prescription,Sun Pharma,ARB antihypertensive for sustained blood pressure reduction.
+MED0538,Losar 50mg (Box #6),Losartan Potassium,Losar,Antihypertensives,Tablet,50mg,Prescription,Unichem Laboratories,Protects kidneys and reduces blood pressure in hypertensive patients.
+MED0539,Arkamin 100mcg (Box #6),Clonidine,Arkamin,Antihypertensives,Tablet,100mcg,Prescription,Torrent Pharmaceuticals,Centrally acting alpha-agonist for resistant hypertension.
+MED0540,Dytor 20mg (Box #6),Torasemide,Dytor,Antihypertensives,Tablet,20mg,Prescription,Cipla Ltd,Loop diuretic for fluid retention and hypertension.
+MED0541,Pan-D 40mg+30mg (Box #6),Pantoprazole + Domperidone,Pan,Gastrointestinal,Capsule,40mg+30mg,Prescription,Alkem Laboratories,Proton pump inhibitor and prokinetic for GERD and acid reflux.
+MED0542,Pan 40 40mg (Box #6),Pantoprazole,Pan,Gastrointestinal,Tablet,40mg,Prescription,Alkem Laboratories,Reduces stomach acid production in gastritis and peptic ulcers.
+MED0543,Omez 20mg (Box #6),Omeprazole,Omez,Gastrointestinal,Capsule,20mg,OTC,Dr. Reddy's Laboratories,"Relieves heartburn, acid indigestion, and sour stomach."
+MED0544,Digene Gel 200ml (Box #6),Magnesium Hydroxide + Simethicone,Digene,Gastrointestinal,Syrup,200ml,OTC,Abbott India,Antacid and anti-flatulent suspension for quick acidity relief.
+MED0545,Rantac 300mg (Box #6),Ranitidine,Rantac,Gastrointestinal,Tablet,300mg,OTC,JB Chemicals,H2 receptor blocker for heartburn and hyperacidity.
+MED0546,Ondem 8mg (Box #6),Ondansetron,Ondem,Gastrointestinal,Tablet,8mg,Prescription,Alkem Laboratories,Antiemetic medication to prevent nausea and vomiting.
+MED0547,Cremaffin Plus 225ml (Box #6),Liquid Paraffin + Milk of Magnesia,Cremaffin,Gastrointestinal,Syrup,225ml,OTC,Abbott India,Gentle osmotic and lubricant laxative for constipation.
+MED0548,Econorm 250mg (Box #6),Saccharomyces boulardii,Econorm,Gastrointestinal,Sachet,250mg,OTC,Dr. Reddy's Laboratories,Probiotic yeast supplement for acute infectious diarrhea.
+MED0549,Udapa / Udiliv 300mg (Box #6),Ursodeoxycholic Acid,Udiliv,Gastrointestinal,Tablet,300mg,Prescription,Abbott India,Hepatoprotective bile acid for gallstones and fatty liver.
+MED0550,Gaviscon 150ml (Box #6),Sodium Alginate + Sodium Bicarbonate,Gaviscon,Gastrointestinal,Syrup,150ml,OTC,Reckitt Benckiser,Forms protective raft against gastroesophageal reflux.
+MED0551,Montair LC 10mg+5mg (Box #6),Montelukast + Levocetirizine,Montair,Respiratory & Anti-Allergics,Tablet,10mg+5mg,Prescription,Cipla Ltd,"Treats allergic rhinitis, sneezing, and seasonal asthma."
+MED0552,Allegra 180mg (Box #6),Fexofenadine,Allegra,Respiratory & Anti-Allergics,Tablet,180mg,OTC,Sanofi India,Non-drowsy antihistamine for hay fever and urticaria.
+MED0553,Cetrizine Okacet 10mg (Box #6),Cetirizine,Okacet,Respiratory & Anti-Allergics,Tablet,10mg,OTC,Cipla Ltd,"Relieves watery eyes, runny nose, and skin itching."
+MED0554,Asthalin Inhaler 100mcg (Box #6),Salbutamol,Asthalin,Respiratory & Anti-Allergics,Inhaler,100mcg,Prescription,Cipla Ltd,Fast-acting bronchodilator for acute asthma bronchospasm.
+MED0555,Foracort Inhaler 400mcg (Box #6),Formoterol + Budesonide,Foracort,Respiratory & Anti-Allergics,Inhaler,400mcg,Prescription,Cipla Ltd,Maintenance inhaler for asthma and COPD airway inflammation.
+MED0556,Benadryl Cough 150ml (Box #6),Diphenhydramine + Ammonium Chloride,Benadryl,Respiratory & Anti-Allergics,Syrup,150ml,OTC,Johnson & Johnson,Relieves productive and allergic cough and throat irritation.
+MED0557,Ascoril LS 100ml (Box #6),Levosalbutamol + Ambroxol + Guaifenesin,Ascoril,Respiratory & Anti-Allergics,Syrup,100ml,Prescription,Glenmark Pharmaceuticals,Mucolytic and bronchodilator expectorant for wet cough.
+MED0558,Otrivin Oxy 0.05% (Box #6),Oxymetazoline,Otrivin,Respiratory & Anti-Allergics,Drops,0.05%,OTC,GSK Consumer Healthcare,Nasal decongestant drops for blocked nose relief.
+MED0559,Sinarest New 500mg+10mg+2mg (Box #6),Paracetamol + Phenylephrine + Chlorpheniramine,Sinarest,Respiratory & Anti-Allergics,Tablet,500mg+10mg+2mg,OTC,Centaur Pharmaceuticals,"Multi-symptom relief for common cold, sinusitis, and headache."
+MED0560,Budecort Respules 0.5mg/2ml (Box #6),Budesonide,Budecort,Respiratory & Anti-Allergics,Suspension,0.5mg/2ml,Prescription,Cipla Ltd,Nebulizer corticosteroid suspension for pediatric and adult asthma.
+MED0561,Shelcal 500 500mg+250IU (Box #6),Calcium + Vitamin D3,Shelcal,Vitamins & Supplements,Tablet,500mg+250IU,OTC,Torrent Pharmaceuticals,"Supports bone density, calcium absorption, and joint strength."
+MED0562,Becosules Z Standard (Box #6),B-Complex + Vitamin C + Zinc,Becosules,Vitamins & Supplements,Capsule,Standard,OTC,Pfizer Ltd,"Boosts immunity, energy metabolism, and tissue repair."
+MED0563,Limcee 500mg (Box #6),Vitamin C (Ascorbic Acid),Limcee,Vitamins & Supplements,Tablet,500mg,OTC,Abbott India,Chewable antioxidant supplement for immune defense.
+MED0564,Neurobion Forte Standard (Box #6),Vitamin B1 + B2 + B3 + B6 + B12,Neurobion,Vitamins & Supplements,Tablet,Standard,OTC,Procter & Gamble Health,Supports nerve health and relieves tingling or numbness.
+MED0565,Uprise-D3 60000IU (Box #6),Cholecalciferol (Vitamin D3),Uprise,Vitamins & Supplements,Capsule,60000IU,OTC,Alkem Laboratories,Weekly high-dose Vitamin D3 supplement for deficiency.
+MED0566,Zincovit Standard (Box #6),Multivitamins + Multiminerals + Grape Seed,Zincovit,Vitamins & Supplements,Tablet,Standard,OTC,Apex Laboratories,Daily nutritional supplement for general wellness and recovery.
+MED0567,Evion 400mg (Box #6),Vitamin E (Tocopheryl Acetate),Evion,Vitamins & Supplements,Capsule,400mg,OTC,Procter & Gamble Health,"Antioxidant supporting skin, hair, and muscle health."
+MED0568,Autrin Standard (Box #6),Ferrous Fumarate + Folic Acid + B12,Autrin,Vitamins & Supplements,Capsule,Standard,OTC,Pfizer Ltd,Hematinic supplement for iron deficiency anemia.
+MED0569,Supradyn Daily Standard (Box #6),Multivitamin + Trace Elements,Supradyn,Vitamins & Supplements,Tablet,Standard,OTC,Bayer Zydus Pharma,Comprehensive daily vitality and micronutrient tablet.
+MED0570,Livogen-Z Standard (Box #6),Ferrous Fumarate + Folic Acid + Zinc,Livogen,Vitamins & Supplements,Tablet,Standard,OTC,Procter & Gamble Health,Iron and folic acid supplement for pregnancy and anemia.
+MED0571,Betadine Ointment 10% w/w (Box #6),Povidone-Iodine,Betadine,Dermatologicals,Ointment,10% w/w,OTC,Win-Medicare,"Topical antiseptic for minor cuts, wounds, and burns."
+MED0572,Candid-B Cream 30g (Box #6),Clotrimazole + Beclomethasone,Candid,Dermatologicals,Cream,30g,Prescription,Glenmark Pharmaceuticals,Antifungal and anti-inflammatory cream for fungal skin infections.
+MED0573,Soframycin Skin 1% w/w (Box #6),Framycetin,Soframycin,Dermatologicals,Cream,1% w/w,OTC,Sanofi India,Topical antibacterial cream for minor skin infections and boils.
+MED0574,T-Bact Ointment 2% w/w (Box #6),Mupirocin,T-Bact,Dermatologicals,Ointment,2% w/w,Prescription,GSK Pharmaceuticals,Topical antibiotic for impetigo and bacterial skin lesions.
+MED0575,Cligel-N 1%+4% (Box #6),Clindamycin + Nicotinamide,Cligel,Dermatologicals,Gel,1%+4%,Prescription,Glenmark Pharmaceuticals,Topical anti-acne gel reducing pimples and inflammation.
+MED0576,Calamine Lacto 120ml (Box #6),Calamine + Light Kaolin,Lacto Calamine,Dermatologicals,Lotion,120ml,OTC,Piramal Pharma,"Soothing skin lotion for sunburn, rashes, and itching."
+MED0577,Quadriderm RF 10g (Box #6),Beclomethasone + Neomycin + Clotrimazole,Quadriderm,Dermatologicals,Cream,10g,Prescription,MSD Pharmaceuticals,Broad-spectrum topical cream for mixed skin infections.
+MED0578,Ketocip Shampoo 2% w/v (Box #6),Ketoconazole,Ketocip,Dermatologicals,Shampoo,2% w/v,OTC,Cipla Ltd,Medicated antifungal shampoo for dandruff and seborrheic dermatitis.
+MED0579,Melamet Cream 15g (Box #6),Hydroquinone + Tretinoin + Mometasone,Melamet,Dermatologicals,Cream,15g,Prescription,Universal NutriScience,Depigmenting cream for melasma under dermatological supervision.
+MED0580,Silverex Ionic 0.2% w/w (Box #6),Silver Nitrate,Silverex,Dermatologicals,Gel,0.2% w/w,OTC,Sun Pharma,Antimicrobial gel for burn wounds and skin ulcers.
+MED0581,Ecosprin 150mg (Box #6),Aspirin,Ecosprin,Cardiovascular & Lipid Lowering,Tablet,150mg,Prescription,USV Ltd,Low-dose antiplatelet agent preventing heart attacks and strokes.
+MED0582,Atorva 40mg (Box #6),Atorvastatin,Atorva,Cardiovascular & Lipid Lowering,Tablet,40mg,Prescription,Zydus Lifesciences,Statin medication to lower LDL cholesterol and triglycerides.
+MED0583,Rosuvas 20mg (Box #6),Rosuvastatin,Rosuvas,Cardiovascular & Lipid Lowering,Tablet,20mg,Prescription,Sun Pharma,Potent lipid-lowering statin for dyslipidemia management.
+MED0584,Clopilet 75mg (Box #6),Clopidogrel,Clopilet,Cardiovascular & Lipid Lowering,Tablet,75mg,Prescription,Sun Pharma,Antiplatelet blood thinner for coronary artery disease.
+MED0585,Ecosprin AV 75mg+20mg (Box #6),Aspirin + Atorvastatin,Ecosprin,Cardiovascular & Lipid Lowering,Capsule,75mg+20mg,Prescription,USV Ltd,Dual cardiovascular preventive therapy combining statin and aspirin.
+MED0586,Sorbitrate 10mg (Box #6),Isosorbide Dinitrate,Sorbitrate,Cardiovascular & Lipid Lowering,Tablet,10mg,Prescription,Abbott India,Sublingual vasodilator for acute angina chest pain.
+MED0587,Nikoran 10mg (Box #6),Nicorandil,Nikoran,Cardiovascular & Lipid Lowering,Tablet,10mg,Prescription,Torrent Pharmaceuticals,Potassium channel activator for chronic stable angina.
+MED0588,Cardace 5mg (Box #6),Ramipril,Cardace,Cardiovascular & Lipid Lowering,Tablet,5mg,Prescription,Sanofi India,ACE inhibitor improving survival post-myocardial infarction.
+MED0589,Lipikind 20mg (Box #6),Atorvastatin,Lipikind,Cardiovascular & Lipid Lowering,Tablet,20mg,Prescription,Mankind Pharma,Reduces bad cholesterol and slows plaque buildup in arteries.
+MED0590,Rozucor 20mg (Box #6),Rosuvastatin,Rozucor,Cardiovascular & Lipid Lowering,Tablet,20mg,Prescription,Torrent Pharmaceuticals,Controls hypercholesterolemia and reduces cardiovascular events.
+MED0591,Nexito 20mg (Box #6),Escitalopram,Nexito,Neurology & Psychiatry,Tablet,20mg,Prescription,Sun Pharma,SSRI antidepressant prescribed for anxiety and major depressive disorder.
+MED0592,Gabapin NT 400mg+10mg (Box #6),Gabapentin + Nortriptyline,Gabapin,Neurology & Psychiatry,Tablet,400mg+10mg,Prescription,Intas Pharmaceuticals,Treats diabetic neuropathy and chronic nerve pain.
+MED0593,Naxdom 500mg+10mg (Box #6),Naproxen + Domperidone,Naxdom,Neurology & Psychiatry,Tablet,500mg+10mg,Prescription,Sun Pharma,Prevents and relieves acute migraine headaches and nausea.
+MED0594,Vertin 24mg (Box #6),Betahistine,Vertin,Neurology & Psychiatry,Tablet,24mg,Prescription,Abbott India,"Treats vertigo, tinnitus, and Meniere's disease balance disorders."
+MED0595,Pregalin M 75mg+750mcg (Box #6),Pregabalin + Methylcobalamin,Pregalin,Neurology & Psychiatry,Capsule,75mg+750mcg,Prescription,Torrent Pharmaceuticals,Supports nerve regeneration and relieves neuropathic pain.
+MED0596,Zapiz 0.5mg (Box #6),Clonazepam,Zapiz,Neurology & Psychiatry,Tablet,0.5mg,Prescription,Intas Pharmaceuticals,Benzodiazepine for panic disorder and seizure management.
+MED0597,Zolfresh 10mg (Box #6),Zolpidem,Zolfresh,Neurology & Psychiatry,Tablet,10mg,Prescription,Abbott India,Short-term treatment for acute insomnia and sleep onset.
+MED0598,Levipil 500mg (Box #6),Levetiracetam,Levipil,Neurology & Psychiatry,Tablet,500mg,Prescription,Sun Pharma,Antiepileptic drug for focal and generalized seizures.
+MED0599,Sibelium 10mg (Box #6),Flunarizine,Sibelium,Neurology & Psychiatry,Tablet,10mg,Prescription,Janssen Pharmaceuticals,Prophylactic medication to reduce migraine frequency.
+MED0600,Petril MD 0.25mg (Economy Pack #7),Clonazepam,Petril,Neurology & Psychiatry,Tablet,0.25mg,Prescription,Micro Labs Ltd,Mouth-dissolving tablet for acute anxiety and epilepsy.
+MED0601,Dolo 500mg (Economy Pack #7),Paracetamol,Dolo,Analgesics & Antipyretics,Tablet,500mg,OTC,Micro Labs Ltd,Used for fever reduction and mild to moderate pain relief.
+MED0602,Calpol 120mg/5ml (Economy Pack #7),Paracetamol,Calpol,Analgesics & Antipyretics,Syrup,120mg/5ml,OTC,GSK Pharmaceuticals,Pediatric and adult antipyretic suspension for fever.
+MED0603,Combiflam 400mg+325mg (Economy Pack #7),Ibuprofen + Paracetamol,Combiflam,Analgesics & Antipyretics,Tablet,400mg+325mg,OTC,Sanofi India,Combination anti-inflammatory and analgesic for musculoskeletal pain.
+MED0604,Zerodol-P 100mg+325mg (Economy Pack #7),Aceclofenac + Paracetamol,Zerodol,Analgesics & Antipyretics,Tablet,100mg+325mg,Prescription,Ipca Laboratories,"Prescribed for joint pain, arthritis, and dental pain."
+MED0605,Voveran SR 50mg (Economy Pack #7),Diclofenac Sodium,Voveran,Analgesics & Antipyretics,Tablet,50mg,Prescription,Novartis India,Sustained release NSAID for acute inflammation and pain.
+MED0606,Ultracet 37.5mg+325mg (Economy Pack #7),Tramadol + Paracetamol,Ultracet,Analgesics & Antipyretics,Tablet,37.5mg+325mg,Prescription,Janssen Pharmaceuticals,Moderate to severe acute pain management.
+MED0607,Meftal-Spas 250mg+10mg (Economy Pack #7),Mefenamic Acid + Dicyclomine,Meftal,Analgesics & Antipyretics,Tablet,250mg+10mg,Prescription,Blue Cross Laboratories,Antispasmodic and analgesic for abdominal cramps.
+MED0608,Crocin Advance 500mg (Economy Pack #7),Paracetamol,Crocin,Analgesics & Antipyretics,Tablet,500mg,OTC,GSK Consumer Healthcare,Fast-release paracetamol for headache and body ache.
+MED0609,Nise 100mg (Economy Pack #7),Nimesulide,Nise,Analgesics & Antipyretics,Tablet,100mg,Prescription,Dr. Reddy's Laboratories,NSAID for acute pain and inflammatory conditions.
+MED0610,Flexon 400mg+325mg (Economy Pack #7),Ibuprofen + Paracetamol,Flexon,Analgesics & Antipyretics,Tablet,400mg+325mg,OTC,Aristo Pharmaceuticals,"Relieves toothache, muscle ache, and fever."
+MED0611,Augmentin Duo 625mg (Economy Pack #7),Amoxicillin + Clavulanic Acid,Augmentin,Antibiotics,Tablet,625mg,Prescription,GSK Pharmaceuticals,Broad-spectrum penicillin antibiotic for respiratory and skin infections.
+MED0612,Azithral 250mg (Economy Pack #7),Azithromycin,Azithral,Antibiotics,Tablet,250mg,Prescription,Alembic Pharmaceuticals,"Macrolide antibiotic for throat, sinus, and chest infections."
+MED0613,Taxim-O 100mg (Economy Pack #7),Cefixime,Taxim,Antibiotics,Tablet,100mg,Prescription,Alkem Laboratories,Third-generation cephalosporin for urinary and typhoid infections.
+MED0614,Cifran 250mg (Economy Pack #7),Ciprofloxacin,Cifran,Antibiotics,Tablet,250mg,Prescription,Sun Pharma,Fluoroquinolone antibiotic for bacterial gastroenteritis and UTIs.
+MED0615,Monocef-O 100mg (Economy Pack #7),Cefpodoxime Proxetil,Monocef,Antibiotics,Tablet,100mg,Prescription,Aristo Pharmaceuticals,Oral cephalosporin for respiratory tract infections.
+MED0616,Moxikind-CV 375mg (Economy Pack #7),Amoxicillin + Clavulanic Acid,Moxikind,Antibiotics,Tablet,375mg,Prescription,Mankind Pharma,"Treats bacterial ear, sinus, and lower respiratory infections."
+MED0617,Zifi 200mg (Economy Pack #7),Cefixime,Zifi,Antibiotics,Tablet,200mg,Prescription,FDC Ltd,Broad-spectrum antibiotic for uncomplicated bacterial infections.
+MED0618,Oflox 200mg (Economy Pack #7),Ofloxacin,Oflox,Antibiotics,Tablet,200mg,Prescription,Cipla Ltd,Antibiotic for gastrointestinal and urinary tract bacterial infections.
+MED0619,Doxy-1 L-DR 100mg (Economy Pack #7),Doxycycline,Doxy-1,Antibiotics,Capsule,100mg,Prescription,USV Ltd,Tetracycline antibiotic for acne and atypical respiratory infections.
+MED0620,Metrogyl 200mg (Economy Pack #7),Metronidazole,Metrogyl,Antibiotics,Tablet,200mg,Prescription,JB Chemicals,Antiprotozoal and anaerobic antibacterial agent.
+MED0621,Glycomet-GP 1mg+500mg (Economy Pack #7),Glimepiride + Metformin,Glycomet,Antidiabetics,Tablet,1mg+500mg,Prescription,USV Ltd,Dual therapy for glycemic control in Type 2 diabetes mellitus.
+MED0622,Janumet 50mg+500mg (Economy Pack #7),Sitagliptin + Metformin,Janumet,Antidiabetics,Tablet,50mg+500mg,Prescription,MSD Pharmaceuticals,DPP-4 inhibitor combination to improve insulin response.
+MED0623,Galvus Met 50mg+500mg (Economy Pack #7),Vildagliptin + Metformin,Galvus,Antidiabetics,Tablet,50mg+500mg,Prescription,Novartis India,Controls fasting and post-meal blood sugar in Type 2 diabetes.
+MED0624,Lantus Solostar 100IU/ml (Economy Pack #7),Insulin Glargine,Lantus,Antidiabetics,Injection,100IU/ml,Prescription,Sanofi India,Long-acting basal insulin analog for 24-hour blood glucose control.
+MED0625,Jardiance 10mg (Economy Pack #7),Empagliflozin,Jardiance,Antidiabetics,Tablet,10mg,Prescription,Boehringer Ingelheim,SGLT2 inhibitor aiding glucose excretion and cardiovascular protection.
+MED0626,Glycomet SR 500mg (Economy Pack #7),Metformin,Glycomet,Antidiabetics,Tablet,500mg,Prescription,USV Ltd,First-line sustained-release oral antidiabetic medication.
+MED0627,Amaryl 1mg (Economy Pack #7),Glimepiride,Amaryl,Antidiabetics,Tablet,1mg,Prescription,Sanofi India,Sulfonylurea stimulating pancreatic insulin release.
+MED0628,Istamet 50mg+500mg (Economy Pack #7),Sitagliptin + Metformin,Istamet,Antidiabetics,Tablet,50mg+500mg,Prescription,Sun Pharma,Oral antihyperglycemic combination for Type 2 diabetes.
+MED0629,Mixtard 30 40IU/ml (Economy Pack #7),Human Insulin,Mixtard,Antidiabetics,Injection,40IU/ml,Prescription,Novo Nordisk,Biphasic insulin suspension for mealtime and basal glycemic control.
+MED0630,Teneligliptin Zita 20mg (Economy Pack #7),Teneligliptin,Zita,Antidiabetics,Tablet,20mg,Prescription,Glenmark Pharmaceuticals,DPP-4 inhibitor for blood glucose regulation.
+MED0631,Telma 20mg (Economy Pack #7),Telmisartan,Telma,Antihypertensives,Tablet,20mg,Prescription,Glenmark Pharmaceuticals,Angiotensin II receptor blocker (ARB) for hypertension.
+MED0632,Telma-H 40mg+12.5mg (Economy Pack #7),Telmisartan + Hydrochlorothiazide,Telma,Antihypertensives,Tablet,40mg+12.5mg,Prescription,Glenmark Pharmaceuticals,ARB and diuretic combination for uncontrolled hypertension.
+MED0633,Amlokind-AT 5mg+50mg (Economy Pack #7),Amlodipine + Atenolol,Amlokind,Antihypertensives,Tablet,5mg+50mg,Prescription,Mankind Pharma,Calcium channel blocker and beta-blocker for blood pressure.
+MED0634,Stamlo 2.5mg (Economy Pack #7),Amlodipine,Stamlo,Antihypertensives,Tablet,2.5mg,Prescription,Dr. Reddy's Laboratories,Relaxes blood vessels to lower blood pressure and angina.
+MED0635,Concor 2.5mg (Economy Pack #7),Bisoprolol,Concor,Antihypertensives,Tablet,2.5mg,Prescription,Merck Ltd,Cardioselective beta-blocker for hypertension and heart failure.
+MED0636,Met XL 25mg (Economy Pack #7),Metoprolol Succinate,Met XL,Antihypertensives,Tablet,25mg,Prescription,Ajanta Pharma,Extended-release beta-blocker for blood pressure and arrhythmia.
+MED0637,Olmezest 20mg (Economy Pack #7),Olmesartan Medoxomil,Olmezest,Antihypertensives,Tablet,20mg,Prescription,Sun Pharma,ARB antihypertensive for sustained blood pressure reduction.
+MED0638,Losar 25mg (Economy Pack #7),Losartan Potassium,Losar,Antihypertensives,Tablet,25mg,Prescription,Unichem Laboratories,Protects kidneys and reduces blood pressure in hypertensive patients.
+MED0639,Arkamin 100mcg (Economy Pack #7),Clonidine,Arkamin,Antihypertensives,Tablet,100mcg,Prescription,Torrent Pharmaceuticals,Centrally acting alpha-agonist for resistant hypertension.
+MED0640,Dytor 10mg (Economy Pack #7),Torasemide,Dytor,Antihypertensives,Tablet,10mg,Prescription,Cipla Ltd,Loop diuretic for fluid retention and hypertension.
+MED0641,Pan-D 40mg+30mg (Economy Pack #7),Pantoprazole + Domperidone,Pan,Gastrointestinal,Capsule,40mg+30mg,Prescription,Alkem Laboratories,Proton pump inhibitor and prokinetic for GERD and acid reflux.
+MED0642,Pan 40 40mg (Economy Pack #7),Pantoprazole,Pan,Gastrointestinal,Tablet,40mg,Prescription,Alkem Laboratories,Reduces stomach acid production in gastritis and peptic ulcers.
+MED0643,Omez 20mg (Economy Pack #7),Omeprazole,Omez,Gastrointestinal,Capsule,20mg,OTC,Dr. Reddy's Laboratories,"Relieves heartburn, acid indigestion, and sour stomach."
+MED0644,Digene Gel 200ml (Economy Pack #7),Magnesium Hydroxide + Simethicone,Digene,Gastrointestinal,Syrup,200ml,OTC,Abbott India,Antacid and anti-flatulent suspension for quick acidity relief.
+MED0645,Rantac 150mg (Economy Pack #7),Ranitidine,Rantac,Gastrointestinal,Tablet,150mg,OTC,JB Chemicals,H2 receptor blocker for heartburn and hyperacidity.
+MED0646,Ondem 4mg (Economy Pack #7),Ondansetron,Ondem,Gastrointestinal,Tablet,4mg,Prescription,Alkem Laboratories,Antiemetic medication to prevent nausea and vomiting.
+MED0647,Cremaffin Plus 225ml (Economy Pack #7),Liquid Paraffin + Milk of Magnesia,Cremaffin,Gastrointestinal,Syrup,225ml,OTC,Abbott India,Gentle osmotic and lubricant laxative for constipation.
+MED0648,Econorm 250mg (Economy Pack #7),Saccharomyces boulardii,Econorm,Gastrointestinal,Sachet,250mg,OTC,Dr. Reddy's Laboratories,Probiotic yeast supplement for acute infectious diarrhea.
+MED0649,Udapa / Udiliv 150mg (Economy Pack #7),Ursodeoxycholic Acid,Udiliv,Gastrointestinal,Tablet,150mg,Prescription,Abbott India,Hepatoprotective bile acid for gallstones and fatty liver.
+MED0650,Gaviscon 150ml (Economy Pack #7),Sodium Alginate + Sodium Bicarbonate,Gaviscon,Gastrointestinal,Syrup,150ml,OTC,Reckitt Benckiser,Forms protective raft against gastroesophageal reflux.
+MED0651,Montair LC 10mg+5mg (Economy Pack #7),Montelukast + Levocetirizine,Montair,Respiratory & Anti-Allergics,Tablet,10mg+5mg,Prescription,Cipla Ltd,"Treats allergic rhinitis, sneezing, and seasonal asthma."
+MED0652,Allegra 120mg (Economy Pack #7),Fexofenadine,Allegra,Respiratory & Anti-Allergics,Tablet,120mg,OTC,Sanofi India,Non-drowsy antihistamine for hay fever and urticaria.
+MED0653,Cetrizine Okacet 10mg (Economy Pack #7),Cetirizine,Okacet,Respiratory & Anti-Allergics,Tablet,10mg,OTC,Cipla Ltd,"Relieves watery eyes, runny nose, and skin itching."
+MED0654,Asthalin Inhaler 100mcg (Economy Pack #7),Salbutamol,Asthalin,Respiratory & Anti-Allergics,Inhaler,100mcg,Prescription,Cipla Ltd,Fast-acting bronchodilator for acute asthma bronchospasm.
+MED0655,Foracort Inhaler 200mcg (Economy Pack #7),Formoterol + Budesonide,Foracort,Respiratory & Anti-Allergics,Inhaler,200mcg,Prescription,Cipla Ltd,Maintenance inhaler for asthma and COPD airway inflammation.
+MED0656,Benadryl Cough 150ml (Economy Pack #7),Diphenhydramine + Ammonium Chloride,Benadryl,Respiratory & Anti-Allergics,Syrup,150ml,OTC,Johnson & Johnson,Relieves productive and allergic cough and throat irritation.
+MED0657,Ascoril LS 100ml (Economy Pack #7),Levosalbutamol + Ambroxol + Guaifenesin,Ascoril,Respiratory & Anti-Allergics,Syrup,100ml,Prescription,Glenmark Pharmaceuticals,Mucolytic and bronchodilator expectorant for wet cough.
+MED0658,Otrivin Oxy 0.05% (Economy Pack #7),Oxymetazoline,Otrivin,Respiratory & Anti-Allergics,Drops,0.05%,OTC,GSK Consumer Healthcare,Nasal decongestant drops for blocked nose relief.
+MED0659,Sinarest New 500mg+10mg+2mg (Economy Pack #7),Paracetamol + Phenylephrine + Chlorpheniramine,Sinarest,Respiratory & Anti-Allergics,Tablet,500mg+10mg+2mg,OTC,Centaur Pharmaceuticals,"Multi-symptom relief for common cold, sinusitis, and headache."
+MED0660,Budecort Respules 0.5mg/2ml (Economy Pack #7),Budesonide,Budecort,Respiratory & Anti-Allergics,Suspension,0.5mg/2ml,Prescription,Cipla Ltd,Nebulizer corticosteroid suspension for pediatric and adult asthma.
+MED0661,Shelcal 500 500mg+250IU (Economy Pack #7),Calcium + Vitamin D3,Shelcal,Vitamins & Supplements,Tablet,500mg+250IU,OTC,Torrent Pharmaceuticals,"Supports bone density, calcium absorption, and joint strength."
+MED0662,Becosules Z Standard (Economy Pack #7),B-Complex + Vitamin C + Zinc,Becosules,Vitamins & Supplements,Capsule,Standard,OTC,Pfizer Ltd,"Boosts immunity, energy metabolism, and tissue repair."
+MED0663,Limcee 500mg (Economy Pack #7),Vitamin C (Ascorbic Acid),Limcee,Vitamins & Supplements,Tablet,500mg,OTC,Abbott India,Chewable antioxidant supplement for immune defense.
+MED0664,Neurobion Forte Standard (Economy Pack #7),Vitamin B1 + B2 + B3 + B6 + B12,Neurobion,Vitamins & Supplements,Tablet,Standard,OTC,Procter & Gamble Health,Supports nerve health and relieves tingling or numbness.
+MED0665,Uprise-D3 60000IU (Economy Pack #7),Cholecalciferol (Vitamin D3),Uprise,Vitamins & Supplements,Capsule,60000IU,OTC,Alkem Laboratories,Weekly high-dose Vitamin D3 supplement for deficiency.
+MED0666,Zincovit Standard (Economy Pack #7),Multivitamins + Multiminerals + Grape Seed,Zincovit,Vitamins & Supplements,Tablet,Standard,OTC,Apex Laboratories,Daily nutritional supplement for general wellness and recovery.
+MED0667,Evion 200mg (Economy Pack #7),Vitamin E (Tocopheryl Acetate),Evion,Vitamins & Supplements,Capsule,200mg,OTC,Procter & Gamble Health,"Antioxidant supporting skin, hair, and muscle health."
+MED0668,Autrin Standard (Economy Pack #7),Ferrous Fumarate + Folic Acid + B12,Autrin,Vitamins & Supplements,Capsule,Standard,OTC,Pfizer Ltd,Hematinic supplement for iron deficiency anemia.
+MED0669,Supradyn Daily Standard (Economy Pack #7),Multivitamin + Trace Elements,Supradyn,Vitamins & Supplements,Tablet,Standard,OTC,Bayer Zydus Pharma,Comprehensive daily vitality and micronutrient tablet.
+MED0670,Livogen-Z Standard (Economy Pack #7),Ferrous Fumarate + Folic Acid + Zinc,Livogen,Vitamins & Supplements,Tablet,Standard,OTC,Procter & Gamble Health,Iron and folic acid supplement for pregnancy and anemia.
+MED0671,Betadine Ointment 5% w/w (Economy Pack #7),Povidone-Iodine,Betadine,Dermatologicals,Ointment,5% w/w,OTC,Win-Medicare,"Topical antiseptic for minor cuts, wounds, and burns."
+MED0672,Candid-B Cream 15g (Economy Pack #7),Clotrimazole + Beclomethasone,Candid,Dermatologicals,Cream,15g,Prescription,Glenmark Pharmaceuticals,Antifungal and anti-inflammatory cream for fungal skin infections.
+MED0673,Soframycin Skin 1% w/w (Economy Pack #7),Framycetin,Soframycin,Dermatologicals,Cream,1% w/w,OTC,Sanofi India,Topical antibacterial cream for minor skin infections and boils.
+MED0674,T-Bact Ointment 2% w/w (Economy Pack #7),Mupirocin,T-Bact,Dermatologicals,Ointment,2% w/w,Prescription,GSK Pharmaceuticals,Topical antibiotic for impetigo and bacterial skin lesions.
+MED0675,Cligel-N 1%+4% (Economy Pack #7),Clindamycin + Nicotinamide,Cligel,Dermatologicals,Gel,1%+4%,Prescription,Glenmark Pharmaceuticals,Topical anti-acne gel reducing pimples and inflammation.
+MED0676,Calamine Lacto 120ml (Economy Pack #7),Calamine + Light Kaolin,Lacto Calamine,Dermatologicals,Lotion,120ml,OTC,Piramal Pharma,"Soothing skin lotion for sunburn, rashes, and itching."
+MED0677,Quadriderm RF 10g (Economy Pack #7),Beclomethasone + Neomycin + Clotrimazole,Quadriderm,Dermatologicals,Cream,10g,Prescription,MSD Pharmaceuticals,Broad-spectrum topical cream for mixed skin infections.
+MED0678,Ketocip Shampoo 2% w/v (Economy Pack #7),Ketoconazole,Ketocip,Dermatologicals,Shampoo,2% w/v,OTC,Cipla Ltd,Medicated antifungal shampoo for dandruff and seborrheic dermatitis.
+MED0679,Melamet Cream 15g (Economy Pack #7),Hydroquinone + Tretinoin + Mometasone,Melamet,Dermatologicals,Cream,15g,Prescription,Universal NutriScience,Depigmenting cream for melasma under dermatological supervision.
+MED0680,Silverex Ionic 0.2% w/w (Economy Pack #7),Silver Nitrate,Silverex,Dermatologicals,Gel,0.2% w/w,OTC,Sun Pharma,Antimicrobial gel for burn wounds and skin ulcers.
+MED0681,Ecosprin 75mg (Economy Pack #7),Aspirin,Ecosprin,Cardiovascular & Lipid Lowering,Tablet,75mg,Prescription,USV Ltd,Low-dose antiplatelet agent preventing heart attacks and strokes.
+MED0682,Atorva 10mg (Economy Pack #7),Atorvastatin,Atorva,Cardiovascular & Lipid Lowering,Tablet,10mg,Prescription,Zydus Lifesciences,Statin medication to lower LDL cholesterol and triglycerides.
+MED0683,Rosuvas 5mg (Economy Pack #7),Rosuvastatin,Rosuvas,Cardiovascular & Lipid Lowering,Tablet,5mg,Prescription,Sun Pharma,Potent lipid-lowering statin for dyslipidemia management.
+MED0684,Clopilet 75mg (Economy Pack #7),Clopidogrel,Clopilet,Cardiovascular & Lipid Lowering,Tablet,75mg,Prescription,Sun Pharma,Antiplatelet blood thinner for coronary artery disease.
+MED0685,Ecosprin AV 75mg+10mg (Economy Pack #7),Aspirin + Atorvastatin,Ecosprin,Cardiovascular & Lipid Lowering,Capsule,75mg+10mg,Prescription,USV Ltd,Dual cardiovascular preventive therapy combining statin and aspirin.
+MED0686,Sorbitrate 5mg (Economy Pack #7),Isosorbide Dinitrate,Sorbitrate,Cardiovascular & Lipid Lowering,Tablet,5mg,Prescription,Abbott India,Sublingual vasodilator for acute angina chest pain.
+MED0687,Nikoran 5mg (Economy Pack #7),Nicorandil,Nikoran,Cardiovascular & Lipid Lowering,Tablet,5mg,Prescription,Torrent Pharmaceuticals,Potassium channel activator for chronic stable angina.
+MED0688,Cardace 2.5mg (Economy Pack #7),Ramipril,Cardace,Cardiovascular & Lipid Lowering,Tablet,2.5mg,Prescription,Sanofi India,ACE inhibitor improving survival post-myocardial infarction.
+MED0689,Lipikind 10mg (Economy Pack #7),Atorvastatin,Lipikind,Cardiovascular & Lipid Lowering,Tablet,10mg,Prescription,Mankind Pharma,Reduces bad cholesterol and slows plaque buildup in arteries.
+MED0690,Rozucor 10mg (Economy Pack #7),Rosuvastatin,Rozucor,Cardiovascular & Lipid Lowering,Tablet,10mg,Prescription,Torrent Pharmaceuticals,Controls hypercholesterolemia and reduces cardiovascular events.
+MED0691,Nexito 5mg (Economy Pack #7),Escitalopram,Nexito,Neurology & Psychiatry,Tablet,5mg,Prescription,Sun Pharma,SSRI antidepressant prescribed for anxiety and major depressive disorder.
+MED0692,Gabapin NT 100mg+10mg (Economy Pack #7),Gabapentin + Nortriptyline,Gabapin,Neurology & Psychiatry,Tablet,100mg+10mg,Prescription,Intas Pharmaceuticals,Treats diabetic neuropathy and chronic nerve pain.
+MED0693,Naxdom 250mg+10mg (Economy Pack #7),Naproxen + Domperidone,Naxdom,Neurology & Psychiatry,Tablet,250mg+10mg,Prescription,Sun Pharma,Prevents and relieves acute migraine headaches and nausea.
+MED0694,Vertin 8mg (Economy Pack #7),Betahistine,Vertin,Neurology & Psychiatry,Tablet,8mg,Prescription,Abbott India,"Treats vertigo, tinnitus, and Meniere's disease balance disorders."
+MED0695,Pregalin M 75mg+750mcg (Economy Pack #7),Pregabalin + Methylcobalamin,Pregalin,Neurology & Psychiatry,Capsule,75mg+750mcg,Prescription,Torrent Pharmaceuticals,Supports nerve regeneration and relieves neuropathic pain.
+MED0696,Zapiz 0.25mg (Economy Pack #7),Clonazepam,Zapiz,Neurology & Psychiatry,Tablet,0.25mg,Prescription,Intas Pharmaceuticals,Benzodiazepine for panic disorder and seizure management.
+MED0697,Zolfresh 5mg (Economy Pack #7),Zolpidem,Zolfresh,Neurology & Psychiatry,Tablet,5mg,Prescription,Abbott India,Short-term treatment for acute insomnia and sleep onset.
+MED0698,Levipil 250mg (Economy Pack #7),Levetiracetam,Levipil,Neurology & Psychiatry,Tablet,250mg,Prescription,Sun Pharma,Antiepileptic drug for focal and generalized seizures.
+MED0699,Sibelium 5mg (Economy Pack #7),Flunarizine,Sibelium,Neurology & Psychiatry,Tablet,5mg,Prescription,Janssen Pharmaceuticals,Prophylactic medication to reduce migraine frequency.
+MED0700,Petril MD 0.5mg (Forte #8),Clonazepam,Petril,Neurology & Psychiatry,Tablet,0.5mg,Prescription,Micro Labs Ltd,Mouth-dissolving tablet for acute anxiety and epilepsy.
+MED0701,Dolo 650mg (Forte #8),Paracetamol,Dolo,Analgesics & Antipyretics,Tablet,650mg,OTC,Micro Labs Ltd,Used for fever reduction and mild to moderate pain relief.
+MED0702,Calpol 250mg/5ml (Forte #8),Paracetamol,Calpol,Analgesics & Antipyretics,Syrup,250mg/5ml,OTC,GSK Pharmaceuticals,Pediatric and adult antipyretic suspension for fever.
+MED0703,Combiflam 400mg+325mg (Forte #8),Ibuprofen + Paracetamol,Combiflam,Analgesics & Antipyretics,Tablet,400mg+325mg,OTC,Sanofi India,Combination anti-inflammatory and analgesic for musculoskeletal pain.
+MED0704,Zerodol-P 100mg+325mg (Forte #8),Aceclofenac + Paracetamol,Zerodol,Analgesics & Antipyretics,Tablet,100mg+325mg,Prescription,Ipca Laboratories,"Prescribed for joint pain, arthritis, and dental pain."
+MED0705,Voveran SR 100mg (Forte #8),Diclofenac Sodium,Voveran,Analgesics & Antipyretics,Tablet,100mg,Prescription,Novartis India,Sustained release NSAID for acute inflammation and pain.
+MED0706,Ultracet 37.5mg+325mg (Forte #8),Tramadol + Paracetamol,Ultracet,Analgesics & Antipyretics,Tablet,37.5mg+325mg,Prescription,Janssen Pharmaceuticals,Moderate to severe acute pain management.
+MED0707,Meftal-Spas 500mg+20mg (Forte #8),Mefenamic Acid + Dicyclomine,Meftal,Analgesics & Antipyretics,Tablet,500mg+20mg,Prescription,Blue Cross Laboratories,Antispasmodic and analgesic for abdominal cramps.
+MED0708,Crocin Advance 650mg (Forte #8),Paracetamol,Crocin,Analgesics & Antipyretics,Tablet,650mg,OTC,GSK Consumer Healthcare,Fast-release paracetamol for headache and body ache.
+MED0709,Nise 100mg (Forte #8),Nimesulide,Nise,Analgesics & Antipyretics,Tablet,100mg,Prescription,Dr. Reddy's Laboratories,NSAID for acute pain and inflammatory conditions.
+MED0710,Flexon 400mg+325mg (Forte #8),Ibuprofen + Paracetamol,Flexon,Analgesics & Antipyretics,Tablet,400mg+325mg,OTC,Aristo Pharmaceuticals,"Relieves toothache, muscle ache, and fever."
+MED0711,Augmentin Duo 1000mg (Forte #8),Amoxicillin + Clavulanic Acid,Augmentin,Antibiotics,Tablet,1000mg,Prescription,GSK Pharmaceuticals,Broad-spectrum penicillin antibiotic for respiratory and skin infections.
+MED0712,Azithral 500mg (Forte #8),Azithromycin,Azithral,Antibiotics,Tablet,500mg,Prescription,Alembic Pharmaceuticals,"Macrolide antibiotic for throat, sinus, and chest infections."
+MED0713,Taxim-O 200mg (Forte #8),Cefixime,Taxim,Antibiotics,Tablet,200mg,Prescription,Alkem Laboratories,Third-generation cephalosporin for urinary and typhoid infections.
+MED0714,Cifran 500mg (Forte #8),Ciprofloxacin,Cifran,Antibiotics,Tablet,500mg,Prescription,Sun Pharma,Fluoroquinolone antibiotic for bacterial gastroenteritis and UTIs.
+MED0715,Monocef-O 200mg (Forte #8),Cefpodoxime Proxetil,Monocef,Antibiotics,Tablet,200mg,Prescription,Aristo Pharmaceuticals,Oral cephalosporin for respiratory tract infections.
+MED0716,Moxikind-CV 625mg (Forte #8),Amoxicillin + Clavulanic Acid,Moxikind,Antibiotics,Tablet,625mg,Prescription,Mankind Pharma,"Treats bacterial ear, sinus, and lower respiratory infections."
+MED0717,Zifi 400mg (Forte #8),Cefixime,Zifi,Antibiotics,Tablet,400mg,Prescription,FDC Ltd,Broad-spectrum antibiotic for uncomplicated bacterial infections.
+MED0718,Oflox 400mg (Forte #8),Ofloxacin,Oflox,Antibiotics,Tablet,400mg,Prescription,Cipla Ltd,Antibiotic for gastrointestinal and urinary tract bacterial infections.
+MED0719,Doxy-1 L-DR 100mg (Forte #8),Doxycycline,Doxy-1,Antibiotics,Capsule,100mg,Prescription,USV Ltd,Tetracycline antibiotic for acne and atypical respiratory infections.
+MED0720,Metrogyl 400mg (Forte #8),Metronidazole,Metrogyl,Antibiotics,Tablet,400mg,Prescription,JB Chemicals,Antiprotozoal and anaerobic antibacterial agent.
+MED0721,Glycomet-GP 2mg+500mg (Forte #8),Glimepiride + Metformin,Glycomet,Antidiabetics,Tablet,2mg+500mg,Prescription,USV Ltd,Dual therapy for glycemic control in Type 2 diabetes mellitus.
+MED0722,Janumet 50mg+1000mg (Forte #8),Sitagliptin + Metformin,Janumet,Antidiabetics,Tablet,50mg+1000mg,Prescription,MSD Pharmaceuticals,DPP-4 inhibitor combination to improve insulin response.
+MED0723,Galvus Met 50mg+850mg (Forte #8),Vildagliptin + Metformin,Galvus,Antidiabetics,Tablet,50mg+850mg,Prescription,Novartis India,Controls fasting and post-meal blood sugar in Type 2 diabetes.
+MED0724,Lantus Solostar 100IU/ml (Forte #8),Insulin Glargine,Lantus,Antidiabetics,Injection,100IU/ml,Prescription,Sanofi India,Long-acting basal insulin analog for 24-hour blood glucose control.
+MED0725,Jardiance 25mg (Forte #8),Empagliflozin,Jardiance,Antidiabetics,Tablet,25mg,Prescription,Boehringer Ingelheim,SGLT2 inhibitor aiding glucose excretion and cardiovascular protection.
+MED0726,Glycomet SR 1000mg (Forte #8),Metformin,Glycomet,Antidiabetics,Tablet,1000mg,Prescription,USV Ltd,First-line sustained-release oral antidiabetic medication.
+MED0727,Amaryl 2mg (Forte #8),Glimepiride,Amaryl,Antidiabetics,Tablet,2mg,Prescription,Sanofi India,Sulfonylurea stimulating pancreatic insulin release.
+MED0728,Istamet 50mg+1000mg (Forte #8),Sitagliptin + Metformin,Istamet,Antidiabetics,Tablet,50mg+1000mg,Prescription,Sun Pharma,Oral antihyperglycemic combination for Type 2 diabetes.
+MED0729,Mixtard 30 40IU/ml (Forte #8),Human Insulin,Mixtard,Antidiabetics,Injection,40IU/ml,Prescription,Novo Nordisk,Biphasic insulin suspension for mealtime and basal glycemic control.
+MED0730,Teneligliptin Zita 20mg (Forte #8),Teneligliptin,Zita,Antidiabetics,Tablet,20mg,Prescription,Glenmark Pharmaceuticals,DPP-4 inhibitor for blood glucose regulation.
+MED0731,Telma 40mg (Forte #8),Telmisartan,Telma,Antihypertensives,Tablet,40mg,Prescription,Glenmark Pharmaceuticals,Angiotensin II receptor blocker (ARB) for hypertension.
+MED0732,Telma-H 40mg+12.5mg (Forte #8),Telmisartan + Hydrochlorothiazide,Telma,Antihypertensives,Tablet,40mg+12.5mg,Prescription,Glenmark Pharmaceuticals,ARB and diuretic combination for uncontrolled hypertension.
+MED0733,Amlokind-AT 5mg+50mg (Forte #8),Amlodipine + Atenolol,Amlokind,Antihypertensives,Tablet,5mg+50mg,Prescription,Mankind Pharma,Calcium channel blocker and beta-blocker for blood pressure.
+MED0734,Stamlo 5mg (Forte #8),Amlodipine,Stamlo,Antihypertensives,Tablet,5mg,Prescription,Dr. Reddy's Laboratories,Relaxes blood vessels to lower blood pressure and angina.
+MED0735,Concor 5mg (Forte #8),Bisoprolol,Concor,Antihypertensives,Tablet,5mg,Prescription,Merck Ltd,Cardioselective beta-blocker for hypertension and heart failure.
+MED0736,Met XL 50mg (Forte #8),Metoprolol Succinate,Met XL,Antihypertensives,Tablet,50mg,Prescription,Ajanta Pharma,Extended-release beta-blocker for blood pressure and arrhythmia.
+MED0737,Olmezest 40mg (Forte #8),Olmesartan Medoxomil,Olmezest,Antihypertensives,Tablet,40mg,Prescription,Sun Pharma,ARB antihypertensive for sustained blood pressure reduction.
+MED0738,Losar 50mg (Forte #8),Losartan Potassium,Losar,Antihypertensives,Tablet,50mg,Prescription,Unichem Laboratories,Protects kidneys and reduces blood pressure in hypertensive patients.
+MED0739,Arkamin 100mcg (Forte #8),Clonidine,Arkamin,Antihypertensives,Tablet,100mcg,Prescription,Torrent Pharmaceuticals,Centrally acting alpha-agonist for resistant hypertension.
+MED0740,Dytor 20mg (Forte #8),Torasemide,Dytor,Antihypertensives,Tablet,20mg,Prescription,Cipla Ltd,Loop diuretic for fluid retention and hypertension.
+MED0741,Pan-D 40mg+30mg (Forte #8),Pantoprazole + Domperidone,Pan,Gastrointestinal,Capsule,40mg+30mg,Prescription,Alkem Laboratories,Proton pump inhibitor and prokinetic for GERD and acid reflux.
+MED0742,Pan 40 40mg (Forte #8),Pantoprazole,Pan,Gastrointestinal,Tablet,40mg,Prescription,Alkem Laboratories,Reduces stomach acid production in gastritis and peptic ulcers.
+MED0743,Omez 20mg (Forte #8),Omeprazole,Omez,Gastrointestinal,Capsule,20mg,OTC,Dr. Reddy's Laboratories,"Relieves heartburn, acid indigestion, and sour stomach."
+MED0744,Digene Gel 200ml (Forte #8),Magnesium Hydroxide + Simethicone,Digene,Gastrointestinal,Syrup,200ml,OTC,Abbott India,Antacid and anti-flatulent suspension for quick acidity relief.
+MED0745,Rantac 300mg (Forte #8),Ranitidine,Rantac,Gastrointestinal,Tablet,300mg,OTC,JB Chemicals,H2 receptor blocker for heartburn and hyperacidity.
+MED0746,Ondem 8mg (Forte #8),Ondansetron,Ondem,Gastrointestinal,Tablet,8mg,Prescription,Alkem Laboratories,Antiemetic medication to prevent nausea and vomiting.
+MED0747,Cremaffin Plus 225ml (Forte #8),Liquid Paraffin + Milk of Magnesia,Cremaffin,Gastrointestinal,Syrup,225ml,OTC,Abbott India,Gentle osmotic and lubricant laxative for constipation.
+MED0748,Econorm 250mg (Forte #8),Saccharomyces boulardii,Econorm,Gastrointestinal,Sachet,250mg,OTC,Dr. Reddy's Laboratories,Probiotic yeast supplement for acute infectious diarrhea.
+MED0749,Udapa / Udiliv 300mg (Forte #8),Ursodeoxycholic Acid,Udiliv,Gastrointestinal,Tablet,300mg,Prescription,Abbott India,Hepatoprotective bile acid for gallstones and fatty liver.
+MED0750,Gaviscon 150ml (Forte #8),Sodium Alginate + Sodium Bicarbonate,Gaviscon,Gastrointestinal,Syrup,150ml,OTC,Reckitt Benckiser,Forms protective raft against gastroesophageal reflux.
+MED0751,Montair LC 10mg+5mg (Forte #8),Montelukast + Levocetirizine,Montair,Respiratory & Anti-Allergics,Tablet,10mg+5mg,Prescription,Cipla Ltd,"Treats allergic rhinitis, sneezing, and seasonal asthma."
+MED0752,Allegra 180mg (Forte #8),Fexofenadine,Allegra,Respiratory & Anti-Allergics,Tablet,180mg,OTC,Sanofi India,Non-drowsy antihistamine for hay fever and urticaria.
+MED0753,Cetrizine Okacet 10mg (Forte #8),Cetirizine,Okacet,Respiratory & Anti-Allergics,Tablet,10mg,OTC,Cipla Ltd,"Relieves watery eyes, runny nose, and skin itching."
+MED0754,Asthalin Inhaler 100mcg (Forte #8),Salbutamol,Asthalin,Respiratory & Anti-Allergics,Inhaler,100mcg,Prescription,Cipla Ltd,Fast-acting bronchodilator for acute asthma bronchospasm.
+MED0755,Foracort Inhaler 400mcg (Forte #8),Formoterol + Budesonide,Foracort,Respiratory & Anti-Allergics,Inhaler,400mcg,Prescription,Cipla Ltd,Maintenance inhaler for asthma and COPD airway inflammation.
+MED0756,Benadryl Cough 150ml (Forte #8),Diphenhydramine + Ammonium Chloride,Benadryl,Respiratory & Anti-Allergics,Syrup,150ml,OTC,Johnson & Johnson,Relieves productive and allergic cough and throat irritation.
+MED0757,Ascoril LS 100ml (Forte #8),Levosalbutamol + Ambroxol + Guaifenesin,Ascoril,Respiratory & Anti-Allergics,Syrup,100ml,Prescription,Glenmark Pharmaceuticals,Mucolytic and bronchodilator expectorant for wet cough.
+MED0758,Otrivin Oxy 0.05% (Forte #8),Oxymetazoline,Otrivin,Respiratory & Anti-Allergics,Drops,0.05%,OTC,GSK Consumer Healthcare,Nasal decongestant drops for blocked nose relief.
+MED0759,Sinarest New 500mg+10mg+2mg (Forte #8),Paracetamol + Phenylephrine + Chlorpheniramine,Sinarest,Respiratory & Anti-Allergics,Tablet,500mg+10mg+2mg,OTC,Centaur Pharmaceuticals,"Multi-symptom relief for common cold, sinusitis, and headache."
+MED0760,Budecort Respules 0.5mg/2ml (Forte #8),Budesonide,Budecort,Respiratory & Anti-Allergics,Suspension,0.5mg/2ml,Prescription,Cipla Ltd,Nebulizer corticosteroid suspension for pediatric and adult asthma.
+MED0761,Shelcal 500 500mg+250IU (Forte #8),Calcium + Vitamin D3,Shelcal,Vitamins & Supplements,Tablet,500mg+250IU,OTC,Torrent Pharmaceuticals,"Supports bone density, calcium absorption, and joint strength."
+MED0762,Becosules Z Standard (Forte #8),B-Complex + Vitamin C + Zinc,Becosules,Vitamins & Supplements,Capsule,Standard,OTC,Pfizer Ltd,"Boosts immunity, energy metabolism, and tissue repair."
+MED0763,Limcee 500mg (Forte #8),Vitamin C (Ascorbic Acid),Limcee,Vitamins & Supplements,Tablet,500mg,OTC,Abbott India,Chewable antioxidant supplement for immune defense.
+MED0764,Neurobion Forte Standard (Forte #8),Vitamin B1 + B2 + B3 + B6 + B12,Neurobion,Vitamins & Supplements,Tablet,Standard,OTC,Procter & Gamble Health,Supports nerve health and relieves tingling or numbness.
+MED0765,Uprise-D3 60000IU (Forte #8),Cholecalciferol (Vitamin D3),Uprise,Vitamins & Supplements,Capsule,60000IU,OTC,Alkem Laboratories,Weekly high-dose Vitamin D3 supplement for deficiency.
+MED0766,Zincovit Standard (Forte #8),Multivitamins + Multiminerals + Grape Seed,Zincovit,Vitamins & Supplements,Tablet,Standard,OTC,Apex Laboratories,Daily nutritional supplement for general wellness and recovery.
+MED0767,Evion 400mg (Forte #8),Vitamin E (Tocopheryl Acetate),Evion,Vitamins & Supplements,Capsule,400mg,OTC,Procter & Gamble Health,"Antioxidant supporting skin, hair, and muscle health."
+MED0768,Autrin Standard (Forte #8),Ferrous Fumarate + Folic Acid + B12,Autrin,Vitamins & Supplements,Capsule,Standard,OTC,Pfizer Ltd,Hematinic supplement for iron deficiency anemia.
+MED0769,Supradyn Daily Standard (Forte #8),Multivitamin + Trace Elements,Supradyn,Vitamins & Supplements,Tablet,Standard,OTC,Bayer Zydus Pharma,Comprehensive daily vitality and micronutrient tablet.
+MED0770,Livogen-Z Standard (Forte #8),Ferrous Fumarate + Folic Acid + Zinc,Livogen,Vitamins & Supplements,Tablet,Standard,OTC,Procter & Gamble Health,Iron and folic acid supplement for pregnancy and anemia.
+MED0771,Betadine Ointment 10% w/w (Forte #8),Povidone-Iodine,Betadine,Dermatologicals,Ointment,10% w/w,OTC,Win-Medicare,"Topical antiseptic for minor cuts, wounds, and burns."
+MED0772,Candid-B Cream 30g (Forte #8),Clotrimazole + Beclomethasone,Candid,Dermatologicals,Cream,30g,Prescription,Glenmark Pharmaceuticals,Antifungal and anti-inflammatory cream for fungal skin infections.
+MED0773,Soframycin Skin 1% w/w (Forte #8),Framycetin,Soframycin,Dermatologicals,Cream,1% w/w,OTC,Sanofi India,Topical antibacterial cream for minor skin infections and boils.
+MED0774,T-Bact Ointment 2% w/w (Forte #8),Mupirocin,T-Bact,Dermatologicals,Ointment,2% w/w,Prescription,GSK Pharmaceuticals,Topical antibiotic for impetigo and bacterial skin lesions.
+MED0775,Cligel-N 1%+4% (Forte #8),Clindamycin + Nicotinamide,Cligel,Dermatologicals,Gel,1%+4%,Prescription,Glenmark Pharmaceuticals,Topical anti-acne gel reducing pimples and inflammation.
+MED0776,Calamine Lacto 120ml (Forte #8),Calamine + Light Kaolin,Lacto Calamine,Dermatologicals,Lotion,120ml,OTC,Piramal Pharma,"Soothing skin lotion for sunburn, rashes, and itching."
+MED0777,Quadriderm RF 10g (Forte #8),Beclomethasone + Neomycin + Clotrimazole,Quadriderm,Dermatologicals,Cream,10g,Prescription,MSD Pharmaceuticals,Broad-spectrum topical cream for mixed skin infections.
+MED0778,Ketocip Shampoo 2% w/v (Forte #8),Ketoconazole,Ketocip,Dermatologicals,Shampoo,2% w/v,OTC,Cipla Ltd,Medicated antifungal shampoo for dandruff and seborrheic dermatitis.
+MED0779,Melamet Cream 15g (Forte #8),Hydroquinone + Tretinoin + Mometasone,Melamet,Dermatologicals,Cream,15g,Prescription,Universal NutriScience,Depigmenting cream for melasma under dermatological supervision.
+MED0780,Silverex Ionic 0.2% w/w (Forte #8),Silver Nitrate,Silverex,Dermatologicals,Gel,0.2% w/w,OTC,Sun Pharma,Antimicrobial gel for burn wounds and skin ulcers.
+MED0781,Ecosprin 150mg (Forte #8),Aspirin,Ecosprin,Cardiovascular & Lipid Lowering,Tablet,150mg,Prescription,USV Ltd,Low-dose antiplatelet agent preventing heart attacks and strokes.
+MED0782,Atorva 20mg (Forte #8),Atorvastatin,Atorva,Cardiovascular & Lipid Lowering,Tablet,20mg,Prescription,Zydus Lifesciences,Statin medication to lower LDL cholesterol and triglycerides.
+MED0783,Rosuvas 10mg (Forte #8),Rosuvastatin,Rosuvas,Cardiovascular & Lipid Lowering,Tablet,10mg,Prescription,Sun Pharma,Potent lipid-lowering statin for dyslipidemia management.
+MED0784,Clopilet 75mg (Forte #8),Clopidogrel,Clopilet,Cardiovascular & Lipid Lowering,Tablet,75mg,Prescription,Sun Pharma,Antiplatelet blood thinner for coronary artery disease.
+MED0785,Ecosprin AV 75mg+20mg (Forte #8),Aspirin + Atorvastatin,Ecosprin,Cardiovascular & Lipid Lowering,Capsule,75mg+20mg,Prescription,USV Ltd,Dual cardiovascular preventive therapy combining statin and aspirin.
+MED0786,Sorbitrate 10mg (Forte #8),Isosorbide Dinitrate,Sorbitrate,Cardiovascular & Lipid Lowering,Tablet,10mg,Prescription,Abbott India,Sublingual vasodilator for acute angina chest pain.
+MED0787,Nikoran 10mg (Forte #8),Nicorandil,Nikoran,Cardiovascular & Lipid Lowering,Tablet,10mg,Prescription,Torrent Pharmaceuticals,Potassium channel activator for chronic stable angina.
+MED0788,Cardace 5mg (Forte #8),Ramipril,Cardace,Cardiovascular & Lipid Lowering,Tablet,5mg,Prescription,Sanofi India,ACE inhibitor improving survival post-myocardial infarction.
+MED0789,Lipikind 20mg (Forte #8),Atorvastatin,Lipikind,Cardiovascular & Lipid Lowering,Tablet,20mg,Prescription,Mankind Pharma,Reduces bad cholesterol and slows plaque buildup in arteries.
+MED0790,Rozucor 20mg (Forte #8),Rosuvastatin,Rozucor,Cardiovascular & Lipid Lowering,Tablet,20mg,Prescription,Torrent Pharmaceuticals,Controls hypercholesterolemia and reduces cardiovascular events.
+MED0791,Nexito 10mg (Forte #8),Escitalopram,Nexito,Neurology & Psychiatry,Tablet,10mg,Prescription,Sun Pharma,SSRI antidepressant prescribed for anxiety and major depressive disorder.
+MED0792,Gabapin NT 400mg+10mg (Forte #8),Gabapentin + Nortriptyline,Gabapin,Neurology & Psychiatry,Tablet,400mg+10mg,Prescription,Intas Pharmaceuticals,Treats diabetic neuropathy and chronic nerve pain.
+MED0793,Naxdom 500mg+10mg (Forte #8),Naproxen + Domperidone,Naxdom,Neurology & Psychiatry,Tablet,500mg+10mg,Prescription,Sun Pharma,Prevents and relieves acute migraine headaches and nausea.
+MED0794,Vertin 16mg (Forte #8),Betahistine,Vertin,Neurology & Psychiatry,Tablet,16mg,Prescription,Abbott India,"Treats vertigo, tinnitus, and Meniere's disease balance disorders."
+MED0795,Pregalin M 75mg+750mcg (Forte #8),Pregabalin + Methylcobalamin,Pregalin,Neurology & Psychiatry,Capsule,75mg+750mcg,Prescription,Torrent Pharmaceuticals,Supports nerve regeneration and relieves neuropathic pain.
+MED0796,Zapiz 0.5mg (Forte #8),Clonazepam,Zapiz,Neurology & Psychiatry,Tablet,0.5mg,Prescription,Intas Pharmaceuticals,Benzodiazepine for panic disorder and seizure management.
+MED0797,Zolfresh 10mg (Forte #8),Zolpidem,Zolfresh,Neurology & Psychiatry,Tablet,10mg,Prescription,Abbott India,Short-term treatment for acute insomnia and sleep onset.
+MED0798,Levipil 500mg (Forte #8),Levetiracetam,Levipil,Neurology & Psychiatry,Tablet,500mg,Prescription,Sun Pharma,Antiepileptic drug for focal and generalized seizures.
+MED0799,Sibelium 10mg (Forte #8),Flunarizine,Sibelium,Neurology & Psychiatry,Tablet,10mg,Prescription,Janssen Pharmaceuticals,Prophylactic medication to reduce migraine frequency.
+MED0800,Petril MD 0.25mg (Plus #9),Clonazepam,Petril,Neurology & Psychiatry,Tablet,0.25mg,Prescription,Micro Labs Ltd,Mouth-dissolving tablet for acute anxiety and epilepsy.
+MED0801,Dolo 500mg (Plus #9),Paracetamol,Dolo,Analgesics & Antipyretics,Tablet,500mg,OTC,Micro Labs Ltd,Used for fever reduction and mild to moderate pain relief.
+MED0802,Calpol 120mg/5ml (Plus #9),Paracetamol,Calpol,Analgesics & Antipyretics,Syrup,120mg/5ml,OTC,GSK Pharmaceuticals,Pediatric and adult antipyretic suspension for fever.
+MED0803,Combiflam 400mg+325mg (Plus #9),Ibuprofen + Paracetamol,Combiflam,Analgesics & Antipyretics,Tablet,400mg+325mg,OTC,Sanofi India,Combination anti-inflammatory and analgesic for musculoskeletal pain.
+MED0804,Zerodol-P 100mg+325mg (Plus #9),Aceclofenac + Paracetamol,Zerodol,Analgesics & Antipyretics,Tablet,100mg+325mg,Prescription,Ipca Laboratories,"Prescribed for joint pain, arthritis, and dental pain."
+MED0805,Voveran SR 50mg (Plus #9),Diclofenac Sodium,Voveran,Analgesics & Antipyretics,Tablet,50mg,Prescription,Novartis India,Sustained release NSAID for acute inflammation and pain.
+MED0806,Ultracet 37.5mg+325mg (Plus #9),Tramadol + Paracetamol,Ultracet,Analgesics & Antipyretics,Tablet,37.5mg+325mg,Prescription,Janssen Pharmaceuticals,Moderate to severe acute pain management.
+MED0807,Meftal-Spas 250mg+10mg (Plus #9),Mefenamic Acid + Dicyclomine,Meftal,Analgesics & Antipyretics,Tablet,250mg+10mg,Prescription,Blue Cross Laboratories,Antispasmodic and analgesic for abdominal cramps.
+MED0808,Crocin Advance 500mg (Plus #9),Paracetamol,Crocin,Analgesics & Antipyretics,Tablet,500mg,OTC,GSK Consumer Healthcare,Fast-release paracetamol for headache and body ache.
+MED0809,Nise 100mg (Plus #9),Nimesulide,Nise,Analgesics & Antipyretics,Tablet,100mg,Prescription,Dr. Reddy's Laboratories,NSAID for acute pain and inflammatory conditions.
+MED0810,Flexon 400mg+325mg (Plus #9),Ibuprofen + Paracetamol,Flexon,Analgesics & Antipyretics,Tablet,400mg+325mg,OTC,Aristo Pharmaceuticals,"Relieves toothache, muscle ache, and fever."
+MED0811,Augmentin Duo 625mg (Plus #9),Amoxicillin + Clavulanic Acid,Augmentin,Antibiotics,Tablet,625mg,Prescription,GSK Pharmaceuticals,Broad-spectrum penicillin antibiotic for respiratory and skin infections.
+MED0812,Azithral 250mg (Plus #9),Azithromycin,Azithral,Antibiotics,Tablet,250mg,Prescription,Alembic Pharmaceuticals,"Macrolide antibiotic for throat, sinus, and chest infections."
+MED0813,Taxim-O 100mg (Plus #9),Cefixime,Taxim,Antibiotics,Tablet,100mg,Prescription,Alkem Laboratories,Third-generation cephalosporin for urinary and typhoid infections.
+MED0814,Cifran 250mg (Plus #9),Ciprofloxacin,Cifran,Antibiotics,Tablet,250mg,Prescription,Sun Pharma,Fluoroquinolone antibiotic for bacterial gastroenteritis and UTIs.
+MED0815,Monocef-O 100mg (Plus #9),Cefpodoxime Proxetil,Monocef,Antibiotics,Tablet,100mg,Prescription,Aristo Pharmaceuticals,Oral cephalosporin for respiratory tract infections.
+MED0816,Moxikind-CV 375mg (Plus #9),Amoxicillin + Clavulanic Acid,Moxikind,Antibiotics,Tablet,375mg,Prescription,Mankind Pharma,"Treats bacterial ear, sinus, and lower respiratory infections."
+MED0817,Zifi 200mg (Plus #9),Cefixime,Zifi,Antibiotics,Tablet,200mg,Prescription,FDC Ltd,Broad-spectrum antibiotic for uncomplicated bacterial infections.
+MED0818,Oflox 200mg (Plus #9),Ofloxacin,Oflox,Antibiotics,Tablet,200mg,Prescription,Cipla Ltd,Antibiotic for gastrointestinal and urinary tract bacterial infections.
+MED0819,Doxy-1 L-DR 100mg (Plus #9),Doxycycline,Doxy-1,Antibiotics,Capsule,100mg,Prescription,USV Ltd,Tetracycline antibiotic for acne and atypical respiratory infections.
+MED0820,Metrogyl 200mg (Plus #9),Metronidazole,Metrogyl,Antibiotics,Tablet,200mg,Prescription,JB Chemicals,Antiprotozoal and anaerobic antibacterial agent.
+MED0821,Glycomet-GP 1mg+500mg (Plus #9),Glimepiride + Metformin,Glycomet,Antidiabetics,Tablet,1mg+500mg,Prescription,USV Ltd,Dual therapy for glycemic control in Type 2 diabetes mellitus.
+MED0822,Janumet 50mg+500mg (Plus #9),Sitagliptin + Metformin,Janumet,Antidiabetics,Tablet,50mg+500mg,Prescription,MSD Pharmaceuticals,DPP-4 inhibitor combination to improve insulin response.
+MED0823,Galvus Met 50mg+500mg (Plus #9),Vildagliptin + Metformin,Galvus,Antidiabetics,Tablet,50mg+500mg,Prescription,Novartis India,Controls fasting and post-meal blood sugar in Type 2 diabetes.
+MED0824,Lantus Solostar 100IU/ml (Plus #9),Insulin Glargine,Lantus,Antidiabetics,Injection,100IU/ml,Prescription,Sanofi India,Long-acting basal insulin analog for 24-hour blood glucose control.
+MED0825,Jardiance 10mg (Plus #9),Empagliflozin,Jardiance,Antidiabetics,Tablet,10mg,Prescription,Boehringer Ingelheim,SGLT2 inhibitor aiding glucose excretion and cardiovascular protection.
+MED0826,Glycomet SR 500mg (Plus #9),Metformin,Glycomet,Antidiabetics,Tablet,500mg,Prescription,USV Ltd,First-line sustained-release oral antidiabetic medication.
+MED0827,Amaryl 1mg (Plus #9),Glimepiride,Amaryl,Antidiabetics,Tablet,1mg,Prescription,Sanofi India,Sulfonylurea stimulating pancreatic insulin release.
+MED0828,Istamet 50mg+500mg (Plus #9),Sitagliptin + Metformin,Istamet,Antidiabetics,Tablet,50mg+500mg,Prescription,Sun Pharma,Oral antihyperglycemic combination for Type 2 diabetes.
+MED0829,Mixtard 30 40IU/ml (Plus #9),Human Insulin,Mixtard,Antidiabetics,Injection,40IU/ml,Prescription,Novo Nordisk,Biphasic insulin suspension for mealtime and basal glycemic control.
+MED0830,Teneligliptin Zita 20mg (Plus #9),Teneligliptin,Zita,Antidiabetics,Tablet,20mg,Prescription,Glenmark Pharmaceuticals,DPP-4 inhibitor for blood glucose regulation.
+MED0831,Telma 80mg (Plus #9),Telmisartan,Telma,Antihypertensives,Tablet,80mg,Prescription,Glenmark Pharmaceuticals,Angiotensin II receptor blocker (ARB) for hypertension.
+MED0832,Telma-H 40mg+12.5mg (Plus #9),Telmisartan + Hydrochlorothiazide,Telma,Antihypertensives,Tablet,40mg+12.5mg,Prescription,Glenmark Pharmaceuticals,ARB and diuretic combination for uncontrolled hypertension.
+MED0833,Amlokind-AT 5mg+50mg (Plus #9),Amlodipine + Atenolol,Amlokind,Antihypertensives,Tablet,5mg+50mg,Prescription,Mankind Pharma,Calcium channel blocker and beta-blocker for blood pressure.
+MED0834,Stamlo 10mg (Plus #9),Amlodipine,Stamlo,Antihypertensives,Tablet,10mg,Prescription,Dr. Reddy's Laboratories,Relaxes blood vessels to lower blood pressure and angina.
+MED0835,Concor 2.5mg (Plus #9),Bisoprolol,Concor,Antihypertensives,Tablet,2.5mg,Prescription,Merck Ltd,Cardioselective beta-blocker for hypertension and heart failure.
+MED0836,Met XL 25mg (Plus #9),Metoprolol Succinate,Met XL,Antihypertensives,Tablet,25mg,Prescription,Ajanta Pharma,Extended-release beta-blocker for blood pressure and arrhythmia.
+MED0837,Olmezest 20mg (Plus #9),Olmesartan Medoxomil,Olmezest,Antihypertensives,Tablet,20mg,Prescription,Sun Pharma,ARB antihypertensive for sustained blood pressure reduction.
+MED0838,Losar 25mg (Plus #9),Losartan Potassium,Losar,Antihypertensives,Tablet,25mg,Prescription,Unichem Laboratories,Protects kidneys and reduces blood pressure in hypertensive patients.
+MED0839,Arkamin 100mcg (Plus #9),Clonidine,Arkamin,Antihypertensives,Tablet,100mcg,Prescription,Torrent Pharmaceuticals,Centrally acting alpha-agonist for resistant hypertension.
+MED0840,Dytor 10mg (Plus #9),Torasemide,Dytor,Antihypertensives,Tablet,10mg,Prescription,Cipla Ltd,Loop diuretic for fluid retention and hypertension.
+MED0841,Pan-D 40mg+30mg (Plus #9),Pantoprazole + Domperidone,Pan,Gastrointestinal,Capsule,40mg+30mg,Prescription,Alkem Laboratories,Proton pump inhibitor and prokinetic for GERD and acid reflux.
+MED0842,Pan 40 40mg (Plus #9),Pantoprazole,Pan,Gastrointestinal,Tablet,40mg,Prescription,Alkem Laboratories,Reduces stomach acid production in gastritis and peptic ulcers.
+MED0843,Omez 20mg (Plus #9),Omeprazole,Omez,Gastrointestinal,Capsule,20mg,OTC,Dr. Reddy's Laboratories,"Relieves heartburn, acid indigestion, and sour stomach."
+MED0844,Digene Gel 200ml (Plus #9),Magnesium Hydroxide + Simethicone,Digene,Gastrointestinal,Syrup,200ml,OTC,Abbott India,Antacid and anti-flatulent suspension for quick acidity relief.
+MED0845,Rantac 150mg (Plus #9),Ranitidine,Rantac,Gastrointestinal,Tablet,150mg,OTC,JB Chemicals,H2 receptor blocker for heartburn and hyperacidity.
+MED0846,Ondem 4mg (Plus #9),Ondansetron,Ondem,Gastrointestinal,Tablet,4mg,Prescription,Alkem Laboratories,Antiemetic medication to prevent nausea and vomiting.
+MED0847,Cremaffin Plus 225ml (Plus #9),Liquid Paraffin + Milk of Magnesia,Cremaffin,Gastrointestinal,Syrup,225ml,OTC,Abbott India,Gentle osmotic and lubricant laxative for constipation.
+MED0848,Econorm 250mg (Plus #9),Saccharomyces boulardii,Econorm,Gastrointestinal,Sachet,250mg,OTC,Dr. Reddy's Laboratories,Probiotic yeast supplement for acute infectious diarrhea.
+MED0849,Udapa / Udiliv 150mg (Plus #9),Ursodeoxycholic Acid,Udiliv,Gastrointestinal,Tablet,150mg,Prescription,Abbott India,Hepatoprotective bile acid for gallstones and fatty liver.
+MED0850,Gaviscon 150ml (Plus #9),Sodium Alginate + Sodium Bicarbonate,Gaviscon,Gastrointestinal,Syrup,150ml,OTC,Reckitt Benckiser,Forms protective raft against gastroesophageal reflux.
+MED0851,Montair LC 10mg+5mg (Plus #9),Montelukast + Levocetirizine,Montair,Respiratory & Anti-Allergics,Tablet,10mg+5mg,Prescription,Cipla Ltd,"Treats allergic rhinitis, sneezing, and seasonal asthma."
+MED0852,Allegra 120mg (Plus #9),Fexofenadine,Allegra,Respiratory & Anti-Allergics,Tablet,120mg,OTC,Sanofi India,Non-drowsy antihistamine for hay fever and urticaria.
+MED0853,Cetrizine Okacet 10mg (Plus #9),Cetirizine,Okacet,Respiratory & Anti-Allergics,Tablet,10mg,OTC,Cipla Ltd,"Relieves watery eyes, runny nose, and skin itching."
+MED0854,Asthalin Inhaler 100mcg (Plus #9),Salbutamol,Asthalin,Respiratory & Anti-Allergics,Inhaler,100mcg,Prescription,Cipla Ltd,Fast-acting bronchodilator for acute asthma bronchospasm.
+MED0855,Foracort Inhaler 200mcg (Plus #9),Formoterol + Budesonide,Foracort,Respiratory & Anti-Allergics,Inhaler,200mcg,Prescription,Cipla Ltd,Maintenance inhaler for asthma and COPD airway inflammation.
+MED0856,Benadryl Cough 150ml (Plus #9),Diphenhydramine + Ammonium Chloride,Benadryl,Respiratory & Anti-Allergics,Syrup,150ml,OTC,Johnson & Johnson,Relieves productive and allergic cough and throat irritation.
+MED0857,Ascoril LS 100ml (Plus #9),Levosalbutamol + Ambroxol + Guaifenesin,Ascoril,Respiratory & Anti-Allergics,Syrup,100ml,Prescription,Glenmark Pharmaceuticals,Mucolytic and bronchodilator expectorant for wet cough.
+MED0858,Otrivin Oxy 0.05% (Plus #9),Oxymetazoline,Otrivin,Respiratory & Anti-Allergics,Drops,0.05%,OTC,GSK Consumer Healthcare,Nasal decongestant drops for blocked nose relief.
+MED0859,Sinarest New 500mg+10mg+2mg (Plus #9),Paracetamol + Phenylephrine + Chlorpheniramine,Sinarest,Respiratory & Anti-Allergics,Tablet,500mg+10mg+2mg,OTC,Centaur Pharmaceuticals,"Multi-symptom relief for common cold, sinusitis, and headache."
+MED0860,Budecort Respules 0.5mg/2ml (Plus #9),Budesonide,Budecort,Respiratory & Anti-Allergics,Suspension,0.5mg/2ml,Prescription,Cipla Ltd,Nebulizer corticosteroid suspension for pediatric and adult asthma.
+MED0861,Shelcal 500 500mg+250IU (Plus #9),Calcium + Vitamin D3,Shelcal,Vitamins & Supplements,Tablet,500mg+250IU,OTC,Torrent Pharmaceuticals,"Supports bone density, calcium absorption, and joint strength."
+MED0862,Becosules Z Standard (Plus #9),B-Complex + Vitamin C + Zinc,Becosules,Vitamins & Supplements,Capsule,Standard,OTC,Pfizer Ltd,"Boosts immunity, energy metabolism, and tissue repair."
+MED0863,Limcee 500mg (Plus #9),Vitamin C (Ascorbic Acid),Limcee,Vitamins & Supplements,Tablet,500mg,OTC,Abbott India,Chewable antioxidant supplement for immune defense.
+MED0864,Neurobion Forte Standard (Plus #9),Vitamin B1 + B2 + B3 + B6 + B12,Neurobion,Vitamins & Supplements,Tablet,Standard,OTC,Procter & Gamble Health,Supports nerve health and relieves tingling or numbness.
+MED0865,Uprise-D3 60000IU (Plus #9),Cholecalciferol (Vitamin D3),Uprise,Vitamins & Supplements,Capsule,60000IU,OTC,Alkem Laboratories,Weekly high-dose Vitamin D3 supplement for deficiency.
+MED0866,Zincovit Standard (Plus #9),Multivitamins + Multiminerals + Grape Seed,Zincovit,Vitamins & Supplements,Tablet,Standard,OTC,Apex Laboratories,Daily nutritional supplement for general wellness and recovery.
+MED0867,Evion 200mg (Plus #9),Vitamin E (Tocopheryl Acetate),Evion,Vitamins & Supplements,Capsule,200mg,OTC,Procter & Gamble Health,"Antioxidant supporting skin, hair, and muscle health."
+MED0868,Autrin Standard (Plus #9),Ferrous Fumarate + Folic Acid + B12,Autrin,Vitamins & Supplements,Capsule,Standard,OTC,Pfizer Ltd,Hematinic supplement for iron deficiency anemia.
+MED0869,Supradyn Daily Standard (Plus #9),Multivitamin + Trace Elements,Supradyn,Vitamins & Supplements,Tablet,Standard,OTC,Bayer Zydus Pharma,Comprehensive daily vitality and micronutrient tablet.
+MED0870,Livogen-Z Standard (Plus #9),Ferrous Fumarate + Folic Acid + Zinc,Livogen,Vitamins & Supplements,Tablet,Standard,OTC,Procter & Gamble Health,Iron and folic acid supplement for pregnancy and anemia.
+MED0871,Betadine Ointment 5% w/w (Plus #9),Povidone-Iodine,Betadine,Dermatologicals,Ointment,5% w/w,OTC,Win-Medicare,"Topical antiseptic for minor cuts, wounds, and burns."
+MED0872,Candid-B Cream 15g (Plus #9),Clotrimazole + Beclomethasone,Candid,Dermatologicals,Cream,15g,Prescription,Glenmark Pharmaceuticals,Antifungal and anti-inflammatory cream for fungal skin infections.
+MED0873,Soframycin Skin 1% w/w (Plus #9),Framycetin,Soframycin,Dermatologicals,Cream,1% w/w,OTC,Sanofi India,Topical antibacterial cream for minor skin infections and boils.
+MED0874,T-Bact Ointment 2% w/w (Plus #9),Mupirocin,T-Bact,Dermatologicals,Ointment,2% w/w,Prescription,GSK Pharmaceuticals,Topical antibiotic for impetigo and bacterial skin lesions.
+MED0875,Cligel-N 1%+4% (Plus #9),Clindamycin + Nicotinamide,Cligel,Dermatologicals,Gel,1%+4%,Prescription,Glenmark Pharmaceuticals,Topical anti-acne gel reducing pimples and inflammation.
+MED0876,Calamine Lacto 120ml (Plus #9),Calamine + Light Kaolin,Lacto Calamine,Dermatologicals,Lotion,120ml,OTC,Piramal Pharma,"Soothing skin lotion for sunburn, rashes, and itching."
+MED0877,Quadriderm RF 10g (Plus #9),Beclomethasone + Neomycin + Clotrimazole,Quadriderm,Dermatologicals,Cream,10g,Prescription,MSD Pharmaceuticals,Broad-spectrum topical cream for mixed skin infections.
+MED0878,Ketocip Shampoo 2% w/v (Plus #9),Ketoconazole,Ketocip,Dermatologicals,Shampoo,2% w/v,OTC,Cipla Ltd,Medicated antifungal shampoo for dandruff and seborrheic dermatitis.
+MED0879,Melamet Cream 15g (Plus #9),Hydroquinone + Tretinoin + Mometasone,Melamet,Dermatologicals,Cream,15g,Prescription,Universal NutriScience,Depigmenting cream for melasma under dermatological supervision.
+MED0880,Silverex Ionic 0.2% w/w (Plus #9),Silver Nitrate,Silverex,Dermatologicals,Gel,0.2% w/w,OTC,Sun Pharma,Antimicrobial gel for burn wounds and skin ulcers.
+MED0881,Ecosprin 75mg (Plus #9),Aspirin,Ecosprin,Cardiovascular & Lipid Lowering,Tablet,75mg,Prescription,USV Ltd,Low-dose antiplatelet agent preventing heart attacks and strokes.
+MED0882,Atorva 40mg (Plus #9),Atorvastatin,Atorva,Cardiovascular & Lipid Lowering,Tablet,40mg,Prescription,Zydus Lifesciences,Statin medication to lower LDL cholesterol and triglycerides.
+MED0883,Rosuvas 20mg (Plus #9),Rosuvastatin,Rosuvas,Cardiovascular & Lipid Lowering,Tablet,20mg,Prescription,Sun Pharma,Potent lipid-lowering statin for dyslipidemia management.
+MED0884,Clopilet 75mg (Plus #9),Clopidogrel,Clopilet,Cardiovascular & Lipid Lowering,Tablet,75mg,Prescription,Sun Pharma,Antiplatelet blood thinner for coronary artery disease.
+MED0885,Ecosprin AV 75mg+10mg (Plus #9),Aspirin + Atorvastatin,Ecosprin,Cardiovascular & Lipid Lowering,Capsule,75mg+10mg,Prescription,USV Ltd,Dual cardiovascular preventive therapy combining statin and aspirin.
+MED0886,Sorbitrate 5mg (Plus #9),Isosorbide Dinitrate,Sorbitrate,Cardiovascular & Lipid Lowering,Tablet,5mg,Prescription,Abbott India,Sublingual vasodilator for acute angina chest pain.
+MED0887,Nikoran 5mg (Plus #9),Nicorandil,Nikoran,Cardiovascular & Lipid Lowering,Tablet,5mg,Prescription,Torrent Pharmaceuticals,Potassium channel activator for chronic stable angina.
+MED0888,Cardace 2.5mg (Plus #9),Ramipril,Cardace,Cardiovascular & Lipid Lowering,Tablet,2.5mg,Prescription,Sanofi India,ACE inhibitor improving survival post-myocardial infarction.
+MED0889,Lipikind 10mg (Plus #9),Atorvastatin,Lipikind,Cardiovascular & Lipid Lowering,Tablet,10mg,Prescription,Mankind Pharma,Reduces bad cholesterol and slows plaque buildup in arteries.
+MED0890,Rozucor 10mg (Plus #9),Rosuvastatin,Rozucor,Cardiovascular & Lipid Lowering,Tablet,10mg,Prescription,Torrent Pharmaceuticals,Controls hypercholesterolemia and reduces cardiovascular events.
+MED0891,Nexito 20mg (Plus #9),Escitalopram,Nexito,Neurology & Psychiatry,Tablet,20mg,Prescription,Sun Pharma,SSRI antidepressant prescribed for anxiety and major depressive disorder.
+MED0892,Gabapin NT 100mg+10mg (Plus #9),Gabapentin + Nortriptyline,Gabapin,Neurology & Psychiatry,Tablet,100mg+10mg,Prescription,Intas Pharmaceuticals,Treats diabetic neuropathy and chronic nerve pain.
+MED0893,Naxdom 250mg+10mg (Plus #9),Naproxen + Domperidone,Naxdom,Neurology & Psychiatry,Tablet,250mg+10mg,Prescription,Sun Pharma,Prevents and relieves acute migraine headaches and nausea.
+MED0894,Vertin 24mg (Plus #9),Betahistine,Vertin,Neurology & Psychiatry,Tablet,24mg,Prescription,Abbott India,"Treats vertigo, tinnitus, and Meniere's disease balance disorders."
+MED0895,Pregalin M 75mg+750mcg (Plus #9),Pregabalin + Methylcobalamin,Pregalin,Neurology & Psychiatry,Capsule,75mg+750mcg,Prescription,Torrent Pharmaceuticals,Supports nerve regeneration and relieves neuropathic pain.
+MED0896,Zapiz 0.25mg (Plus #9),Clonazepam,Zapiz,Neurology & Psychiatry,Tablet,0.25mg,Prescription,Intas Pharmaceuticals,Benzodiazepine for panic disorder and seizure management.
+MED0897,Zolfresh 5mg (Plus #9),Zolpidem,Zolfresh,Neurology & Psychiatry,Tablet,5mg,Prescription,Abbott India,Short-term treatment for acute insomnia and sleep onset.
+MED0898,Levipil 250mg (Plus #9),Levetiracetam,Levipil,Neurology & Psychiatry,Tablet,250mg,Prescription,Sun Pharma,Antiepileptic drug for focal and generalized seizures.
+MED0899,Sibelium 5mg (Plus #9),Flunarizine,Sibelium,Neurology & Psychiatry,Tablet,5mg,Prescription,Janssen Pharmaceuticals,Prophylactic medication to reduce migraine frequency.
+MED0900,Petril MD 0.5mg (DS #10),Clonazepam,Petril,Neurology & Psychiatry,Tablet,0.5mg,Prescription,Micro Labs Ltd,Mouth-dissolving tablet for acute anxiety and epilepsy.
+MED0901,Dolo 650mg (DS #10),Paracetamol,Dolo,Analgesics & Antipyretics,Tablet,650mg,OTC,Micro Labs Ltd,Used for fever reduction and mild to moderate pain relief.
+MED0902,Calpol 250mg/5ml (DS #10),Paracetamol,Calpol,Analgesics & Antipyretics,Syrup,250mg/5ml,OTC,GSK Pharmaceuticals,Pediatric and adult antipyretic suspension for fever.
+MED0903,Combiflam 400mg+325mg (DS #10),Ibuprofen + Paracetamol,Combiflam,Analgesics & Antipyretics,Tablet,400mg+325mg,OTC,Sanofi India,Combination anti-inflammatory and analgesic for musculoskeletal pain.
+MED0904,Zerodol-P 100mg+325mg (DS #10),Aceclofenac + Paracetamol,Zerodol,Analgesics & Antipyretics,Tablet,100mg+325mg,Prescription,Ipca Laboratories,"Prescribed for joint pain, arthritis, and dental pain."
+MED0905,Voveran SR 100mg (DS #10),Diclofenac Sodium,Voveran,Analgesics & Antipyretics,Tablet,100mg,Prescription,Novartis India,Sustained release NSAID for acute inflammation and pain.
+MED0906,Ultracet 37.5mg+325mg (DS #10),Tramadol + Paracetamol,Ultracet,Analgesics & Antipyretics,Tablet,37.5mg+325mg,Prescription,Janssen Pharmaceuticals,Moderate to severe acute pain management.
+MED0907,Meftal-Spas 500mg+20mg (DS #10),Mefenamic Acid + Dicyclomine,Meftal,Analgesics & Antipyretics,Tablet,500mg+20mg,Prescription,Blue Cross Laboratories,Antispasmodic and analgesic for abdominal cramps.
+MED0908,Crocin Advance 650mg (DS #10),Paracetamol,Crocin,Analgesics & Antipyretics,Tablet,650mg,OTC,GSK Consumer Healthcare,Fast-release paracetamol for headache and body ache.
+MED0909,Nise 100mg (DS #10),Nimesulide,Nise,Analgesics & Antipyretics,Tablet,100mg,Prescription,Dr. Reddy's Laboratories,NSAID for acute pain and inflammatory conditions.
+MED0910,Flexon 400mg+325mg (DS #10),Ibuprofen + Paracetamol,Flexon,Analgesics & Antipyretics,Tablet,400mg+325mg,OTC,Aristo Pharmaceuticals,"Relieves toothache, muscle ache, and fever."
+MED0911,Augmentin Duo 1000mg (DS #10),Amoxicillin + Clavulanic Acid,Augmentin,Antibiotics,Tablet,1000mg,Prescription,GSK Pharmaceuticals,Broad-spectrum penicillin antibiotic for respiratory and skin infections.
+MED0912,Azithral 500mg (DS #10),Azithromycin,Azithral,Antibiotics,Tablet,500mg,Prescription,Alembic Pharmaceuticals,"Macrolide antibiotic for throat, sinus, and chest infections."
+MED0913,Taxim-O 200mg (DS #10),Cefixime,Taxim,Antibiotics,Tablet,200mg,Prescription,Alkem Laboratories,Third-generation cephalosporin for urinary and typhoid infections.
+MED0914,Cifran 500mg (DS #10),Ciprofloxacin,Cifran,Antibiotics,Tablet,500mg,Prescription,Sun Pharma,Fluoroquinolone antibiotic for bacterial gastroenteritis and UTIs.
+MED0915,Monocef-O 200mg (DS #10),Cefpodoxime Proxetil,Monocef,Antibiotics,Tablet,200mg,Prescription,Aristo Pharmaceuticals,Oral cephalosporin for respiratory tract infections.
+MED0916,Moxikind-CV 625mg (DS #10),Amoxicillin + Clavulanic Acid,Moxikind,Antibiotics,Tablet,625mg,Prescription,Mankind Pharma,"Treats bacterial ear, sinus, and lower respiratory infections."
+MED0917,Zifi 400mg (DS #10),Cefixime,Zifi,Antibiotics,Tablet,400mg,Prescription,FDC Ltd,Broad-spectrum antibiotic for uncomplicated bacterial infections.
+MED0918,Oflox 400mg (DS #10),Ofloxacin,Oflox,Antibiotics,Tablet,400mg,Prescription,Cipla Ltd,Antibiotic for gastrointestinal and urinary tract bacterial infections.
+MED0919,Doxy-1 L-DR 100mg (DS #10),Doxycycline,Doxy-1,Antibiotics,Capsule,100mg,Prescription,USV Ltd,Tetracycline antibiotic for acne and atypical respiratory infections.
+MED0920,Metrogyl 400mg (DS #10),Metronidazole,Metrogyl,Antibiotics,Tablet,400mg,Prescription,JB Chemicals,Antiprotozoal and anaerobic antibacterial agent.
+MED0921,Glycomet-GP 2mg+500mg (DS #10),Glimepiride + Metformin,Glycomet,Antidiabetics,Tablet,2mg+500mg,Prescription,USV Ltd,Dual therapy for glycemic control in Type 2 diabetes mellitus.
+MED0922,Janumet 50mg+1000mg (DS #10),Sitagliptin + Metformin,Janumet,Antidiabetics,Tablet,50mg+1000mg,Prescription,MSD Pharmaceuticals,DPP-4 inhibitor combination to improve insulin response.
+MED0923,Galvus Met 50mg+850mg (DS #10),Vildagliptin + Metformin,Galvus,Antidiabetics,Tablet,50mg+850mg,Prescription,Novartis India,Controls fasting and post-meal blood sugar in Type 2 diabetes.
+MED0924,Lantus Solostar 100IU/ml (DS #10),Insulin Glargine,Lantus,Antidiabetics,Injection,100IU/ml,Prescription,Sanofi India,Long-acting basal insulin analog for 24-hour blood glucose control.
+MED0925,Jardiance 25mg (DS #10),Empagliflozin,Jardiance,Antidiabetics,Tablet,25mg,Prescription,Boehringer Ingelheim,SGLT2 inhibitor aiding glucose excretion and cardiovascular protection.
+MED0926,Glycomet SR 1000mg (DS #10),Metformin,Glycomet,Antidiabetics,Tablet,1000mg,Prescription,USV Ltd,First-line sustained-release oral antidiabetic medication.
+MED0927,Amaryl 2mg (DS #10),Glimepiride,Amaryl,Antidiabetics,Tablet,2mg,Prescription,Sanofi India,Sulfonylurea stimulating pancreatic insulin release.
+MED0928,Istamet 50mg+1000mg (DS #10),Sitagliptin + Metformin,Istamet,Antidiabetics,Tablet,50mg+1000mg,Prescription,Sun Pharma,Oral antihyperglycemic combination for Type 2 diabetes.
+MED0929,Mixtard 30 40IU/ml (DS #10),Human Insulin,Mixtard,Antidiabetics,Injection,40IU/ml,Prescription,Novo Nordisk,Biphasic insulin suspension for mealtime and basal glycemic control.
+MED0930,Teneligliptin Zita 20mg (DS #10),Teneligliptin,Zita,Antidiabetics,Tablet,20mg,Prescription,Glenmark Pharmaceuticals,DPP-4 inhibitor for blood glucose regulation.
+MED0931,Telma 20mg (DS #10),Telmisartan,Telma,Antihypertensives,Tablet,20mg,Prescription,Glenmark Pharmaceuticals,Angiotensin II receptor blocker (ARB) for hypertension.
+MED0932,Telma-H 40mg+12.5mg (DS #10),Telmisartan + Hydrochlorothiazide,Telma,Antihypertensives,Tablet,40mg+12.5mg,Prescription,Glenmark Pharmaceuticals,ARB and diuretic combination for uncontrolled hypertension.
+MED0933,Amlokind-AT 5mg+50mg (DS #10),Amlodipine + Atenolol,Amlokind,Antihypertensives,Tablet,5mg+50mg,Prescription,Mankind Pharma,Calcium channel blocker and beta-blocker for blood pressure.
+MED0934,Stamlo 2.5mg (DS #10),Amlodipine,Stamlo,Antihypertensives,Tablet,2.5mg,Prescription,Dr. Reddy's Laboratories,Relaxes blood vessels to lower blood pressure and angina.
+MED0935,Concor 5mg (DS #10),Bisoprolol,Concor,Antihypertensives,Tablet,5mg,Prescription,Merck Ltd,Cardioselective beta-blocker for hypertension and heart failure.
+MED0936,Met XL 50mg (DS #10),Metoprolol Succinate,Met XL,Antihypertensives,Tablet,50mg,Prescription,Ajanta Pharma,Extended-release beta-blocker for blood pressure and arrhythmia.
+MED0937,Olmezest 40mg (DS #10),Olmesartan Medoxomil,Olmezest,Antihypertensives,Tablet,40mg,Prescription,Sun Pharma,ARB antihypertensive for sustained blood pressure reduction.
+MED0938,Losar 50mg (DS #10),Losartan Potassium,Losar,Antihypertensives,Tablet,50mg,Prescription,Unichem Laboratories,Protects kidneys and reduces blood pressure in hypertensive patients.
+MED0939,Arkamin 100mcg (DS #10),Clonidine,Arkamin,Antihypertensives,Tablet,100mcg,Prescription,Torrent Pharmaceuticals,Centrally acting alpha-agonist for resistant hypertension.
+MED0940,Dytor 20mg (DS #10),Torasemide,Dytor,Antihypertensives,Tablet,20mg,Prescription,Cipla Ltd,Loop diuretic for fluid retention and hypertension.
+MED0941,Pan-D 40mg+30mg (DS #10),Pantoprazole + Domperidone,Pan,Gastrointestinal,Capsule,40mg+30mg,Prescription,Alkem Laboratories,Proton pump inhibitor and prokinetic for GERD and acid reflux.
+MED0942,Pan 40 40mg (DS #10),Pantoprazole,Pan,Gastrointestinal,Tablet,40mg,Prescription,Alkem Laboratories,Reduces stomach acid production in gastritis and peptic ulcers.
+MED0943,Omez 20mg (DS #10),Omeprazole,Omez,Gastrointestinal,Capsule,20mg,OTC,Dr. Reddy's Laboratories,"Relieves heartburn, acid indigestion, and sour stomach."
+MED0944,Digene Gel 200ml (DS #10),Magnesium Hydroxide + Simethicone,Digene,Gastrointestinal,Syrup,200ml,OTC,Abbott India,Antacid and anti-flatulent suspension for quick acidity relief.
+MED0945,Rantac 300mg (DS #10),Ranitidine,Rantac,Gastrointestinal,Tablet,300mg,OTC,JB Chemicals,H2 receptor blocker for heartburn and hyperacidity.
+MED0946,Ondem 8mg (DS #10),Ondansetron,Ondem,Gastrointestinal,Tablet,8mg,Prescription,Alkem Laboratories,Antiemetic medication to prevent nausea and vomiting.
+MED0947,Cremaffin Plus 225ml (DS #10),Liquid Paraffin + Milk of Magnesia,Cremaffin,Gastrointestinal,Syrup,225ml,OTC,Abbott India,Gentle osmotic and lubricant laxative for constipation.
+MED0948,Econorm 250mg (DS #10),Saccharomyces boulardii,Econorm,Gastrointestinal,Sachet,250mg,OTC,Dr. Reddy's Laboratories,Probiotic yeast supplement for acute infectious diarrhea.
+MED0949,Udapa / Udiliv 300mg (DS #10),Ursodeoxycholic Acid,Udiliv,Gastrointestinal,Tablet,300mg,Prescription,Abbott India,Hepatoprotective bile acid for gallstones and fatty liver.
+MED0950,Gaviscon 150ml (DS #10),Sodium Alginate + Sodium Bicarbonate,Gaviscon,Gastrointestinal,Syrup,150ml,OTC,Reckitt Benckiser,Forms protective raft against gastroesophageal reflux.
+MED0951,Montair LC 10mg+5mg (DS #10),Montelukast + Levocetirizine,Montair,Respiratory & Anti-Allergics,Tablet,10mg+5mg,Prescription,Cipla Ltd,"Treats allergic rhinitis, sneezing, and seasonal asthma."
+MED0952,Allegra 180mg (DS #10),Fexofenadine,Allegra,Respiratory & Anti-Allergics,Tablet,180mg,OTC,Sanofi India,Non-drowsy antihistamine for hay fever and urticaria.
+MED0953,Cetrizine Okacet 10mg (DS #10),Cetirizine,Okacet,Respiratory & Anti-Allergics,Tablet,10mg,OTC,Cipla Ltd,"Relieves watery eyes, runny nose, and skin itching."
+MED0954,Asthalin Inhaler 100mcg (DS #10),Salbutamol,Asthalin,Respiratory & Anti-Allergics,Inhaler,100mcg,Prescription,Cipla Ltd,Fast-acting bronchodilator for acute asthma bronchospasm.
+MED0955,Foracort Inhaler 400mcg (DS #10),Formoterol + Budesonide,Foracort,Respiratory & Anti-Allergics,Inhaler,400mcg,Prescription,Cipla Ltd,Maintenance inhaler for asthma and COPD airway inflammation.
+MED0956,Benadryl Cough 150ml (DS #10),Diphenhydramine + Ammonium Chloride,Benadryl,Respiratory & Anti-Allergics,Syrup,150ml,OTC,Johnson & Johnson,Relieves productive and allergic cough and throat irritation.
+MED0957,Ascoril LS 100ml (DS #10),Levosalbutamol + Ambroxol + Guaifenesin,Ascoril,Respiratory & Anti-Allergics,Syrup,100ml,Prescription,Glenmark Pharmaceuticals,Mucolytic and bronchodilator expectorant for wet cough.
+MED0958,Otrivin Oxy 0.05% (DS #10),Oxymetazoline,Otrivin,Respiratory & Anti-Allergics,Drops,0.05%,OTC,GSK Consumer Healthcare,Nasal decongestant drops for blocked nose relief.
+MED0959,Sinarest New 500mg+10mg+2mg (DS #10),Paracetamol + Phenylephrine + Chlorpheniramine,Sinarest,Respiratory & Anti-Allergics,Tablet,500mg+10mg+2mg,OTC,Centaur Pharmaceuticals,"Multi-symptom relief for common cold, sinusitis, and headache."
+MED0960,Budecort Respules 0.5mg/2ml (DS #10),Budesonide,Budecort,Respiratory & Anti-Allergics,Suspension,0.5mg/2ml,Prescription,Cipla Ltd,Nebulizer corticosteroid suspension for pediatric and adult asthma.
+MED0961,Shelcal 500 500mg+250IU (DS #10),Calcium + Vitamin D3,Shelcal,Vitamins & Supplements,Tablet,500mg+250IU,OTC,Torrent Pharmaceuticals,"Supports bone density, calcium absorption, and joint strength."
+MED0962,Becosules Z Standard (DS #10),B-Complex + Vitamin C + Zinc,Becosules,Vitamins & Supplements,Capsule,Standard,OTC,Pfizer Ltd,"Boosts immunity, energy metabolism, and tissue repair."
+MED0963,Limcee 500mg (DS #10),Vitamin C (Ascorbic Acid),Limcee,Vitamins & Supplements,Tablet,500mg,OTC,Abbott India,Chewable antioxidant supplement for immune defense.
+MED0964,Neurobion Forte Standard (DS #10),Vitamin B1 + B2 + B3 + B6 + B12,Neurobion,Vitamins & Supplements,Tablet,Standard,OTC,Procter & Gamble Health,Supports nerve health and relieves tingling or numbness.
+MED0965,Uprise-D3 60000IU (DS #10),Cholecalciferol (Vitamin D3),Uprise,Vitamins & Supplements,Capsule,60000IU,OTC,Alkem Laboratories,Weekly high-dose Vitamin D3 supplement for deficiency.
+MED0966,Zincovit Standard (DS #10),Multivitamins + Multiminerals + Grape Seed,Zincovit,Vitamins & Supplements,Tablet,Standard,OTC,Apex Laboratories,Daily nutritional supplement for general wellness and recovery.
+MED0967,Evion 400mg (DS #10),Vitamin E (Tocopheryl Acetate),Evion,Vitamins & Supplements,Capsule,400mg,OTC,Procter & Gamble Health,"Antioxidant supporting skin, hair, and muscle health."
+MED0968,Autrin Standard (DS #10),Ferrous Fumarate + Folic Acid + B12,Autrin,Vitamins & Supplements,Capsule,Standard,OTC,Pfizer Ltd,Hematinic supplement for iron deficiency anemia.
+MED0969,Supradyn Daily Standard (DS #10),Multivitamin + Trace Elements,Supradyn,Vitamins & Supplements,Tablet,Standard,OTC,Bayer Zydus Pharma,Comprehensive daily vitality and micronutrient tablet.
+MED0970,Livogen-Z Standard (DS #10),Ferrous Fumarate + Folic Acid + Zinc,Livogen,Vitamins & Supplements,Tablet,Standard,OTC,Procter & Gamble Health,Iron and folic acid supplement for pregnancy and anemia.
+MED0971,Betadine Ointment 10% w/w (DS #10),Povidone-Iodine,Betadine,Dermatologicals,Ointment,10% w/w,OTC,Win-Medicare,"Topical antiseptic for minor cuts, wounds, and burns."
+MED0972,Candid-B Cream 30g (DS #10),Clotrimazole + Beclomethasone,Candid,Dermatologicals,Cream,30g,Prescription,Glenmark Pharmaceuticals,Antifungal and anti-inflammatory cream for fungal skin infections.
+MED0973,Soframycin Skin 1% w/w (DS #10),Framycetin,Soframycin,Dermatologicals,Cream,1% w/w,OTC,Sanofi India,Topical antibacterial cream for minor skin infections and boils.
+MED0974,T-Bact Ointment 2% w/w (DS #10),Mupirocin,T-Bact,Dermatologicals,Ointment,2% w/w,Prescription,GSK Pharmaceuticals,Topical antibiotic for impetigo and bacterial skin lesions.
+MED0975,Cligel-N 1%+4% (DS #10),Clindamycin + Nicotinamide,Cligel,Dermatologicals,Gel,1%+4%,Prescription,Glenmark Pharmaceuticals,Topical anti-acne gel reducing pimples and inflammation.
+MED0976,Calamine Lacto 120ml (DS #10),Calamine + Light Kaolin,Lacto Calamine,Dermatologicals,Lotion,120ml,OTC,Piramal Pharma,"Soothing skin lotion for sunburn, rashes, and itching."
+MED0977,Quadriderm RF 10g (DS #10),Beclomethasone + Neomycin + Clotrimazole,Quadriderm,Dermatologicals,Cream,10g,Prescription,MSD Pharmaceuticals,Broad-spectrum topical cream for mixed skin infections.
+MED0978,Ketocip Shampoo 2% w/v (DS #10),Ketoconazole,Ketocip,Dermatologicals,Shampoo,2% w/v,OTC,Cipla Ltd,Medicated antifungal shampoo for dandruff and seborrheic dermatitis.
+MED0979,Melamet Cream 15g (DS #10),Hydroquinone + Tretinoin + Mometasone,Melamet,Dermatologicals,Cream,15g,Prescription,Universal NutriScience,Depigmenting cream for melasma under dermatological supervision.
+MED0980,Silverex Ionic 0.2% w/w (DS #10),Silver Nitrate,Silverex,Dermatologicals,Gel,0.2% w/w,OTC,Sun Pharma,Antimicrobial gel for burn wounds and skin ulcers.
+MED0981,Ecosprin 150mg (DS #10),Aspirin,Ecosprin,Cardiovascular & Lipid Lowering,Tablet,150mg,Prescription,USV Ltd,Low-dose antiplatelet agent preventing heart attacks and strokes.
+MED0982,Atorva 10mg (DS #10),Atorvastatin,Atorva,Cardiovascular & Lipid Lowering,Tablet,10mg,Prescription,Zydus Lifesciences,Statin medication to lower LDL cholesterol and triglycerides.
+MED0983,Rosuvas 5mg (DS #10),Rosuvastatin,Rosuvas,Cardiovascular & Lipid Lowering,Tablet,5mg,Prescription,Sun Pharma,Potent lipid-lowering statin for dyslipidemia management.
+MED0984,Clopilet 75mg (DS #10),Clopidogrel,Clopilet,Cardiovascular & Lipid Lowering,Tablet,75mg,Prescription,Sun Pharma,Antiplatelet blood thinner for coronary artery disease.
+MED0985,Ecosprin AV 75mg+20mg (DS #10),Aspirin + Atorvastatin,Ecosprin,Cardiovascular & Lipid Lowering,Capsule,75mg+20mg,Prescription,USV Ltd,Dual cardiovascular preventive therapy combining statin and aspirin.
+MED0986,Sorbitrate 10mg (DS #10),Isosorbide Dinitrate,Sorbitrate,Cardiovascular & Lipid Lowering,Tablet,10mg,Prescription,Abbott India,Sublingual vasodilator for acute angina chest pain.
+MED0987,Nikoran 10mg (DS #10),Nicorandil,Nikoran,Cardiovascular & Lipid Lowering,Tablet,10mg,Prescription,Torrent Pharmaceuticals,Potassium channel activator for chronic stable angina.
+MED0988,Cardace 5mg (DS #10),Ramipril,Cardace,Cardiovascular & Lipid Lowering,Tablet,5mg,Prescription,Sanofi India,ACE inhibitor improving survival post-myocardial infarction.
+MED0989,Lipikind 20mg (DS #10),Atorvastatin,Lipikind,Cardiovascular & Lipid Lowering,Tablet,20mg,Prescription,Mankind Pharma,Reduces bad cholesterol and slows plaque buildup in arteries.
+MED0990,Rozucor 20mg (DS #10),Rosuvastatin,Rozucor,Cardiovascular & Lipid Lowering,Tablet,20mg,Prescription,Torrent Pharmaceuticals,Controls hypercholesterolemia and reduces cardiovascular events.
+MED0991,Nexito 5mg (DS #10),Escitalopram,Nexito,Neurology & Psychiatry,Tablet,5mg,Prescription,Sun Pharma,SSRI antidepressant prescribed for anxiety and major depressive disorder.
+MED0992,Gabapin NT 400mg+10mg (DS #10),Gabapentin + Nortriptyline,Gabapin,Neurology & Psychiatry,Tablet,400mg+10mg,Prescription,Intas Pharmaceuticals,Treats diabetic neuropathy and chronic nerve pain.
+MED0993,Naxdom 500mg+10mg (DS #10),Naproxen + Domperidone,Naxdom,Neurology & Psychiatry,Tablet,500mg+10mg,Prescription,Sun Pharma,Prevents and relieves acute migraine headaches and nausea.
+MED0994,Vertin 8mg (DS #10),Betahistine,Vertin,Neurology & Psychiatry,Tablet,8mg,Prescription,Abbott India,"Treats vertigo, tinnitus, and Meniere's disease balance disorders."
+MED0995,Pregalin M 75mg+750mcg (DS #10),Pregabalin + Methylcobalamin,Pregalin,Neurology & Psychiatry,Capsule,75mg+750mcg,Prescription,Torrent Pharmaceuticals,Supports nerve regeneration and relieves neuropathic pain.
+MED0996,Zapiz 0.5mg (DS #10),Clonazepam,Zapiz,Neurology & Psychiatry,Tablet,0.5mg,Prescription,Intas Pharmaceuticals,Benzodiazepine for panic disorder and seizure management.
+MED0997,Zolfresh 10mg (DS #10),Zolpidem,Zolfresh,Neurology & Psychiatry,Tablet,10mg,Prescription,Abbott India,Short-term treatment for acute insomnia and sleep onset.
+MED0998,Levipil 500mg (DS #10),Levetiracetam,Levipil,Neurology & Psychiatry,Tablet,500mg,Prescription,Sun Pharma,Antiepileptic drug for focal and generalized seizures.
+MED0999,Sibelium 10mg (DS #10),Flunarizine,Sibelium,Neurology & Psychiatry,Tablet,10mg,Prescription,Janssen Pharmaceuticals,Prophylactic medication to reduce migraine frequency.
+MED1000,Petril MD 0.25mg (SR #11),Clonazepam,Petril,Neurology & Psychiatry,Tablet,0.25mg,Prescription,Micro Labs Ltd,Mouth-dissolving tablet for acute anxiety and epilepsy.

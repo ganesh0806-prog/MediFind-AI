@@ -1,0 +1,501 @@
+store_id,store_name,address,city,state,pincode,latitude,longitude,contact_number,opening_hours,rating
+STR0001,MedPlus Mart (Banashankari),"No. 380, 9th Main Road, Banashankari, Bengaluru",Bengaluru,Karnataka,560013,12.95529,77.653193,+91-9639958838,08:00 AM - 10:30 PM,4.6
+STR0002,Noble Plus Pharmacy (Bogadi),"No. 45, 19th Main Road, Bogadi, Mysuru",Mysuru,Karnataka,570079,12.325959,76.652226,+91-8014265799,24 Hours (Open 24x7),3.7
+STR0003,LifeCare Medicos (Velachery),"No. 14, 18th Main Road, Velachery, Chennai",Chennai,Tamil Nadu,600087,13.037982,80.225979,+91-9697226012,07:30 AM - 11:30 PM,4.2
+STR0004,TrustCare Pharmacy (Begumpet),"No. 415, 1th Main Road, Begumpet, Hyderabad",Hyderabad,Telangana,500045,17.327551,78.534303,+91-9766722344,08:30 AM - 11:00 PM,4.0
+STR0005,Metro Health Meds (Powai),"No. 53, 3th Main Road, Powai, Mumbai",Mumbai,Maharashtra,400053,19.089145,72.904749,+91-8022981052,08:30 AM - 11:00 PM,4.8
+STR0006,Guardian Pharmacy (Electronic City),"No. 374, 15th Main Road, Electronic City, Bengaluru",Bengaluru,Karnataka,560015,12.909276,77.655688,+91-7026753883,09:00 AM - 10:00 PM,3.7
+STR0007,CityCare Druggist (Saraswathipuram),"No. 317, 12th Main Road, Saraswathipuram, Mysuru",Mysuru,Karnataka,570090,12.339018,76.602004,+91-9619335534,24 Hours (Open 24x7),4.5
+STR0008,MedPlus Mart (Mylapore),"No. 444, 4th Main Road, Mylapore, Chennai",Chennai,Tamil Nadu,600039,13.041337,80.229543,+91-8047308985,09:00 AM - 10:00 PM,4.5
+STR0009,Wellness Forever (Kukatpally),"No. 182, 7th Main Road, Kukatpally, Hyderabad",Hyderabad,Telangana,500057,17.359551,78.489918,+91-9496977837,24 Hours (Open 24x7),4.5
+STR0010,LifeCare Medicos (Dadar),"No. 84, 15th Main Road, Dadar, Mumbai",Mumbai,Maharashtra,400041,19.067153,72.85056,+91-8046231783,07:30 AM - 11:30 PM,3.9
+STR0011,CityCare Druggist (HSR Layout),"No. 118, 2th Main Road, HSR Layout, Bengaluru",Bengaluru,Karnataka,560017,12.986141,77.547734,+91-9163843426,08:30 AM - 11:00 PM,3.7
+STR0012,Sparsh Medical Store (Yadavagiri),"No. 109, 21th Main Road, Yadavagiri, Mysuru",Mysuru,Karnataka,570050,12.268779,76.622027,+91-8863100814,09:00 AM - 10:00 PM,3.8
+STR0013,Frank Ross Pharmacy (T. Nagar),"No. 276, 9th Main Road, T. Nagar, Chennai",Chennai,Tamil Nadu,600081,13.076989,80.307773,+91-8088320463,09:00 AM - 10:00 PM,4.1
+STR0014,LifeCare Medicos (Gachibowli),"No. 47, 2th Main Road, Gachibowli, Hyderabad",Hyderabad,Telangana,500073,17.345958,78.48855,+91-9930514014,08:00 AM - 10:30 PM,4.7
+STR0015,TrustCare Pharmacy (Chembur),"No. 198, 13th Main Road, Chembur, Mumbai",Mumbai,Maharashtra,400018,19.088014,72.818739,+91-8881016525,08:30 AM - 11:00 PM,5.0
+STR0016,Apollo Pharmacy (Hebbal),"No. 350, 18th Main Road, Hebbal, Bengaluru",Bengaluru,Karnataka,560024,12.985581,77.551768,+91-9496028436,08:30 AM - 11:00 PM,3.8
+STR0017,Wellness Forever (Nazarbad),"No. 2, 24th Main Road, Nazarbad, Mysuru",Mysuru,Karnataka,570068,12.239257,76.697755,+91-9477187530,08:00 AM - 10:30 PM,4.3
+STR0018,CityCare Druggist (Anna Nagar),"No. 153, 21th Main Road, Anna Nagar, Chennai",Chennai,Tamil Nadu,600090,13.143232,80.310792,+91-7091734598,08:00 AM - 10:30 PM,3.8
+STR0019,LifeCare Medicos (Gachibowli),"No. 1, 20th Main Road, Gachibowli, Hyderabad",Hyderabad,Telangana,500077,17.3596,78.434397,+91-9175579548,24 Hours (Open 24x7),3.8
+STR0020,Sparsh Medical Store (Juhu),"No. 123, 2th Main Road, Juhu, Mumbai",Mumbai,Maharashtra,400049,19.09995,72.86992,+91-9686149359,24 Hours (Open 24x7),3.7
+STR0021,CityCare Druggist (Yelahanka),"No. 390, 18th Main Road, Yelahanka, Bengaluru",Bengaluru,Karnataka,560018,12.922465,77.593973,+91-9727232410,09:00 AM - 10:00 PM,4.9
+STR0022,Guardian Pharmacy (Gokulam),"No. 447, 20th Main Road, Gokulam, Mysuru",Mysuru,Karnataka,570077,12.235271,76.692612,+91-8038427073,07:30 AM - 11:30 PM,4.7
+STR0023,Frank Ross Pharmacy (OMR Thoraipakkam),"No. 205, 22th Main Road, OMR Thoraipakkam, Chennai",Chennai,Tamil Nadu,600049,13.051341,80.291828,+91-9168800797,07:30 AM - 11:30 PM,4.2
+STR0024,Frank Ross Pharmacy (Madhapur),"No. 174, 1th Main Road, Madhapur, Hyderabad",Hyderabad,Telangana,500018,17.360522,78.489309,+91-7040885476,07:30 AM - 11:30 PM,3.9
+STR0025,Noble Plus Pharmacy (Bandra West),"No. 31, 8th Main Road, Bandra West, Mumbai",Mumbai,Maharashtra,400090,19.082072,72.836731,+91-9914216175,08:30 AM - 11:00 PM,3.7
+STR0026,Guardian Pharmacy (Whitefield),"No. 249, 7th Main Road, Whitefield, Bengaluru",Bengaluru,Karnataka,560095,13.032646,77.630367,+91-7027758595,07:30 AM - 11:30 PM,4.4
+STR0027,Metro Health Meds (VV Mohalla),"No. 414, 14th Main Road, VV Mohalla, Mysuru",Mysuru,Karnataka,570070,12.352935,76.690728,+91-9622660194,24 Hours (Open 24x7),4.5
+STR0028,Sri Lakshmi Pharma (Nungambakkam),"No. 240, 24th Main Road, Nungambakkam, Chennai",Chennai,Tamil Nadu,600062,13.095427,80.325544,+91-9897705310,24 Hours (Open 24x7),3.7
+STR0029,Sanjeevini Medicals (Manikonda),"No. 128, 7th Main Road, Manikonda, Hyderabad",Hyderabad,Telangana,500023,17.331504,78.447178,+91-9681979055,09:00 AM - 10:00 PM,3.8
+STR0030,Guardian Pharmacy (Dadar),"No. 128, 3th Main Road, Dadar, Mumbai",Mumbai,Maharashtra,400069,19.01688,72.854993,+91-8883863413,24 Hours (Open 24x7),3.7
+STR0031,CityCare Druggist (Rajajinagar),"No. 48, 8th Main Road, Rajajinagar, Bengaluru",Bengaluru,Karnataka,560011,12.957128,77.564875,+91-9764547971,09:00 AM - 10:00 PM,4.3
+STR0032,Sparsh Medical Store (Nazarbad),"No. 85, 13th Main Road, Nazarbad, Mysuru",Mysuru,Karnataka,570017,12.338536,76.620778,+91-9862401521,08:30 AM - 11:00 PM,4.9
+STR0033,Guardian Pharmacy (Tambaram),"No. 357, 24th Main Road, Tambaram, Chennai",Chennai,Tamil Nadu,600064,13.054221,80.27625,+91-7098834863,09:00 AM - 10:00 PM,3.8
+STR0034,Frank Ross Pharmacy (Kondapur),"No. 297, 24th Main Road, Kondapur, Hyderabad",Hyderabad,Telangana,500017,17.33832,78.525986,+91-7018181586,08:30 AM - 11:00 PM,3.7
+STR0035,Arogya Chemist & Druggist (Colaba),"No. 437, 17th Main Road, Colaba, Mumbai",Mumbai,Maharashtra,400074,19.020692,72.940995,+91-9717634247,07:30 AM - 11:30 PM,3.7
+STR0036,MedPlus Mart (Jayanagar),"No. 35, 22th Main Road, Jayanagar, Bengaluru",Bengaluru,Karnataka,560086,13.006992,77.555433,+91-9664193837,24 Hours (Open 24x7),4.9
+STR0037,Frank Ross Pharmacy (Yadavagiri),"No. 305, 2th Main Road, Yadavagiri, Mysuru",Mysuru,Karnataka,570084,12.231518,76.68041,+91-9966267415,07:30 AM - 11:30 PM,4.4
+STR0038,Sparsh Medical Store (Nungambakkam),"No. 105, 22th Main Road, Nungambakkam, Chennai",Chennai,Tamil Nadu,600043,13.109591,80.300471,+91-9142035886,08:30 AM - 11:00 PM,4.2
+STR0039,Jan Aushadhi Kendra (Dilsukhnagar),"No. 235, 11th Main Road, Dilsukhnagar, Hyderabad",Hyderabad,Telangana,500048,17.420265,78.431326,+91-9911250299,09:00 AM - 10:00 PM,4.5
+STR0040,MedPlus Mart (Colaba),"No. 276, 7th Main Road, Colaba, Mumbai",Mumbai,Maharashtra,400019,19.057601,72.827763,+91-7045594597,08:00 AM - 10:30 PM,4.9
+STR0041,MedPlus Mart (Vijayanagar),"No. 190, 10th Main Road, Vijayanagar, Bengaluru",Bengaluru,Karnataka,560041,13.018803,77.610629,+91-9768812137,07:30 AM - 11:30 PM,4.6
+STR0042,Metro Health Meds (Yadavagiri),"No. 271, 1th Main Road, Yadavagiri, Mysuru",Mysuru,Karnataka,570093,12.273817,76.582663,+91-7050181935,24 Hours (Open 24x7),4.9
+STR0043,Guardian Pharmacy (T. Nagar),"No. 55, 24th Main Road, T. Nagar, Chennai",Chennai,Tamil Nadu,600024,13.058128,80.247974,+91-7030863865,08:30 AM - 11:00 PM,4.0
+STR0044,Noble Plus Pharmacy (Madhapur),"No. 105, 22th Main Road, Madhapur, Hyderabad",Hyderabad,Telangana,500053,17.414849,78.504582,+91-9477834855,09:00 AM - 10:00 PM,4.0
+STR0045,MedPlus Mart (Andheri West),"No. 217, 9th Main Road, Andheri West, Mumbai",Mumbai,Maharashtra,400091,19.126338,72.874088,+91-9810475894,08:30 AM - 11:00 PM,4.7
+STR0046,Guardian Pharmacy (Banashankari),"No. 380, 15th Main Road, Banashankari, Bengaluru",Bengaluru,Karnataka,560030,12.922147,77.622322,+91-7067403166,07:30 AM - 11:30 PM,3.6
+STR0047,Sparsh Medical Store (Kuvempunagar),"No. 280, 2th Main Road, Kuvempunagar, Mysuru",Mysuru,Karnataka,570029,12.329702,76.647366,+91-9188183110,07:30 AM - 11:30 PM,3.8
+STR0048,Apollo Pharmacy (T. Nagar),"No. 187, 2th Main Road, T. Nagar, Chennai",Chennai,Tamil Nadu,600049,13.117926,80.269893,+91-9138195995,08:00 AM - 10:30 PM,4.5
+STR0049,Metro Health Meds (Kukatpally),"No. 448, 14th Main Road, Kukatpally, Hyderabad",Hyderabad,Telangana,500081,17.387955,78.47728,+91-9741774346,08:00 AM - 10:30 PM,5.0
+STR0050,Sparsh Medical Store (Dadar),"No. 13, 6th Main Road, Dadar, Mumbai",Mumbai,Maharashtra,400062,19.014304,72.826726,+91-9165259205,08:00 AM - 10:30 PM,4.0
+STR0051,Noble Plus Pharmacy (Marathahalli),"No. 196, 2th Main Road, Marathahalli, Bengaluru",Bengaluru,Karnataka,560023,12.910686,77.612333,+91-8839854548,08:00 AM - 10:30 PM,4.7
+STR0052,Sanjeevini Medicals (Hebbal),"No. 421, 8th Main Road, Hebbal, Mysuru",Mysuru,Karnataka,570049,12.271666,76.640514,+91-9613176186,08:00 AM - 10:30 PM,4.2
+STR0053,CityCare Druggist (Mylapore),"No. 396, 9th Main Road, Mylapore, Chennai",Chennai,Tamil Nadu,600018,13.135684,80.238108,+91-9196098221,07:30 AM - 11:30 PM,4.2
+STR0054,Sanjeevini Medicals (Ameerpet),"No. 60, 9th Main Road, Ameerpet, Hyderabad",Hyderabad,Telangana,500013,17.37335,78.519922,+91-9787925434,08:30 AM - 11:00 PM,3.7
+STR0055,Sri Lakshmi Pharma (Colaba),"No. 374, 11th Main Road, Colaba, Mumbai",Mumbai,Maharashtra,400054,19.040744,72.822707,+91-8091363974,07:30 AM - 11:30 PM,3.8
+STR0056,TrustCare Pharmacy (Vijayanagar),"No. 131, 2th Main Road, Vijayanagar, Bengaluru",Bengaluru,Karnataka,560034,12.944268,77.550559,+91-8010226999,07:30 AM - 11:30 PM,4.9
+STR0057,Jan Aushadhi Kendra (Bannimantap),"No. 101, 12th Main Road, Bannimantap, Mysuru",Mysuru,Karnataka,570095,12.351661,76.679456,+91-8019391725,08:30 AM - 11:00 PM,4.5
+STR0058,CityCare Druggist (Kilpauk),"No. 369, 10th Main Road, Kilpauk, Chennai",Chennai,Tamil Nadu,600025,13.100042,80.31899,+91-7051511484,09:00 AM - 10:00 PM,4.1
+STR0059,Guardian Pharmacy (Manikonda),"No. 66, 7th Main Road, Manikonda, Hyderabad",Hyderabad,Telangana,500080,17.424477,78.445954,+91-8099245317,09:00 AM - 10:00 PM,4.5
+STR0060,TrustCare Pharmacy (Dadar),"No. 155, 13th Main Road, Dadar, Mumbai",Mumbai,Maharashtra,400082,19.127033,72.882814,+91-7010054484,08:30 AM - 11:00 PM,4.0
+STR0061,Metro Health Meds (BTM Layout),"No. 311, 21th Main Road, BTM Layout, Bengaluru",Bengaluru,Karnataka,560084,13.011567,77.646092,+91-9172409658,09:00 AM - 10:00 PM,4.2
+STR0062,LifeCare Medicos (VV Mohalla),"No. 407, 24th Main Road, VV Mohalla, Mysuru",Mysuru,Karnataka,570070,12.27214,76.588707,+91-9798429450,24 Hours (Open 24x7),4.0
+STR0063,Jan Aushadhi Kendra (Kilpauk),"No. 172, 3th Main Road, Kilpauk, Chennai",Chennai,Tamil Nadu,600089,13.047332,80.261224,+91-9651663795,08:00 AM - 10:30 PM,4.7
+STR0064,Apollo Pharmacy (Gachibowli),"No. 126, 16th Main Road, Gachibowli, Hyderabad",Hyderabad,Telangana,500015,17.426342,78.533595,+91-9971124923,09:00 AM - 10:00 PM,4.8
+STR0065,Frank Ross Pharmacy (Colaba),"No. 254, 13th Main Road, Colaba, Mumbai",Mumbai,Maharashtra,400059,19.011904,72.879097,+91-9629806690,24 Hours (Open 24x7),4.8
+STR0066,Metro Health Meds (Hebbal),"No. 399, 14th Main Road, Hebbal, Bengaluru",Bengaluru,Karnataka,560023,12.960863,77.558474,+91-9633607110,07:30 AM - 11:30 PM,4.3
+STR0067,Frank Ross Pharmacy (Bannimantap),"No. 234, 5th Main Road, Bannimantap, Mysuru",Mysuru,Karnataka,570025,12.246382,76.61829,+91-8899600766,07:30 AM - 11:30 PM,5.0
+STR0068,Sanjeevini Medicals (Guindy),"No. 314, 24th Main Road, Guindy, Chennai",Chennai,Tamil Nadu,600066,13.140278,80.247716,+91-7067276174,07:30 AM - 11:30 PM,4.2
+STR0069,Noble Plus Pharmacy (Gachibowli),"No. 231, 9th Main Road, Gachibowli, Hyderabad",Hyderabad,Telangana,500070,17.387443,78.513092,+91-9695585469,08:30 AM - 11:00 PM,4.7
+STR0070,Arogya Chemist & Druggist (Thane West),"No. 123, 9th Main Road, Thane West, Mumbai",Mumbai,Maharashtra,400090,19.058272,72.939032,+91-8820399639,08:30 AM - 11:00 PM,3.9
+STR0071,Sanjeevini Medicals (HSR Layout),"No. 42, 5th Main Road, HSR Layout, Bengaluru",Bengaluru,Karnataka,560079,13.031718,77.562332,+91-9741039390,09:00 AM - 10:00 PM,4.6
+STR0072,Frank Ross Pharmacy (Siddhartha Layout),"No. 213, 14th Main Road, Siddhartha Layout, Mysuru",Mysuru,Karnataka,570018,12.295442,76.613514,+91-9182828034,09:00 AM - 10:00 PM,4.2
+STR0073,CityCare Druggist (Velachery),"No. 200, 19th Main Road, Velachery, Chennai",Chennai,Tamil Nadu,600063,13.054729,80.210495,+91-9887267850,09:00 AM - 10:00 PM,4.3
+STR0074,Guardian Pharmacy (Kukatpally),"No. 437, 14th Main Road, Kukatpally, Hyderabad",Hyderabad,Telangana,500059,17.399243,78.487048,+91-7083300637,07:30 AM - 11:30 PM,4.9
+STR0075,Frank Ross Pharmacy (Malad),"No. 224, 16th Main Road, Malad, Mumbai",Mumbai,Maharashtra,400044,19.017692,72.848924,+91-9862191530,08:30 AM - 11:00 PM,4.5
+STR0076,Sri Lakshmi Pharma - Marathahalli #4,"No. 431, 15th Main Road, Marathahalli, Bengaluru",Bengaluru,Karnataka,560031,13.024675,77.560743,+91-9793517915,07:30 AM - 11:30 PM,3.6
+STR0077,TrustCare Pharmacy - Nazarbad #4,"No. 340, 1th Main Road, Nazarbad, Mysuru",Mysuru,Karnataka,570082,12.249636,76.638029,+91-9996268397,09:00 AM - 10:00 PM,3.8
+STR0078,Wellness Forever - Tambaram #4,"No. 134, 13th Main Road, Tambaram, Chennai",Chennai,Tamil Nadu,600016,13.145835,80.237167,+91-9138408562,09:00 AM - 10:00 PM,4.1
+STR0079,Guardian Pharmacy - Secunderabad #4,"No. 130, 3th Main Road, Secunderabad, Hyderabad",Hyderabad,Telangana,500063,17.407378,78.520711,+91-8812601580,07:30 AM - 11:30 PM,3.7
+STR0080,Frank Ross Pharmacy - Juhu #4,"No. 36, 21th Main Road, Juhu, Mumbai",Mumbai,Maharashtra,400093,19.041893,72.907368,+91-9814164775,08:00 AM - 10:30 PM,3.9
+STR0081,TrustCare Pharmacy - Indiranagar #4,"No. 123, 5th Main Road, Indiranagar, Bengaluru",Bengaluru,Karnataka,560029,12.954412,77.6118,+91-8899853245,24 Hours (Open 24x7),4.4
+STR0082,Arogya Chemist & Druggist - VV Mohalla #4,"No. 393, 12th Main Road, VV Mohalla, Mysuru",Mysuru,Karnataka,570042,12.313159,76.644051,+91-9791321540,07:30 AM - 11:30 PM,4.9
+STR0083,MedPlus Mart - OMR Thoraipakkam #4,"No. 160, 4th Main Road, OMR Thoraipakkam, Chennai",Chennai,Tamil Nadu,600030,13.029438,80.314289,+91-9851870192,07:30 AM - 11:30 PM,4.5
+STR0084,Sri Lakshmi Pharma - Secunderabad #4,"No. 39, 19th Main Road, Secunderabad, Hyderabad",Hyderabad,Telangana,500035,17.361701,78.445947,+91-9623676961,08:30 AM - 11:00 PM,4.8
+STR0085,Metro Health Meds - Colaba #4,"No. 408, 19th Main Road, Colaba, Mumbai",Mumbai,Maharashtra,400025,19.016301,72.889516,+91-9856600900,07:30 AM - 11:30 PM,4.2
+STR0086,MedPlus Mart - HSR Layout #4,"No. 332, 11th Main Road, HSR Layout, Bengaluru",Bengaluru,Karnataka,560074,12.994683,77.531756,+91-9866379329,09:00 AM - 10:00 PM,3.7
+STR0087,Jan Aushadhi Kendra - Jayalakshmipuram #4,"No. 363, 5th Main Road, Jayalakshmipuram, Mysuru",Mysuru,Karnataka,570068,12.297372,76.603844,+91-8033640702,07:30 AM - 11:30 PM,5.0
+STR0088,TrustCare Pharmacy - Mylapore #4,"No. 397, 16th Main Road, Mylapore, Chennai",Chennai,Tamil Nadu,600078,13.101572,80.228368,+91-8868461818,07:30 AM - 11:30 PM,4.0
+STR0089,CityCare Druggist - Madhapur #4,"No. 143, 15th Main Road, Madhapur, Hyderabad",Hyderabad,Telangana,500021,17.409822,78.471976,+91-9672372114,07:30 AM - 11:30 PM,4.5
+STR0090,Sanjeevini Medicals - Chembur #4,"No. 254, 11th Main Road, Chembur, Mumbai",Mumbai,Maharashtra,400013,19.132775,72.830578,+91-9775437844,08:00 AM - 10:30 PM,4.1
+STR0091,Sanjeevini Medicals - Malleshwaram #4,"No. 306, 23th Main Road, Malleshwaram, Bengaluru",Bengaluru,Karnataka,560045,12.950939,77.544352,+91-9484597009,24 Hours (Open 24x7),4.3
+STR0092,MedPlus Mart - VV Mohalla #4,"No. 369, 14th Main Road, VV Mohalla, Mysuru",Mysuru,Karnataka,570040,12.35101,76.688454,+91-8884514489,08:00 AM - 10:30 PM,4.6
+STR0093,Noble Plus Pharmacy - Kilpauk #4,"No. 230, 1th Main Road, Kilpauk, Chennai",Chennai,Tamil Nadu,600072,13.051232,80.291498,+91-9949491631,08:00 AM - 10:30 PM,4.2
+STR0094,Guardian Pharmacy - Madhapur #4,"No. 298, 12th Main Road, Madhapur, Hyderabad",Hyderabad,Telangana,500094,17.426239,78.493876,+91-8884285882,07:30 AM - 11:30 PM,4.1
+STR0095,LifeCare Medicos - Ghatkopar #4,"No. 181, 23th Main Road, Ghatkopar, Mumbai",Mumbai,Maharashtra,400052,19.079855,72.844141,+91-8846361787,08:30 AM - 11:00 PM,4.0
+STR0096,Noble Plus Pharmacy - Koramangala #4,"No. 162, 4th Main Road, Koramangala, Bengaluru",Bengaluru,Karnataka,560034,12.918703,77.646238,+91-7034850391,08:00 AM - 10:30 PM,3.9
+STR0097,Guardian Pharmacy - Hebbal #4,"No. 390, 17th Main Road, Hebbal, Mysuru",Mysuru,Karnataka,570085,12.347854,76.656703,+91-9423492385,08:00 AM - 10:30 PM,4.0
+STR0098,Wellness Forever - Nungambakkam #4,"No. 8, 23th Main Road, Nungambakkam, Chennai",Chennai,Tamil Nadu,600048,13.061774,80.251097,+91-7026989677,08:30 AM - 11:00 PM,3.7
+STR0099,LifeCare Medicos - Banjara Hills #4,"No. 358, 5th Main Road, Banjara Hills, Hyderabad",Hyderabad,Telangana,500047,17.414374,78.538324,+91-8823769080,24 Hours (Open 24x7),4.4
+STR0100,Arogya Chemist & Druggist - Malad #5,"No. 175, 6th Main Road, Malad, Mumbai",Mumbai,Maharashtra,400066,19.126321,72.914084,+91-9843887075,09:00 AM - 10:00 PM,3.8
+STR0101,Sri Lakshmi Pharma - Koramangala #5,"No. 38, 19th Main Road, Koramangala, Bengaluru",Bengaluru,Karnataka,560072,12.990064,77.540538,+91-9830364454,08:00 AM - 10:30 PM,4.7
+STR0102,MedPlus Mart - Saraswathipuram #5,"No. 61, 18th Main Road, Saraswathipuram, Mysuru",Mysuru,Karnataka,570041,12.251812,76.691212,+91-8091378577,07:30 AM - 11:30 PM,4.7
+STR0103,Metro Health Meds - Velachery #5,"No. 195, 15th Main Road, Velachery, Chennai",Chennai,Tamil Nadu,600076,13.096536,80.206896,+91-8849910061,07:30 AM - 11:30 PM,5.0
+STR0104,TrustCare Pharmacy - Kondapur #5,"No. 31, 20th Main Road, Kondapur, Hyderabad",Hyderabad,Telangana,500089,17.333191,78.507955,+91-9937888820,08:00 AM - 10:30 PM,4.0
+STR0105,Wellness Forever - Bandra West #5,"No. 89, 18th Main Road, Bandra West, Mumbai",Mumbai,Maharashtra,400040,19.011658,72.833605,+91-9931009452,24 Hours (Open 24x7),4.2
+STR0106,TrustCare Pharmacy - JP Nagar #5,"No. 150, 2th Main Road, JP Nagar, Bengaluru",Bengaluru,Karnataka,560070,12.977935,77.619546,+91-9648668783,08:30 AM - 11:00 PM,4.6
+STR0107,MedPlus Mart - Hebbal #5,"No. 136, 21th Main Road, Hebbal, Mysuru",Mysuru,Karnataka,570039,12.315555,76.603555,+91-9667061186,24 Hours (Open 24x7),4.4
+STR0108,Wellness Forever - Kilpauk #5,"No. 424, 5th Main Road, Kilpauk, Chennai",Chennai,Tamil Nadu,600044,13.110283,80.236542,+91-9918004482,08:00 AM - 10:30 PM,4.7
+STR0109,Noble Plus Pharmacy - Himayatnagar #5,"No. 148, 15th Main Road, Himayatnagar, Hyderabad",Hyderabad,Telangana,500082,17.362302,78.518744,+91-9972907576,08:30 AM - 11:00 PM,4.6
+STR0110,LifeCare Medicos - Borivali #5,"No. 253, 15th Main Road, Borivali, Mumbai",Mumbai,Maharashtra,400079,19.095452,72.923099,+91-9990267122,24 Hours (Open 24x7),4.8
+STR0111,Sanjeevini Medicals - JP Nagar #5,"No. 129, 1th Main Road, JP Nagar, Bengaluru",Bengaluru,Karnataka,560087,12.99209,77.60348,+91-9940725714,07:30 AM - 11:30 PM,4.4
+STR0112,Metro Health Meds - Vijayanagar #5,"No. 296, 2th Main Road, Vijayanagar, Mysuru",Mysuru,Karnataka,570044,12.242978,76.622203,+91-9773149551,07:30 AM - 11:30 PM,4.5
+STR0113,Wellness Forever - Mylapore #5,"No. 224, 21th Main Road, Mylapore, Chennai",Chennai,Tamil Nadu,600084,13.052176,80.237419,+91-8822246348,09:00 AM - 10:00 PM,4.1
+STR0114,Sanjeevini Medicals - Kukatpally #5,"No. 54, 6th Main Road, Kukatpally, Hyderabad",Hyderabad,Telangana,500095,17.446491,78.472803,+91-9165250068,09:00 AM - 10:00 PM,4.0
+STR0115,CityCare Druggist - Chembur #5,"No. 19, 15th Main Road, Chembur, Mumbai",Mumbai,Maharashtra,400080,19.126966,72.894748,+91-9952213778,08:30 AM - 11:00 PM,4.1
+STR0116,Sri Lakshmi Pharma - Marathahalli #5,"No. 423, 1th Main Road, Marathahalli, Bengaluru",Bengaluru,Karnataka,560075,13.009925,77.594943,+91-7072005415,09:00 AM - 10:00 PM,3.7
+STR0117,Sanjeevini Medicals - Bannimantap #5,"No. 388, 16th Main Road, Bannimantap, Mysuru",Mysuru,Karnataka,570089,12.305798,76.638427,+91-8816927215,08:00 AM - 10:30 PM,4.0
+STR0118,Sparsh Medical Store - T. Nagar #5,"No. 225, 23th Main Road, T. Nagar, Chennai",Chennai,Tamil Nadu,600046,13.043082,80.299619,+91-8826297533,24 Hours (Open 24x7),5.0
+STR0119,Metro Health Meds - Himayatnagar #5,"No. 364, 6th Main Road, Himayatnagar, Hyderabad",Hyderabad,Telangana,500040,17.3565,78.424861,+91-9483932360,24 Hours (Open 24x7),4.4
+STR0120,Frank Ross Pharmacy - Bandra West #5,"No. 237, 4th Main Road, Bandra West, Mumbai",Mumbai,Maharashtra,400024,19.094911,72.835724,+91-9776890827,08:30 AM - 11:00 PM,4.3
+STR0121,Sri Lakshmi Pharma - Malleshwaram #5,"No. 242, 8th Main Road, Malleshwaram, Bengaluru",Bengaluru,Karnataka,560071,13.02886,77.653611,+91-8883989546,08:00 AM - 10:30 PM,4.1
+STR0122,LifeCare Medicos - Yadavagiri #5,"No. 443, 3th Main Road, Yadavagiri, Mysuru",Mysuru,Karnataka,570027,12.349732,76.622521,+91-9465692629,08:30 AM - 11:00 PM,4.9
+STR0123,Guardian Pharmacy - Porur #5,"No. 145, 24th Main Road, Porur, Chennai",Chennai,Tamil Nadu,600010,13.019709,80.326381,+91-9488777447,07:30 AM - 11:30 PM,5.0
+STR0124,CityCare Druggist - Begumpet #5,"No. 229, 18th Main Road, Begumpet, Hyderabad",Hyderabad,Telangana,500029,17.375664,78.547365,+91-8856321751,08:30 AM - 11:00 PM,4.4
+STR0125,Sri Lakshmi Pharma - Thane West #6,"No. 165, 7th Main Road, Thane West, Mumbai",Mumbai,Maharashtra,400068,19.136271,72.923591,+91-9686745380,09:00 AM - 10:00 PM,3.9
+STR0126,Sri Lakshmi Pharma - Marathahalli #6,"No. 163, 24th Main Road, Marathahalli, Bengaluru",Bengaluru,Karnataka,560015,12.944878,77.579663,+91-8861167978,09:00 AM - 10:00 PM,5.0
+STR0127,Wellness Forever - Bogadi #6,"No. 19, 5th Main Road, Bogadi, Mysuru",Mysuru,Karnataka,570073,12.341448,76.6156,+91-7089212676,08:30 AM - 11:00 PM,4.8
+STR0128,MedPlus Mart - Tambaram #6,"No. 234, 1th Main Road, Tambaram, Chennai",Chennai,Tamil Nadu,600077,13.039734,80.278084,+91-9765026398,08:00 AM - 10:30 PM,3.7
+STR0129,Sanjeevini Medicals - Kondapur #6,"No. 355, 13th Main Road, Kondapur, Hyderabad",Hyderabad,Telangana,500089,17.4417,78.512184,+91-9954099326,07:30 AM - 11:30 PM,4.1
+STR0130,Jan Aushadhi Kendra - Juhu #6,"No. 447, 18th Main Road, Juhu, Mumbai",Mumbai,Maharashtra,400072,19.085108,72.825333,+91-9892874006,24 Hours (Open 24x7),3.9
+STR0131,Sparsh Medical Store - Banashankari #6,"No. 117, 24th Main Road, Banashankari, Bengaluru",Bengaluru,Karnataka,560046,12.986551,77.658307,+91-9968246664,24 Hours (Open 24x7),4.7
+STR0132,CityCare Druggist - Siddhartha Layout #6,"No. 228, 6th Main Road, Siddhartha Layout, Mysuru",Mysuru,Karnataka,570022,12.249011,76.641783,+91-9413885234,24 Hours (Open 24x7),4.1
+STR0133,Guardian Pharmacy - Adyar #6,"No. 192, 14th Main Road, Adyar, Chennai",Chennai,Tamil Nadu,600055,13.131758,80.302,+91-9742775624,07:30 AM - 11:30 PM,4.2
+STR0134,Metro Health Meds - Dilsukhnagar #6,"No. 88, 6th Main Road, Dilsukhnagar, Hyderabad",Hyderabad,Telangana,500033,17.410612,78.513023,+91-9991804602,09:00 AM - 10:00 PM,4.5
+STR0135,Arogya Chemist & Druggist - Powai #6,"No. 74, 8th Main Road, Powai, Mumbai",Mumbai,Maharashtra,400084,19.057734,72.850867,+91-8895618110,08:30 AM - 11:00 PM,4.2
+STR0136,Apollo Pharmacy - Banashankari #6,"No. 148, 22th Main Road, Banashankari, Bengaluru",Bengaluru,Karnataka,560069,13.011817,77.634915,+91-7031203129,24 Hours (Open 24x7),4.2
+STR0137,TrustCare Pharmacy - Jayalakshmipuram #6,"No. 328, 14th Main Road, Jayalakshmipuram, Mysuru",Mysuru,Karnataka,570048,12.343519,76.693121,+91-9471315464,08:30 AM - 11:00 PM,3.9
+STR0138,CityCare Druggist - Besant Nagar #6,"No. 55, 8th Main Road, Besant Nagar, Chennai",Chennai,Tamil Nadu,600071,13.084175,80.270897,+91-8086762164,08:30 AM - 11:00 PM,4.4
+STR0139,Guardian Pharmacy - Manikonda #6,"No. 425, 22th Main Road, Manikonda, Hyderabad",Hyderabad,Telangana,500012,17.423778,78.506195,+91-8046840133,24 Hours (Open 24x7),4.4
+STR0140,Metro Health Meds - Goregaon #6,"No. 311, 24th Main Road, Goregaon, Mumbai",Mumbai,Maharashtra,400016,19.102256,72.916153,+91-8848412328,08:00 AM - 10:30 PM,4.4
+STR0141,Frank Ross Pharmacy - HSR Layout #6,"No. 98, 20th Main Road, HSR Layout, Bengaluru",Bengaluru,Karnataka,560091,13.022301,77.573539,+91-9498473848,08:00 AM - 10:30 PM,4.5
+STR0142,Jan Aushadhi Kendra - Bogadi #6,"No. 159, 15th Main Road, Bogadi, Mysuru",Mysuru,Karnataka,570015,12.279626,76.586618,+91-9887789079,08:30 AM - 11:00 PM,4.6
+STR0143,Sparsh Medical Store - Anna Nagar #6,"No. 168, 24th Main Road, Anna Nagar, Chennai",Chennai,Tamil Nadu,600047,13.092876,80.210372,+91-8033574011,08:00 AM - 10:30 PM,3.8
+STR0144,Sparsh Medical Store - Ameerpet #6,"No. 272, 17th Main Road, Ameerpet, Hyderabad",Hyderabad,Telangana,500056,17.380528,78.492244,+91-9432084778,08:30 AM - 11:00 PM,4.9
+STR0145,Metro Health Meds - Malad #6,"No. 383, 11th Main Road, Malad, Mumbai",Mumbai,Maharashtra,400047,19.04825,72.889508,+91-9972858374,24 Hours (Open 24x7),3.8
+STR0146,CityCare Druggist - Whitefield #6,"No. 434, 18th Main Road, Whitefield, Bengaluru",Bengaluru,Karnataka,560060,12.910565,77.534455,+91-9122120246,09:00 AM - 10:00 PM,3.6
+STR0147,MedPlus Mart - Bannimantap #6,"No. 189, 22th Main Road, Bannimantap, Mysuru",Mysuru,Karnataka,570068,12.337738,76.621225,+91-9488458327,09:00 AM - 10:00 PM,4.8
+STR0148,MedPlus Mart - Nungambakkam #6,"No. 242, 1th Main Road, Nungambakkam, Chennai",Chennai,Tamil Nadu,600039,13.034218,80.273592,+91-7054024257,07:30 AM - 11:30 PM,3.9
+STR0149,Jan Aushadhi Kendra - Jubilee Hills #6,"No. 359, 10th Main Road, Jubilee Hills, Hyderabad",Hyderabad,Telangana,500069,17.420099,78.449757,+91-8025659979,08:00 AM - 10:30 PM,3.7
+STR0150,Guardian Pharmacy - Andheri West #7,"No. 60, 4th Main Road, Andheri West, Mumbai",Mumbai,Maharashtra,400073,19.091976,72.823795,+91-9682148284,08:00 AM - 10:30 PM,4.1
+STR0151,Jan Aushadhi Kendra - HSR Layout #7,"No. 215, 19th Main Road, HSR Layout, Bengaluru",Bengaluru,Karnataka,560079,12.913319,77.598676,+91-9765684858,24 Hours (Open 24x7),4.8
+STR0152,Sri Lakshmi Pharma - Yadavagiri #7,"No. 17, 23th Main Road, Yadavagiri, Mysuru",Mysuru,Karnataka,570045,12.301083,76.657266,+91-9139161443,09:00 AM - 10:00 PM,4.2
+STR0153,CityCare Druggist - Velachery #7,"No. 51, 22th Main Road, Velachery, Chennai",Chennai,Tamil Nadu,600056,13.112092,80.332561,+91-9183076970,08:30 AM - 11:00 PM,3.7
+STR0154,Frank Ross Pharmacy - Kondapur #7,"No. 435, 15th Main Road, Kondapur, Hyderabad",Hyderabad,Telangana,500025,17.387119,78.463684,+91-9998955314,08:00 AM - 10:30 PM,4.5
+STR0155,Apollo Pharmacy - Colaba #7,"No. 403, 11th Main Road, Colaba, Mumbai",Mumbai,Maharashtra,400016,19.114374,72.847908,+91-9626901217,07:30 AM - 11:30 PM,3.9
+STR0156,Metro Health Meds - Hebbal #7,"No. 107, 19th Main Road, Hebbal, Bengaluru",Bengaluru,Karnataka,560080,12.963666,77.539799,+91-9641272553,08:30 AM - 11:00 PM,4.7
+STR0157,Apollo Pharmacy - Yadavagiri #7,"No. 440, 5th Main Road, Yadavagiri, Mysuru",Mysuru,Karnataka,570045,12.234096,76.699544,+91-9782506491,08:30 AM - 11:00 PM,4.7
+STR0158,Jan Aushadhi Kendra - Anna Nagar #7,"No. 68, 1th Main Road, Anna Nagar, Chennai",Chennai,Tamil Nadu,600013,13.126377,80.296177,+91-9141934639,07:30 AM - 11:30 PM,4.1
+STR0159,Guardian Pharmacy - Gachibowli #7,"No. 65, 24th Main Road, Gachibowli, Hyderabad",Hyderabad,Telangana,500016,17.373164,78.444228,+91-8080610004,24 Hours (Open 24x7),4.6
+STR0160,Arogya Chemist & Druggist - Malad #7,"No. 263, 19th Main Road, Malad, Mumbai",Mumbai,Maharashtra,400056,19.031337,72.845232,+91-9970667140,07:30 AM - 11:30 PM,3.9
+STR0161,Apollo Pharmacy - Electronic City #7,"No. 267, 10th Main Road, Electronic City, Bengaluru",Bengaluru,Karnataka,560094,12.977999,77.622497,+91-8896347724,24 Hours (Open 24x7),3.7
+STR0162,CityCare Druggist - Hebbal #7,"No. 219, 22th Main Road, Hebbal, Mysuru",Mysuru,Karnataka,570061,12.316626,76.610791,+91-9975802771,09:00 AM - 10:00 PM,3.7
+STR0163,Sanjeevini Medicals - Anna Nagar #7,"No. 76, 3th Main Road, Anna Nagar, Chennai",Chennai,Tamil Nadu,600087,13.141832,80.301627,+91-9746912022,07:30 AM - 11:30 PM,4.5
+STR0164,Noble Plus Pharmacy - Ameerpet #7,"No. 196, 20th Main Road, Ameerpet, Hyderabad",Hyderabad,Telangana,500051,17.392066,78.501224,+91-7049580505,09:00 AM - 10:00 PM,4.3
+STR0165,MedPlus Mart - Chembur #7,"No. 437, 21th Main Road, Chembur, Mumbai",Mumbai,Maharashtra,400024,19.065548,72.844905,+91-7038859907,09:00 AM - 10:00 PM,4.2
+STR0166,Sri Lakshmi Pharma - Whitefield #7,"No. 424, 15th Main Road, Whitefield, Bengaluru",Bengaluru,Karnataka,560053,12.952876,77.62812,+91-8065833185,24 Hours (Open 24x7),4.0
+STR0167,Jan Aushadhi Kendra - Jayalakshmipuram #7,"No. 192, 5th Main Road, Jayalakshmipuram, Mysuru",Mysuru,Karnataka,570042,12.232671,76.589489,+91-8819010480,24 Hours (Open 24x7),4.8
+STR0168,Sri Lakshmi Pharma - Anna Nagar #7,"No. 382, 24th Main Road, Anna Nagar, Chennai",Chennai,Tamil Nadu,600022,13.02368,80.210995,+91-9127463800,07:30 AM - 11:30 PM,3.7
+STR0169,LifeCare Medicos - Ameerpet #7,"No. 344, 4th Main Road, Ameerpet, Hyderabad",Hyderabad,Telangana,500052,17.43121,78.513176,+91-8057459130,09:00 AM - 10:00 PM,4.8
+STR0170,Apollo Pharmacy - Ghatkopar #7,"No. 308, 10th Main Road, Ghatkopar, Mumbai",Mumbai,Maharashtra,400046,19.072643,72.825418,+91-9123905032,07:30 AM - 11:30 PM,4.3
+STR0171,Jan Aushadhi Kendra - Jayanagar #7,"No. 115, 4th Main Road, Jayanagar, Bengaluru",Bengaluru,Karnataka,560071,12.97051,77.591151,+91-9184660688,08:30 AM - 11:00 PM,3.8
+STR0172,TrustCare Pharmacy - Saraswathipuram #7,"No. 414, 14th Main Road, Saraswathipuram, Mysuru",Mysuru,Karnataka,570038,12.253316,76.630801,+91-7093446356,07:30 AM - 11:30 PM,4.5
+STR0173,Apollo Pharmacy - Porur #7,"No. 337, 23th Main Road, Porur, Chennai",Chennai,Tamil Nadu,600087,13.069506,80.285761,+91-9413886030,08:00 AM - 10:30 PM,4.0
+STR0174,Sparsh Medical Store - Kondapur #7,"No. 180, 1th Main Road, Kondapur, Hyderabad",Hyderabad,Telangana,500053,17.402562,78.42759,+91-9729226889,07:30 AM - 11:30 PM,4.5
+STR0175,Wellness Forever - Bandra West #8,"No. 16, 3th Main Road, Bandra West, Mumbai",Mumbai,Maharashtra,400091,19.0597,72.894062,+91-7038874646,09:00 AM - 10:00 PM,4.2
+STR0176,Wellness Forever - HSR Layout #8,"No. 160, 24th Main Road, HSR Layout, Bengaluru",Bengaluru,Karnataka,560057,12.972008,77.640944,+91-9186181117,07:30 AM - 11:30 PM,3.7
+STR0177,Wellness Forever - Vijayanagar #8,"No. 387, 20th Main Road, Vijayanagar, Mysuru",Mysuru,Karnataka,570030,12.31643,76.595581,+91-9820949687,08:30 AM - 11:00 PM,4.2
+STR0178,Arogya Chemist & Druggist - Besant Nagar #8,"No. 227, 14th Main Road, Besant Nagar, Chennai",Chennai,Tamil Nadu,600087,13.026874,80.289215,+91-9438933176,07:30 AM - 11:30 PM,3.8
+STR0179,MedPlus Mart - Secunderabad #8,"No. 348, 22th Main Road, Secunderabad, Hyderabad",Hyderabad,Telangana,500046,17.323446,78.497851,+91-8880723898,08:30 AM - 11:00 PM,3.7
+STR0180,TrustCare Pharmacy - Chembur #8,"No. 4, 7th Main Road, Chembur, Mumbai",Mumbai,Maharashtra,400017,19.13323,72.887512,+91-9438351344,08:00 AM - 10:30 PM,4.7
+STR0181,Sanjeevini Medicals - Malleshwaram #8,"No. 4, 16th Main Road, Malleshwaram, Bengaluru",Bengaluru,Karnataka,560025,12.957062,77.613227,+91-8033581357,08:00 AM - 10:30 PM,4.1
+STR0182,Frank Ross Pharmacy - Siddhartha Layout #8,"No. 287, 22th Main Road, Siddhartha Layout, Mysuru",Mysuru,Karnataka,570074,12.290373,76.64533,+91-9119673809,09:00 AM - 10:00 PM,4.8
+STR0183,Sri Lakshmi Pharma - Adyar #8,"No. 236, 3th Main Road, Adyar, Chennai",Chennai,Tamil Nadu,600012,13.14009,80.255893,+91-9187277086,09:00 AM - 10:00 PM,4.4
+STR0184,Jan Aushadhi Kendra - Manikonda #8,"No. 149, 4th Main Road, Manikonda, Hyderabad",Hyderabad,Telangana,500063,17.444955,78.539396,+91-8012799319,08:30 AM - 11:00 PM,3.8
+STR0185,Arogya Chemist & Druggist - Colaba #8,"No. 46, 14th Main Road, Colaba, Mumbai",Mumbai,Maharashtra,400056,19.036453,72.821717,+91-9942657384,09:00 AM - 10:00 PM,4.4
+STR0186,MedPlus Mart - Rajajinagar #8,"No. 446, 10th Main Road, Rajajinagar, Bengaluru",Bengaluru,Karnataka,560060,12.919701,77.531969,+91-9139738898,08:30 AM - 11:00 PM,4.7
+STR0187,LifeCare Medicos - Kuvempunagar #8,"No. 59, 17th Main Road, Kuvempunagar, Mysuru",Mysuru,Karnataka,570091,12.243078,76.663191,+91-7036025314,08:30 AM - 11:00 PM,4.1
+STR0188,CityCare Druggist - Kilpauk #8,"No. 121, 4th Main Road, Kilpauk, Chennai",Chennai,Tamil Nadu,600028,13.026955,80.247167,+91-9744355473,08:00 AM - 10:30 PM,3.8
+STR0189,Metro Health Meds - Gachibowli #8,"No. 39, 6th Main Road, Gachibowli, Hyderabad",Hyderabad,Telangana,500093,17.429834,78.424725,+91-8872270726,07:30 AM - 11:30 PM,4.7
+STR0190,Jan Aushadhi Kendra - Malad #8,"No. 330, 21th Main Road, Malad, Mumbai",Mumbai,Maharashtra,400082,19.116881,72.849341,+91-9194183695,08:30 AM - 11:00 PM,3.8
+STR0191,Arogya Chemist & Druggist - Koramangala #8,"No. 324, 10th Main Road, Koramangala, Bengaluru",Bengaluru,Karnataka,560066,12.921961,77.620176,+91-9489379016,24 Hours (Open 24x7),4.1
+STR0192,Guardian Pharmacy - Kuvempunagar #8,"No. 232, 2th Main Road, Kuvempunagar, Mysuru",Mysuru,Karnataka,570069,12.312563,76.688471,+91-9859491122,08:30 AM - 11:00 PM,3.7
+STR0193,TrustCare Pharmacy - Anna Nagar #8,"No. 260, 13th Main Road, Anna Nagar, Chennai",Chennai,Tamil Nadu,600086,13.113259,80.310153,+91-8887890494,07:30 AM - 11:30 PM,4.9
+STR0194,Sparsh Medical Store - Manikonda #8,"No. 231, 19th Main Road, Manikonda, Hyderabad",Hyderabad,Telangana,500015,17.356664,78.444767,+91-9653154591,07:30 AM - 11:30 PM,4.3
+STR0195,Apollo Pharmacy - Dadar #8,"No. 53, 11th Main Road, Dadar, Mumbai",Mumbai,Maharashtra,400067,19.10858,72.917589,+91-9977719420,08:00 AM - 10:30 PM,3.7
+STR0196,Arogya Chemist & Druggist - JP Nagar #8,"No. 269, 17th Main Road, JP Nagar, Bengaluru",Bengaluru,Karnataka,560066,13.035366,77.58324,+91-9758841557,08:30 AM - 11:00 PM,4.9
+STR0197,Sri Lakshmi Pharma - Nazarbad #8,"No. 348, 20th Main Road, Nazarbad, Mysuru",Mysuru,Karnataka,570053,12.279162,76.675334,+91-9894676162,08:30 AM - 11:00 PM,3.7
+STR0198,LifeCare Medicos - Anna Nagar #8,"No. 146, 9th Main Road, Anna Nagar, Chennai",Chennai,Tamil Nadu,600059,13.062004,80.326698,+91-9754743095,24 Hours (Open 24x7),4.4
+STR0199,Sparsh Medical Store - Gachibowli #8,"No. 159, 21th Main Road, Gachibowli, Hyderabad",Hyderabad,Telangana,500054,17.431594,78.477469,+91-8027307598,07:30 AM - 11:30 PM,4.6
+STR0200,Guardian Pharmacy - Bandra West #9,"No. 193, 21th Main Road, Bandra West, Mumbai",Mumbai,Maharashtra,400081,19.108613,72.910791,+91-9127152188,07:30 AM - 11:30 PM,3.7
+STR0201,Sri Lakshmi Pharma - Banashankari #9,"No. 186, 1th Main Road, Banashankari, Bengaluru",Bengaluru,Karnataka,560075,12.920006,77.646932,+91-9151455302,08:00 AM - 10:30 PM,4.9
+STR0202,Metro Health Meds - Jayalakshmipuram #9,"No. 99, 8th Main Road, Jayalakshmipuram, Mysuru",Mysuru,Karnataka,570072,12.296483,76.681839,+91-9730796389,24 Hours (Open 24x7),4.0
+STR0203,LifeCare Medicos - Anna Nagar #9,"No. 428, 24th Main Road, Anna Nagar, Chennai",Chennai,Tamil Nadu,600079,13.059306,80.322118,+91-7015066382,08:30 AM - 11:00 PM,4.8
+STR0204,Wellness Forever - Himayatnagar #9,"No. 193, 5th Main Road, Himayatnagar, Hyderabad",Hyderabad,Telangana,500086,17.370596,78.423109,+91-9734272734,07:30 AM - 11:30 PM,4.7
+STR0205,Noble Plus Pharmacy - Dadar #9,"No. 23, 14th Main Road, Dadar, Mumbai",Mumbai,Maharashtra,400066,19.1287,72.824567,+91-9141880763,09:00 AM - 10:00 PM,4.5
+STR0206,Noble Plus Pharmacy - Marathahalli #9,"No. 120, 18th Main Road, Marathahalli, Bengaluru",Bengaluru,Karnataka,560067,12.948111,77.653108,+91-9651536077,09:00 AM - 10:00 PM,4.9
+STR0207,Sanjeevini Medicals - VV Mohalla #9,"No. 226, 15th Main Road, VV Mohalla, Mysuru",Mysuru,Karnataka,570083,12.354379,76.648947,+91-9461254050,07:30 AM - 11:30 PM,4.3
+STR0208,CityCare Druggist - T. Nagar #9,"No. 411, 20th Main Road, T. Nagar, Chennai",Chennai,Tamil Nadu,600035,13.099839,80.263998,+91-9743554863,24 Hours (Open 24x7),4.5
+STR0209,LifeCare Medicos - Kukatpally #9,"No. 365, 17th Main Road, Kukatpally, Hyderabad",Hyderabad,Telangana,500023,17.358117,78.464426,+91-9948260510,24 Hours (Open 24x7),4.7
+STR0210,Arogya Chemist & Druggist - Borivali #9,"No. 76, 14th Main Road, Borivali, Mumbai",Mumbai,Maharashtra,400075,19.098427,72.910509,+91-9939801436,09:00 AM - 10:00 PM,4.8
+STR0211,Apollo Pharmacy - Vijayanagar #9,"No. 28, 13th Main Road, Vijayanagar, Bengaluru",Bengaluru,Karnataka,560063,13.009505,77.63225,+91-7060192261,08:00 AM - 10:30 PM,4.1
+STR0212,Sanjeevini Medicals - Kuvempunagar #9,"No. 15, 11th Main Road, Kuvempunagar, Mysuru",Mysuru,Karnataka,570038,12.242657,76.638675,+91-9997236246,08:30 AM - 11:00 PM,4.7
+STR0213,Apollo Pharmacy - T. Nagar #9,"No. 425, 16th Main Road, T. Nagar, Chennai",Chennai,Tamil Nadu,600046,13.025183,80.277139,+91-9772962895,09:00 AM - 10:00 PM,4.5
+STR0214,Apollo Pharmacy - Jubilee Hills #9,"No. 111, 5th Main Road, Jubilee Hills, Hyderabad",Hyderabad,Telangana,500042,17.377399,78.537102,+91-7091722503,07:30 AM - 11:30 PM,4.2
+STR0215,Frank Ross Pharmacy - Borivali #9,"No. 63, 2th Main Road, Borivali, Mumbai",Mumbai,Maharashtra,400048,19.056619,72.827919,+91-9666348030,07:30 AM - 11:30 PM,4.2
+STR0216,CityCare Druggist - Koramangala #9,"No. 306, 18th Main Road, Koramangala, Bengaluru",Bengaluru,Karnataka,560073,12.925189,77.628596,+91-9894819556,07:30 AM - 11:30 PM,4.4
+STR0217,Wellness Forever - Siddhartha Layout #9,"No. 220, 1th Main Road, Siddhartha Layout, Mysuru",Mysuru,Karnataka,570047,12.311168,76.587546,+91-9142287985,07:30 AM - 11:30 PM,4.2
+STR0218,Jan Aushadhi Kendra - Kilpauk #9,"No. 269, 12th Main Road, Kilpauk, Chennai",Chennai,Tamil Nadu,600020,13.028634,80.296826,+91-9980606503,07:30 AM - 11:30 PM,4.3
+STR0219,LifeCare Medicos - Ameerpet #9,"No. 200, 16th Main Road, Ameerpet, Hyderabad",Hyderabad,Telangana,500012,17.329459,78.528542,+91-9895318289,09:00 AM - 10:00 PM,5.0
+STR0220,Noble Plus Pharmacy - Borivali #9,"No. 183, 3th Main Road, Borivali, Mumbai",Mumbai,Maharashtra,400012,19.102811,72.823275,+91-9142363373,24 Hours (Open 24x7),4.7
+STR0221,Metro Health Meds - JP Nagar #9,"No. 69, 2th Main Road, JP Nagar, Bengaluru",Bengaluru,Karnataka,560052,12.917629,77.657863,+91-9183284724,08:30 AM - 11:00 PM,4.7
+STR0222,CityCare Druggist - Gokulam #9,"No. 357, 16th Main Road, Gokulam, Mysuru",Mysuru,Karnataka,570069,12.279455,76.622583,+91-9728099607,24 Hours (Open 24x7),4.6
+STR0223,Apollo Pharmacy - Tambaram #9,"No. 104, 2th Main Road, Tambaram, Chennai",Chennai,Tamil Nadu,600047,13.123364,80.328842,+91-9615624520,08:30 AM - 11:00 PM,4.9
+STR0224,Sri Lakshmi Pharma - Ameerpet #9,"No. 243, 9th Main Road, Ameerpet, Hyderabad",Hyderabad,Telangana,500079,17.44818,78.519639,+91-9896825515,08:00 AM - 10:30 PM,4.0
+STR0225,CityCare Druggist - Andheri West #10,"No. 170, 9th Main Road, Andheri West, Mumbai",Mumbai,Maharashtra,400093,19.059914,72.823555,+91-9959394697,09:00 AM - 10:00 PM,4.8
+STR0226,Arogya Chemist & Druggist - JP Nagar #10,"No. 174, 6th Main Road, JP Nagar, Bengaluru",Bengaluru,Karnataka,560059,13.007629,77.602193,+91-8876776459,08:30 AM - 11:00 PM,4.9
+STR0227,Guardian Pharmacy - Bannimantap #10,"No. 373, 14th Main Road, Bannimantap, Mysuru",Mysuru,Karnataka,570020,12.285949,76.692226,+91-9967795113,07:30 AM - 11:30 PM,5.0
+STR0228,LifeCare Medicos - T. Nagar #10,"No. 165, 4th Main Road, T. Nagar, Chennai",Chennai,Tamil Nadu,600047,13.032156,80.269741,+91-9954012664,08:30 AM - 11:00 PM,4.0
+STR0229,Noble Plus Pharmacy - Himayatnagar #10,"No. 86, 23th Main Road, Himayatnagar, Hyderabad",Hyderabad,Telangana,500064,17.321476,78.482626,+91-8857183837,09:00 AM - 10:00 PM,3.7
+STR0230,TrustCare Pharmacy - Juhu #10,"No. 141, 21th Main Road, Juhu, Mumbai",Mumbai,Maharashtra,400065,19.018319,72.828146,+91-9820071854,09:00 AM - 10:00 PM,4.1
+STR0231,Noble Plus Pharmacy - Marathahalli #10,"No. 16, 5th Main Road, Marathahalli, Bengaluru",Bengaluru,Karnataka,560030,12.921878,77.613997,+91-8814670638,08:00 AM - 10:30 PM,3.7
+STR0232,Sanjeevini Medicals - Bogadi #10,"No. 197, 19th Main Road, Bogadi, Mysuru",Mysuru,Karnataka,570056,12.327786,76.650238,+91-9891214453,08:00 AM - 10:30 PM,4.6
+STR0233,Sanjeevini Medicals - Nungambakkam #10,"No. 391, 3th Main Road, Nungambakkam, Chennai",Chennai,Tamil Nadu,600066,13.142782,80.254433,+91-9781062902,08:30 AM - 11:00 PM,4.2
+STR0234,Guardian Pharmacy - Dilsukhnagar #10,"No. 59, 1th Main Road, Dilsukhnagar, Hyderabad",Hyderabad,Telangana,500041,17.357143,78.534618,+91-9776980546,07:30 AM - 11:30 PM,4.1
+STR0235,MedPlus Mart - Thane West #10,"No. 397, 9th Main Road, Thane West, Mumbai",Mumbai,Maharashtra,400043,19.040067,72.937919,+91-8838799154,07:30 AM - 11:30 PM,4.0
+STR0236,Arogya Chemist & Druggist - Vijayanagar #10,"No. 63, 5th Main Road, Vijayanagar, Bengaluru",Bengaluru,Karnataka,560035,12.90818,77.655684,+91-9970672142,08:00 AM - 10:30 PM,4.9
+STR0237,MedPlus Mart - Hebbal #10,"No. 342, 12th Main Road, Hebbal, Mysuru",Mysuru,Karnataka,570050,12.236411,76.690249,+91-9983819367,07:30 AM - 11:30 PM,4.0
+STR0238,CityCare Druggist - Mylapore #10,"No. 365, 23th Main Road, Mylapore, Chennai",Chennai,Tamil Nadu,600030,13.086301,80.334785,+91-9758518659,07:30 AM - 11:30 PM,3.9
+STR0239,Metro Health Meds - Madhapur #10,"No. 122, 16th Main Road, Madhapur, Hyderabad",Hyderabad,Telangana,500027,17.329594,78.493701,+91-9858438711,07:30 AM - 11:30 PM,4.4
+STR0240,Metro Health Meds - Malad #10,"No. 67, 20th Main Road, Malad, Mumbai",Mumbai,Maharashtra,400080,19.137009,72.880703,+91-9918824561,08:30 AM - 11:00 PM,4.2
+STR0241,Noble Plus Pharmacy - JP Nagar #10,"No. 270, 14th Main Road, JP Nagar, Bengaluru",Bengaluru,Karnataka,560071,12.988422,77.620047,+91-8087161840,24 Hours (Open 24x7),3.8
+STR0242,Jan Aushadhi Kendra - Jayalakshmipuram #10,"No. 231, 15th Main Road, Jayalakshmipuram, Mysuru",Mysuru,Karnataka,570019,12.28989,76.655983,+91-7056239991,08:00 AM - 10:30 PM,4.8
+STR0243,Jan Aushadhi Kendra - Porur #10,"No. 94, 5th Main Road, Porur, Chennai",Chennai,Tamil Nadu,600085,13.093661,80.322851,+91-8077493234,24 Hours (Open 24x7),4.8
+STR0244,Wellness Forever - Ameerpet #10,"No. 85, 6th Main Road, Ameerpet, Hyderabad",Hyderabad,Telangana,500048,17.325908,78.458225,+91-9140262109,08:30 AM - 11:00 PM,4.9
+STR0245,Sparsh Medical Store - Thane West #10,"No. 434, 3th Main Road, Thane West, Mumbai",Mumbai,Maharashtra,400046,19.134553,72.928434,+91-9436347197,07:30 AM - 11:30 PM,4.0
+STR0246,Guardian Pharmacy - Banashankari #10,"No. 274, 3th Main Road, Banashankari, Bengaluru",Bengaluru,Karnataka,560088,12.965835,77.610217,+91-7096031876,08:00 AM - 10:30 PM,4.4
+STR0247,Wellness Forever - Yadavagiri #10,"No. 338, 20th Main Road, Yadavagiri, Mysuru",Mysuru,Karnataka,570031,12.26686,76.598856,+91-9185647532,24 Hours (Open 24x7),4.8
+STR0248,MedPlus Mart - Adyar #10,"No. 329, 19th Main Road, Adyar, Chennai",Chennai,Tamil Nadu,600015,13.077981,80.251636,+91-9497393186,08:00 AM - 10:30 PM,4.7
+STR0249,TrustCare Pharmacy - Secunderabad #10,"No. 16, 16th Main Road, Secunderabad, Hyderabad",Hyderabad,Telangana,500091,17.395875,78.431806,+91-7048879071,08:30 AM - 11:00 PM,4.3
+STR0250,Sri Lakshmi Pharma - Goregaon #11,"No. 233, 3th Main Road, Goregaon, Mumbai",Mumbai,Maharashtra,400048,19.137671,72.940907,+91-9831217198,09:00 AM - 10:00 PM,4.2
+STR0251,Frank Ross Pharmacy - Yelahanka #11,"No. 311, 5th Main Road, Yelahanka, Bengaluru",Bengaluru,Karnataka,560053,12.997361,77.599293,+91-9152857920,08:30 AM - 11:00 PM,5.0
+STR0252,Metro Health Meds - Gokulam #11,"No. 264, 18th Main Road, Gokulam, Mysuru",Mysuru,Karnataka,570057,12.271039,76.680193,+91-9952831009,08:00 AM - 10:30 PM,4.3
+STR0253,Arogya Chemist & Druggist - Mylapore #11,"No. 73, 4th Main Road, Mylapore, Chennai",Chennai,Tamil Nadu,600041,13.106715,80.22684,+91-9848951595,09:00 AM - 10:00 PM,4.8
+STR0254,Frank Ross Pharmacy - Secunderabad #11,"No. 417, 11th Main Road, Secunderabad, Hyderabad",Hyderabad,Telangana,500030,17.438421,78.52863,+91-9135479101,08:00 AM - 10:30 PM,4.3
+STR0255,Arogya Chemist & Druggist - Thane West #11,"No. 158, 16th Main Road, Thane West, Mumbai",Mumbai,Maharashtra,400073,19.134474,72.907044,+91-9822086184,09:00 AM - 10:00 PM,4.3
+STR0256,Frank Ross Pharmacy - Whitefield #11,"No. 181, 2th Main Road, Whitefield, Bengaluru",Bengaluru,Karnataka,560084,12.986344,77.583972,+91-9847763008,09:00 AM - 10:00 PM,4.4
+STR0257,Jan Aushadhi Kendra - Bogadi #11,"No. 147, 18th Main Road, Bogadi, Mysuru",Mysuru,Karnataka,570070,12.352055,76.686988,+91-9824428014,09:00 AM - 10:00 PM,3.8
+STR0258,Noble Plus Pharmacy - Mylapore #11,"No. 392, 13th Main Road, Mylapore, Chennai",Chennai,Tamil Nadu,600056,13.023578,80.209128,+91-9116072331,09:00 AM - 10:00 PM,3.7
+STR0259,Frank Ross Pharmacy - Ameerpet #11,"No. 284, 10th Main Road, Ameerpet, Hyderabad",Hyderabad,Telangana,500056,17.36894,78.527072,+91-9961854861,07:30 AM - 11:30 PM,4.2
+STR0260,Guardian Pharmacy - Thane West #11,"No. 349, 20th Main Road, Thane West, Mumbai",Mumbai,Maharashtra,400089,19.139346,72.832254,+91-9927268907,24 Hours (Open 24x7),4.2
+STR0261,Sanjeevini Medicals - Marathahalli #11,"No. 188, 5th Main Road, Marathahalli, Bengaluru",Bengaluru,Karnataka,560081,12.983837,77.579116,+91-9690861208,07:30 AM - 11:30 PM,4.2
+STR0262,Apollo Pharmacy - Vijayanagar #11,"No. 71, 23th Main Road, Vijayanagar, Mysuru",Mysuru,Karnataka,570014,12.356889,76.683875,+91-9173584863,07:30 AM - 11:30 PM,4.2
+STR0263,Sparsh Medical Store - Guindy #11,"No. 72, 11th Main Road, Guindy, Chennai",Chennai,Tamil Nadu,600075,13.126683,80.26663,+91-9131810655,09:00 AM - 10:00 PM,5.0
+STR0264,CityCare Druggist - Manikonda #11,"No. 304, 11th Main Road, Manikonda, Hyderabad",Hyderabad,Telangana,500048,17.373927,78.457243,+91-7078412668,07:30 AM - 11:30 PM,4.3
+STR0265,Guardian Pharmacy - Colaba #11,"No. 418, 1th Main Road, Colaba, Mumbai",Mumbai,Maharashtra,400070,19.018329,72.925114,+91-9154458225,24 Hours (Open 24x7),5.0
+STR0266,Guardian Pharmacy - Electronic City #11,"No. 14, 20th Main Road, Electronic City, Bengaluru",Bengaluru,Karnataka,560090,13.012277,77.659563,+91-8845638891,07:30 AM - 11:30 PM,4.4
+STR0267,Apollo Pharmacy - Siddhartha Layout #11,"No. 246, 6th Main Road, Siddhartha Layout, Mysuru",Mysuru,Karnataka,570084,12.360363,76.646606,+91-7094426338,07:30 AM - 11:30 PM,4.7
+STR0268,Wellness Forever - Besant Nagar #11,"No. 17, 19th Main Road, Besant Nagar, Chennai",Chennai,Tamil Nadu,600041,13.117668,80.32852,+91-9935606639,24 Hours (Open 24x7),4.2
+STR0269,Wellness Forever - Secunderabad #11,"No. 354, 7th Main Road, Secunderabad, Hyderabad",Hyderabad,Telangana,500062,17.430454,78.453855,+91-8077353073,07:30 AM - 11:30 PM,4.9
+STR0270,Noble Plus Pharmacy - Ghatkopar #11,"No. 362, 5th Main Road, Ghatkopar, Mumbai",Mumbai,Maharashtra,400017,19.069571,72.829491,+91-7037828932,07:30 AM - 11:30 PM,4.1
+STR0271,Arogya Chemist & Druggist - Banashankari #11,"No. 193, 11th Main Road, Banashankari, Bengaluru",Bengaluru,Karnataka,560077,13.030627,77.608403,+91-9771694994,07:30 AM - 11:30 PM,4.1
+STR0272,Jan Aushadhi Kendra - Jayalakshmipuram #11,"No. 412, 23th Main Road, Jayalakshmipuram, Mysuru",Mysuru,Karnataka,570092,12.260524,76.661721,+91-9491883092,09:00 AM - 10:00 PM,3.9
+STR0273,Guardian Pharmacy - Velachery #11,"No. 153, 8th Main Road, Velachery, Chennai",Chennai,Tamil Nadu,600081,13.098057,80.252261,+91-9448789478,08:00 AM - 10:30 PM,4.6
+STR0274,Sanjeevini Medicals - Begumpet #11,"No. 179, 18th Main Road, Begumpet, Hyderabad",Hyderabad,Telangana,500071,17.334762,78.509005,+91-9448626436,24 Hours (Open 24x7),4.4
+STR0275,Sri Lakshmi Pharma - Thane West #12,"No. 420, 12th Main Road, Thane West, Mumbai",Mumbai,Maharashtra,400060,19.07864,72.913101,+91-9748983895,24 Hours (Open 24x7),4.0
+STR0276,MedPlus Mart - JP Nagar #12,"No. 227, 21th Main Road, JP Nagar, Bengaluru",Bengaluru,Karnataka,560054,12.974221,77.640384,+91-9474300930,08:00 AM - 10:30 PM,3.9
+STR0277,Guardian Pharmacy - Bannimantap #12,"No. 357, 9th Main Road, Bannimantap, Mysuru",Mysuru,Karnataka,570081,12.302548,76.647322,+91-9724660143,07:30 AM - 11:30 PM,4.6
+STR0278,Frank Ross Pharmacy - Velachery #12,"No. 343, 17th Main Road, Velachery, Chennai",Chennai,Tamil Nadu,600016,13.131665,80.258153,+91-9695623471,08:00 AM - 10:30 PM,3.7
+STR0279,Sanjeevini Medicals - Secunderabad #12,"No. 52, 22th Main Road, Secunderabad, Hyderabad",Hyderabad,Telangana,500070,17.337422,78.425442,+91-9710695441,07:30 AM - 11:30 PM,5.0
+STR0280,Sri Lakshmi Pharma - Dadar #12,"No. 450, 16th Main Road, Dadar, Mumbai",Mumbai,Maharashtra,400093,19.109168,72.89334,+91-8897313825,08:00 AM - 10:30 PM,4.7
+STR0281,Sanjeevini Medicals - Malleshwaram #12,"No. 331, 2th Main Road, Malleshwaram, Bengaluru",Bengaluru,Karnataka,560046,12.99813,77.557285,+91-9997550053,07:30 AM - 11:30 PM,3.9
+STR0282,Noble Plus Pharmacy - Siddhartha Layout #12,"No. 90, 14th Main Road, Siddhartha Layout, Mysuru",Mysuru,Karnataka,570014,12.248528,76.576291,+91-9714877451,09:00 AM - 10:00 PM,4.7
+STR0283,Sparsh Medical Store - T. Nagar #12,"No. 449, 2th Main Road, T. Nagar, Chennai",Chennai,Tamil Nadu,600047,13.063276,80.282389,+91-9850049524,07:30 AM - 11:30 PM,4.4
+STR0284,Guardian Pharmacy - Kukatpally #12,"No. 329, 18th Main Road, Kukatpally, Hyderabad",Hyderabad,Telangana,500068,17.370992,78.478572,+91-7076291802,08:00 AM - 10:30 PM,4.8
+STR0285,Guardian Pharmacy - Malad #12,"No. 415, 4th Main Road, Malad, Mumbai",Mumbai,Maharashtra,400034,19.128541,72.857973,+91-9131809610,09:00 AM - 10:00 PM,4.5
+STR0286,Wellness Forever - JP Nagar #12,"No. 378, 11th Main Road, JP Nagar, Bengaluru",Bengaluru,Karnataka,560011,12.973419,77.631475,+91-9486206305,08:00 AM - 10:30 PM,3.8
+STR0287,Sparsh Medical Store - Bogadi #12,"No. 424, 14th Main Road, Bogadi, Mysuru",Mysuru,Karnataka,570061,12.282351,76.655271,+91-7054013571,24 Hours (Open 24x7),4.2
+STR0288,Wellness Forever - Anna Nagar #12,"No. 245, 11th Main Road, Anna Nagar, Chennai",Chennai,Tamil Nadu,600027,13.129807,80.329138,+91-9610916723,08:30 AM - 11:00 PM,4.1
+STR0289,Metro Health Meds - Begumpet #12,"No. 169, 10th Main Road, Begumpet, Hyderabad",Hyderabad,Telangana,500044,17.33912,78.542156,+91-9845105069,08:30 AM - 11:00 PM,4.6
+STR0290,Jan Aushadhi Kendra - Andheri West #12,"No. 239, 10th Main Road, Andheri West, Mumbai",Mumbai,Maharashtra,400025,19.074975,72.846272,+91-9764414096,07:30 AM - 11:30 PM,4.9
+STR0291,Noble Plus Pharmacy - Vijayanagar #12,"No. 354, 4th Main Road, Vijayanagar, Bengaluru",Bengaluru,Karnataka,560049,12.966288,77.657004,+91-9459330907,07:30 AM - 11:30 PM,3.9
+STR0292,Arogya Chemist & Druggist - Gokulam #12,"No. 233, 24th Main Road, Gokulam, Mysuru",Mysuru,Karnataka,570029,12.29484,76.617138,+91-9165813853,07:30 AM - 11:30 PM,4.9
+STR0293,Metro Health Meds - Porur #12,"No. 423, 7th Main Road, Porur, Chennai",Chennai,Tamil Nadu,600095,13.100042,80.236919,+91-9689968863,24 Hours (Open 24x7),4.3
+STR0294,Noble Plus Pharmacy - Ameerpet #12,"No. 40, 19th Main Road, Ameerpet, Hyderabad",Hyderabad,Telangana,500056,17.329862,78.438454,+91-9918289024,07:30 AM - 11:30 PM,4.9
+STR0295,TrustCare Pharmacy - Powai #12,"No. 77, 6th Main Road, Powai, Mumbai",Mumbai,Maharashtra,400078,19.027646,72.832447,+91-9179839059,09:00 AM - 10:00 PM,3.8
+STR0296,Noble Plus Pharmacy - Whitefield #12,"No. 251, 3th Main Road, Whitefield, Bengaluru",Bengaluru,Karnataka,560084,12.924648,77.612914,+91-7069791674,24 Hours (Open 24x7),4.2
+STR0297,Sri Lakshmi Pharma - Bannimantap #12,"No. 289, 2th Main Road, Bannimantap, Mysuru",Mysuru,Karnataka,570068,12.254444,76.619337,+91-7072059365,08:30 AM - 11:00 PM,4.6
+STR0298,Guardian Pharmacy - Besant Nagar #12,"No. 382, 7th Main Road, Besant Nagar, Chennai",Chennai,Tamil Nadu,600010,13.134282,80.267315,+91-9916078694,09:00 AM - 10:00 PM,4.1
+STR0299,LifeCare Medicos - Jubilee Hills #12,"No. 36, 16th Main Road, Jubilee Hills, Hyderabad",Hyderabad,Telangana,500017,17.406783,78.444102,+91-9848532662,09:00 AM - 10:00 PM,3.9
+STR0300,Metro Health Meds - Dadar #13,"No. 374, 21th Main Road, Dadar, Mumbai",Mumbai,Maharashtra,400092,19.035998,72.818013,+91-8060259293,09:00 AM - 10:00 PM,4.2
+STR0301,Sparsh Medical Store - Vijayanagar #13,"No. 193, 3th Main Road, Vijayanagar, Bengaluru",Bengaluru,Karnataka,560058,12.928562,77.565817,+91-7027849589,08:30 AM - 11:00 PM,3.8
+STR0302,Sri Lakshmi Pharma - Bannimantap #13,"No. 66, 24th Main Road, Bannimantap, Mysuru",Mysuru,Karnataka,570077,12.253811,76.585931,+91-9610466177,24 Hours (Open 24x7),5.0
+STR0303,Jan Aushadhi Kendra - Tambaram #13,"No. 218, 18th Main Road, Tambaram, Chennai",Chennai,Tamil Nadu,600079,13.033383,80.265601,+91-8040824989,08:00 AM - 10:30 PM,4.2
+STR0304,Guardian Pharmacy - Gachibowli #13,"No. 449, 24th Main Road, Gachibowli, Hyderabad",Hyderabad,Telangana,500034,17.346823,78.469055,+91-9914324134,09:00 AM - 10:00 PM,4.5
+STR0305,Frank Ross Pharmacy - Andheri West #13,"No. 35, 4th Main Road, Andheri West, Mumbai",Mumbai,Maharashtra,400036,19.076444,72.902451,+91-9869920305,07:30 AM - 11:30 PM,4.5
+STR0306,Apollo Pharmacy - Hebbal #13,"No. 380, 2th Main Road, Hebbal, Bengaluru",Bengaluru,Karnataka,560041,12.911711,77.633523,+91-8068916591,08:00 AM - 10:30 PM,4.4
+STR0307,Wellness Forever - Vijayanagar #13,"No. 149, 8th Main Road, Vijayanagar, Mysuru",Mysuru,Karnataka,570074,12.312427,76.585029,+91-9187507357,07:30 AM - 11:30 PM,4.7
+STR0308,Frank Ross Pharmacy - Nungambakkam #13,"No. 449, 5th Main Road, Nungambakkam, Chennai",Chennai,Tamil Nadu,600048,13.131265,80.325413,+91-7039667854,09:00 AM - 10:00 PM,4.0
+STR0309,LifeCare Medicos - Banjara Hills #13,"No. 377, 6th Main Road, Banjara Hills, Hyderabad",Hyderabad,Telangana,500085,17.32794,78.457694,+91-8084605013,09:00 AM - 10:00 PM,3.7
+STR0310,Jan Aushadhi Kendra - Juhu #13,"No. 196, 17th Main Road, Juhu, Mumbai",Mumbai,Maharashtra,400095,19.115806,72.909974,+91-9165878146,09:00 AM - 10:00 PM,3.8
+STR0311,Wellness Forever - BTM Layout #13,"No. 243, 8th Main Road, BTM Layout, Bengaluru",Bengaluru,Karnataka,560078,12.930588,77.556815,+91-9650364158,08:00 AM - 10:30 PM,4.7
+STR0312,LifeCare Medicos - Vijayanagar #13,"No. 214, 18th Main Road, Vijayanagar, Mysuru",Mysuru,Karnataka,570062,12.278961,76.637388,+91-7027997624,09:00 AM - 10:00 PM,3.9
+STR0313,Sanjeevini Medicals - Velachery #13,"No. 41, 15th Main Road, Velachery, Chennai",Chennai,Tamil Nadu,600092,13.098073,80.253659,+91-9122410307,07:30 AM - 11:30 PM,4.6
+STR0314,Apollo Pharmacy - Madhapur #13,"No. 194, 22th Main Road, Madhapur, Hyderabad",Hyderabad,Telangana,500044,17.38013,78.518871,+91-9819768947,08:00 AM - 10:30 PM,4.7
+STR0315,Noble Plus Pharmacy - Colaba #13,"No. 287, 7th Main Road, Colaba, Mumbai",Mumbai,Maharashtra,400095,19.015769,72.845517,+91-8838036618,08:30 AM - 11:00 PM,4.0
+STR0316,Apollo Pharmacy - Vijayanagar #13,"No. 98, 24th Main Road, Vijayanagar, Bengaluru",Bengaluru,Karnataka,560037,12.999335,77.645977,+91-9974279671,08:00 AM - 10:30 PM,4.6
+STR0317,Frank Ross Pharmacy - Siddhartha Layout #13,"No. 123, 18th Main Road, Siddhartha Layout, Mysuru",Mysuru,Karnataka,570060,12.297318,76.643575,+91-9147991562,09:00 AM - 10:00 PM,4.3
+STR0318,Sanjeevini Medicals - Kilpauk #13,"No. 134, 12th Main Road, Kilpauk, Chennai",Chennai,Tamil Nadu,600049,13.031632,80.263864,+91-7076743428,09:00 AM - 10:00 PM,3.7
+STR0319,Arogya Chemist & Druggist - Manikonda #13,"No. 105, 12th Main Road, Manikonda, Hyderabad",Hyderabad,Telangana,500050,17.38924,78.453221,+91-9165556767,24 Hours (Open 24x7),4.4
+STR0320,Noble Plus Pharmacy - Powai #13,"No. 9, 9th Main Road, Powai, Mumbai",Mumbai,Maharashtra,400028,19.046002,72.861747,+91-7088387434,07:30 AM - 11:30 PM,4.6
+STR0321,Wellness Forever - Malleshwaram #13,"No. 169, 8th Main Road, Malleshwaram, Bengaluru",Bengaluru,Karnataka,560035,12.909209,77.57147,+91-8086475853,08:00 AM - 10:30 PM,4.3
+STR0322,Jan Aushadhi Kendra - Bogadi #13,"No. 132, 16th Main Road, Bogadi, Mysuru",Mysuru,Karnataka,570053,12.258288,76.616975,+91-8871851421,08:00 AM - 10:30 PM,4.6
+STR0323,Wellness Forever - Nungambakkam #13,"No. 369, 18th Main Road, Nungambakkam, Chennai",Chennai,Tamil Nadu,600027,13.033269,80.321469,+91-8834702473,07:30 AM - 11:30 PM,5.0
+STR0324,LifeCare Medicos - Banjara Hills #13,"No. 430, 3th Main Road, Banjara Hills, Hyderabad",Hyderabad,Telangana,500014,17.397167,78.509983,+91-9810856822,09:00 AM - 10:00 PM,3.8
+STR0325,Frank Ross Pharmacy - Goregaon #14,"No. 363, 5th Main Road, Goregaon, Mumbai",Mumbai,Maharashtra,400018,19.113592,72.877497,+91-9839356057,07:30 AM - 11:30 PM,4.2
+STR0326,TrustCare Pharmacy - Indiranagar #14,"No. 342, 20th Main Road, Indiranagar, Bengaluru",Bengaluru,Karnataka,560091,12.9179,77.599424,+91-8898487646,09:00 AM - 10:00 PM,3.6
+STR0327,LifeCare Medicos - Bannimantap #14,"No. 7, 1th Main Road, Bannimantap, Mysuru",Mysuru,Karnataka,570062,12.307089,76.671307,+91-7046875077,07:30 AM - 11:30 PM,5.0
+STR0328,LifeCare Medicos - Adyar #14,"No. 413, 6th Main Road, Adyar, Chennai",Chennai,Tamil Nadu,600065,13.073816,80.222285,+91-9922927031,07:30 AM - 11:30 PM,3.8
+STR0329,TrustCare Pharmacy - Madhapur #14,"No. 130, 12th Main Road, Madhapur, Hyderabad",Hyderabad,Telangana,500077,17.356891,78.468901,+91-9463270536,24 Hours (Open 24x7),4.1
+STR0330,Arogya Chemist & Druggist - Chembur #14,"No. 125, 23th Main Road, Chembur, Mumbai",Mumbai,Maharashtra,400082,19.094969,72.886901,+91-9650261914,24 Hours (Open 24x7),4.5
+STR0331,Jan Aushadhi Kendra - Hebbal #14,"No. 48, 13th Main Road, Hebbal, Bengaluru",Bengaluru,Karnataka,560014,12.952893,77.657847,+91-8060622842,07:30 AM - 11:30 PM,4.3
+STR0332,Apollo Pharmacy - Bogadi #14,"No. 43, 16th Main Road, Bogadi, Mysuru",Mysuru,Karnataka,570031,12.309551,76.605239,+91-8096557984,08:30 AM - 11:00 PM,4.4
+STR0333,Sparsh Medical Store - Anna Nagar #14,"No. 22, 8th Main Road, Anna Nagar, Chennai",Chennai,Tamil Nadu,600077,13.030932,80.225572,+91-9686072480,09:00 AM - 10:00 PM,4.0
+STR0334,Jan Aushadhi Kendra - Jubilee Hills #14,"No. 279, 19th Main Road, Jubilee Hills, Hyderabad",Hyderabad,Telangana,500045,17.351975,78.442589,+91-9834072553,08:30 AM - 11:00 PM,3.6
+STR0335,TrustCare Pharmacy - Powai #14,"No. 386, 23th Main Road, Powai, Mumbai",Mumbai,Maharashtra,400028,19.035254,72.849762,+91-8020326375,08:30 AM - 11:00 PM,3.8
+STR0336,TrustCare Pharmacy - Whitefield #14,"No. 347, 18th Main Road, Whitefield, Bengaluru",Bengaluru,Karnataka,560059,12.929139,77.64618,+91-9161518966,08:00 AM - 10:30 PM,4.7
+STR0337,Noble Plus Pharmacy - Siddhartha Layout #14,"No. 257, 24th Main Road, Siddhartha Layout, Mysuru",Mysuru,Karnataka,570020,12.24123,76.642586,+91-9117207013,24 Hours (Open 24x7),4.2
+STR0338,Sanjeevini Medicals - Anna Nagar #14,"No. 394, 20th Main Road, Anna Nagar, Chennai",Chennai,Tamil Nadu,600087,13.071052,80.333409,+91-8053805532,24 Hours (Open 24x7),4.5
+STR0339,Arogya Chemist & Druggist - Begumpet #14,"No. 183, 18th Main Road, Begumpet, Hyderabad",Hyderabad,Telangana,500039,17.334565,78.473421,+91-8067961650,08:00 AM - 10:30 PM,4.6
+STR0340,Sri Lakshmi Pharma - Goregaon #14,"No. 396, 20th Main Road, Goregaon, Mumbai",Mumbai,Maharashtra,400020,19.137031,72.925216,+91-9443077929,24 Hours (Open 24x7),3.7
+STR0341,Sri Lakshmi Pharma - Jayanagar #14,"No. 79, 24th Main Road, Jayanagar, Bengaluru",Bengaluru,Karnataka,560091,13.012819,77.563127,+91-8052503832,08:30 AM - 11:00 PM,3.7
+STR0342,Guardian Pharmacy - Vijayanagar #14,"No. 185, 9th Main Road, Vijayanagar, Mysuru",Mysuru,Karnataka,570066,12.253015,76.661324,+91-9927784789,24 Hours (Open 24x7),3.9
+STR0343,LifeCare Medicos - Tambaram #14,"No. 263, 14th Main Road, Tambaram, Chennai",Chennai,Tamil Nadu,600081,13.138519,80.278079,+91-9913524813,24 Hours (Open 24x7),4.1
+STR0344,TrustCare Pharmacy - Jubilee Hills #14,"No. 402, 11th Main Road, Jubilee Hills, Hyderabad",Hyderabad,Telangana,500086,17.39431,78.458097,+91-8011656329,08:30 AM - 11:00 PM,4.2
+STR0345,Noble Plus Pharmacy - Bandra West #14,"No. 125, 19th Main Road, Bandra West, Mumbai",Mumbai,Maharashtra,400081,19.111034,72.837016,+91-7032761034,09:00 AM - 10:00 PM,3.8
+STR0346,Guardian Pharmacy - Malleshwaram #14,"No. 253, 5th Main Road, Malleshwaram, Bengaluru",Bengaluru,Karnataka,560044,12.948678,77.584907,+91-9932442197,09:00 AM - 10:00 PM,4.0
+STR0347,Arogya Chemist & Druggist - Saraswathipuram #14,"No. 185, 9th Main Road, Saraswathipuram, Mysuru",Mysuru,Karnataka,570019,12.296789,76.605913,+91-9693890601,09:00 AM - 10:00 PM,4.4
+STR0348,Arogya Chemist & Druggist - Velachery #14,"No. 70, 10th Main Road, Velachery, Chennai",Chennai,Tamil Nadu,600023,13.032629,80.285081,+91-9863108878,08:30 AM - 11:00 PM,4.8
+STR0349,Metro Health Meds - Secunderabad #14,"No. 226, 11th Main Road, Secunderabad, Hyderabad",Hyderabad,Telangana,500052,17.357522,78.497261,+91-8097380687,07:30 AM - 11:30 PM,3.8
+STR0350,TrustCare Pharmacy - Juhu #15,"No. 246, 11th Main Road, Juhu, Mumbai",Mumbai,Maharashtra,400035,19.031067,72.875248,+91-9763450811,08:30 AM - 11:00 PM,4.0
+STR0351,Jan Aushadhi Kendra - JP Nagar #15,"No. 295, 8th Main Road, JP Nagar, Bengaluru",Bengaluru,Karnataka,560072,12.975837,77.536337,+91-9160473288,08:30 AM - 11:00 PM,4.7
+STR0352,Sanjeevini Medicals - Nazarbad #15,"No. 289, 7th Main Road, Nazarbad, Mysuru",Mysuru,Karnataka,570024,12.274559,76.591874,+91-7034149421,07:30 AM - 11:30 PM,3.6
+STR0353,Arogya Chemist & Druggist - OMR Thoraipakkam #15,"No. 225, 10th Main Road, OMR Thoraipakkam, Chennai",Chennai,Tamil Nadu,600036,13.025939,80.334395,+91-9964914054,09:00 AM - 10:00 PM,3.8
+STR0354,Frank Ross Pharmacy - Kondapur #15,"No. 338, 5th Main Road, Kondapur, Hyderabad",Hyderabad,Telangana,500042,17.361906,78.526984,+91-8060598851,24 Hours (Open 24x7),4.2
+STR0355,Arogya Chemist & Druggist - Colaba #15,"No. 206, 18th Main Road, Colaba, Mumbai",Mumbai,Maharashtra,400084,19.044103,72.901295,+91-7066143368,07:30 AM - 11:30 PM,3.7
+STR0356,Noble Plus Pharmacy - HSR Layout #15,"No. 305, 21th Main Road, HSR Layout, Bengaluru",Bengaluru,Karnataka,560078,13.00543,77.607033,+91-9924679315,08:00 AM - 10:30 PM,4.5
+STR0357,Wellness Forever - Jayalakshmipuram #15,"No. 314, 2th Main Road, Jayalakshmipuram, Mysuru",Mysuru,Karnataka,570092,12.292105,76.627939,+91-8054506155,09:00 AM - 10:00 PM,3.7
+STR0358,Guardian Pharmacy - Anna Nagar #15,"No. 262, 24th Main Road, Anna Nagar, Chennai",Chennai,Tamil Nadu,600038,13.063053,80.326539,+91-7084892608,07:30 AM - 11:30 PM,4.6
+STR0359,Arogya Chemist & Druggist - Madhapur #15,"No. 201, 15th Main Road, Madhapur, Hyderabad",Hyderabad,Telangana,500057,17.427981,78.547153,+91-7030232642,08:30 AM - 11:00 PM,5.0
+STR0360,MedPlus Mart - Malad #15,"No. 213, 3th Main Road, Malad, Mumbai",Mumbai,Maharashtra,400047,19.027159,72.907713,+91-9929015320,08:30 AM - 11:00 PM,4.0
+STR0361,Metro Health Meds - Yelahanka #15,"No. 267, 16th Main Road, Yelahanka, Bengaluru",Bengaluru,Karnataka,560036,13.028584,77.55316,+91-9173909453,24 Hours (Open 24x7),4.2
+STR0362,Arogya Chemist & Druggist - Siddhartha Layout #15,"No. 35, 10th Main Road, Siddhartha Layout, Mysuru",Mysuru,Karnataka,570050,12.239445,76.670746,+91-9825446483,24 Hours (Open 24x7),4.8
+STR0363,MedPlus Mart - Kilpauk #15,"No. 380, 8th Main Road, Kilpauk, Chennai",Chennai,Tamil Nadu,600031,13.092382,80.315138,+91-7033414716,07:30 AM - 11:30 PM,3.8
+STR0364,Sri Lakshmi Pharma - Ameerpet #15,"No. 119, 13th Main Road, Ameerpet, Hyderabad",Hyderabad,Telangana,500069,17.33817,78.525085,+91-9735016429,09:00 AM - 10:00 PM,4.2
+STR0365,TrustCare Pharmacy - Ghatkopar #15,"No. 231, 19th Main Road, Ghatkopar, Mumbai",Mumbai,Maharashtra,400035,19.037212,72.833975,+91-8062188655,24 Hours (Open 24x7),4.6
+STR0366,Guardian Pharmacy - Whitefield #15,"No. 296, 4th Main Road, Whitefield, Bengaluru",Bengaluru,Karnataka,560018,12.927955,77.635495,+91-7035093324,08:30 AM - 11:00 PM,4.1
+STR0367,MedPlus Mart - Hebbal #15,"No. 344, 16th Main Road, Hebbal, Mysuru",Mysuru,Karnataka,570043,12.317276,76.642399,+91-7095779702,08:30 AM - 11:00 PM,4.4
+STR0368,Sri Lakshmi Pharma - Guindy #15,"No. 59, 12th Main Road, Guindy, Chennai",Chennai,Tamil Nadu,600085,13.064348,80.319736,+91-9171453007,07:30 AM - 11:30 PM,3.8
+STR0369,Noble Plus Pharmacy - Dilsukhnagar #15,"No. 315, 19th Main Road, Dilsukhnagar, Hyderabad",Hyderabad,Telangana,500048,17.371018,78.527858,+91-9927978165,08:30 AM - 11:00 PM,3.8
+STR0370,MedPlus Mart - Borivali #15,"No. 192, 23th Main Road, Borivali, Mumbai",Mumbai,Maharashtra,400033,19.068088,72.861703,+91-9778561753,09:00 AM - 10:00 PM,4.2
+STR0371,TrustCare Pharmacy - Jayanagar #15,"No. 217, 6th Main Road, Jayanagar, Bengaluru",Bengaluru,Karnataka,560059,12.966748,77.568779,+91-8895295586,07:30 AM - 11:30 PM,4.6
+STR0372,Sparsh Medical Store - Bogadi #15,"No. 285, 6th Main Road, Bogadi, Mysuru",Mysuru,Karnataka,570032,12.327989,76.639754,+91-8848766747,08:00 AM - 10:30 PM,3.9
+STR0373,TrustCare Pharmacy - Tambaram #15,"No. 444, 12th Main Road, Tambaram, Chennai",Chennai,Tamil Nadu,600016,13.047888,80.322645,+91-9875043108,08:00 AM - 10:30 PM,3.9
+STR0374,LifeCare Medicos - Secunderabad #15,"No. 335, 16th Main Road, Secunderabad, Hyderabad",Hyderabad,Telangana,500074,17.369906,78.492362,+91-8075998330,09:00 AM - 10:00 PM,4.6
+STR0375,Arogya Chemist & Druggist - Malad #16,"No. 43, 19th Main Road, Malad, Mumbai",Mumbai,Maharashtra,400031,19.128841,72.893851,+91-9839598969,08:30 AM - 11:00 PM,3.6
+STR0376,LifeCare Medicos - Whitefield #16,"No. 87, 15th Main Road, Whitefield, Bengaluru",Bengaluru,Karnataka,560046,12.921797,77.651778,+91-8883782999,07:30 AM - 11:30 PM,3.8
+STR0377,Guardian Pharmacy - Kuvempunagar #16,"No. 422, 12th Main Road, Kuvempunagar, Mysuru",Mysuru,Karnataka,570079,12.312402,76.617938,+91-7015584869,09:00 AM - 10:00 PM,4.4
+STR0378,MedPlus Mart - Besant Nagar #16,"No. 385, 8th Main Road, Besant Nagar, Chennai",Chennai,Tamil Nadu,600093,13.035805,80.308923,+91-9414325890,09:00 AM - 10:00 PM,4.0
+STR0379,Arogya Chemist & Druggist - Jubilee Hills #16,"No. 398, 8th Main Road, Jubilee Hills, Hyderabad",Hyderabad,Telangana,500025,17.400609,78.49105,+91-9688909809,08:30 AM - 11:00 PM,4.8
+STR0380,Jan Aushadhi Kendra - Colaba #16,"No. 85, 20th Main Road, Colaba, Mumbai",Mumbai,Maharashtra,400064,19.127206,72.915218,+91-9737732020,08:00 AM - 10:30 PM,4.7
+STR0381,Sanjeevini Medicals - Electronic City #16,"No. 144, 20th Main Road, Electronic City, Bengaluru",Bengaluru,Karnataka,560078,12.926318,77.570124,+91-7032599227,08:30 AM - 11:00 PM,5.0
+STR0382,Guardian Pharmacy - Saraswathipuram #16,"No. 137, 17th Main Road, Saraswathipuram, Mysuru",Mysuru,Karnataka,570083,12.263104,76.671113,+91-9928198434,09:00 AM - 10:00 PM,4.9
+STR0383,CityCare Druggist - Mylapore #16,"No. 65, 23th Main Road, Mylapore, Chennai",Chennai,Tamil Nadu,600093,13.022059,80.279786,+91-9743511112,08:00 AM - 10:30 PM,4.6
+STR0384,Metro Health Meds - Madhapur #16,"No. 251, 5th Main Road, Madhapur, Hyderabad",Hyderabad,Telangana,500060,17.41912,78.53568,+91-9494263610,09:00 AM - 10:00 PM,4.1
+STR0385,Jan Aushadhi Kendra - Bandra West #16,"No. 207, 17th Main Road, Bandra West, Mumbai",Mumbai,Maharashtra,400021,19.055471,72.919463,+91-9459535894,09:00 AM - 10:00 PM,4.9
+STR0386,TrustCare Pharmacy - HSR Layout #16,"No. 445, 24th Main Road, HSR Layout, Bengaluru",Bengaluru,Karnataka,560010,12.920982,77.639639,+91-9971532017,08:30 AM - 11:00 PM,4.8
+STR0387,Sri Lakshmi Pharma - Bannimantap #16,"No. 220, 7th Main Road, Bannimantap, Mysuru",Mysuru,Karnataka,570037,12.247374,76.626047,+91-8846042404,08:30 AM - 11:00 PM,4.8
+STR0388,LifeCare Medicos - Nungambakkam #16,"No. 67, 19th Main Road, Nungambakkam, Chennai",Chennai,Tamil Nadu,600083,13.121348,80.225189,+91-8856135950,24 Hours (Open 24x7),3.7
+STR0389,Metro Health Meds - Dilsukhnagar #16,"No. 9, 4th Main Road, Dilsukhnagar, Hyderabad",Hyderabad,Telangana,500068,17.349803,78.515593,+91-9769228397,09:00 AM - 10:00 PM,3.6
+STR0390,Frank Ross Pharmacy - Chembur #16,"No. 333, 10th Main Road, Chembur, Mumbai",Mumbai,Maharashtra,400026,19.104605,72.896049,+91-9746778269,24 Hours (Open 24x7),4.5
+STR0391,MedPlus Mart - Malleshwaram #16,"No. 341, 21th Main Road, Malleshwaram, Bengaluru",Bengaluru,Karnataka,560057,12.996813,77.600154,+91-9716950770,09:00 AM - 10:00 PM,4.5
+STR0392,Noble Plus Pharmacy - Siddhartha Layout #16,"No. 220, 21th Main Road, Siddhartha Layout, Mysuru",Mysuru,Karnataka,570039,12.263534,76.61934,+91-9922775337,24 Hours (Open 24x7),3.9
+STR0393,Wellness Forever - Anna Nagar #16,"No. 116, 17th Main Road, Anna Nagar, Chennai",Chennai,Tamil Nadu,600085,13.041308,80.323799,+91-8811246473,24 Hours (Open 24x7),4.6
+STR0394,CityCare Druggist - Jubilee Hills #16,"No. 356, 5th Main Road, Jubilee Hills, Hyderabad",Hyderabad,Telangana,500064,17.395841,78.473811,+91-8819506414,08:00 AM - 10:30 PM,4.1
+STR0395,Metro Health Meds - Ghatkopar #16,"No. 53, 11th Main Road, Ghatkopar, Mumbai",Mumbai,Maharashtra,400023,19.071061,72.935847,+91-9150165370,08:00 AM - 10:30 PM,4.1
+STR0396,Metro Health Meds - Hebbal #16,"No. 329, 22th Main Road, Hebbal, Bengaluru",Bengaluru,Karnataka,560027,12.926536,77.60581,+91-9719182050,07:30 AM - 11:30 PM,4.4
+STR0397,Jan Aushadhi Kendra - Yadavagiri #16,"No. 226, 12th Main Road, Yadavagiri, Mysuru",Mysuru,Karnataka,570031,12.296566,76.653889,+91-9694299475,08:00 AM - 10:30 PM,4.9
+STR0398,Jan Aushadhi Kendra - Guindy #16,"No. 441, 7th Main Road, Guindy, Chennai",Chennai,Tamil Nadu,600066,13.020054,80.319076,+91-9923484199,08:00 AM - 10:30 PM,4.7
+STR0399,Noble Plus Pharmacy - Himayatnagar #16,"No. 180, 14th Main Road, Himayatnagar, Hyderabad",Hyderabad,Telangana,500059,17.441175,78.495167,+91-9128767690,08:00 AM - 10:30 PM,4.0
+STR0400,Frank Ross Pharmacy - Bandra West #17,"No. 308, 20th Main Road, Bandra West, Mumbai",Mumbai,Maharashtra,400080,19.101565,72.932625,+91-9413600310,08:30 AM - 11:00 PM,3.9
+STR0401,LifeCare Medicos - Electronic City #17,"No. 383, 13th Main Road, Electronic City, Bengaluru",Bengaluru,Karnataka,560034,12.998541,77.54943,+91-9496727439,24 Hours (Open 24x7),4.7
+STR0402,Arogya Chemist & Druggist - VV Mohalla #17,"No. 58, 8th Main Road, VV Mohalla, Mysuru",Mysuru,Karnataka,570059,12.305717,76.653273,+91-8895641960,07:30 AM - 11:30 PM,3.7
+STR0403,Sanjeevini Medicals - Adyar #17,"No. 68, 13th Main Road, Adyar, Chennai",Chennai,Tamil Nadu,600050,13.072837,80.301438,+91-8059044830,07:30 AM - 11:30 PM,4.6
+STR0404,Metro Health Meds - Begumpet #17,"No. 9, 19th Main Road, Begumpet, Hyderabad",Hyderabad,Telangana,500019,17.441468,78.542024,+91-9911851322,08:30 AM - 11:00 PM,3.9
+STR0405,Metro Health Meds - Andheri West #17,"No. 260, 10th Main Road, Andheri West, Mumbai",Mumbai,Maharashtra,400060,19.069609,72.827421,+91-7065758338,09:00 AM - 10:00 PM,4.6
+STR0406,Jan Aushadhi Kendra - Koramangala #17,"No. 276, 20th Main Road, Koramangala, Bengaluru",Bengaluru,Karnataka,560078,13.034629,77.638657,+91-9747241089,24 Hours (Open 24x7),4.0
+STR0407,Sparsh Medical Store - Bannimantap #17,"No. 414, 5th Main Road, Bannimantap, Mysuru",Mysuru,Karnataka,570036,12.247006,76.694109,+91-7053855682,09:00 AM - 10:00 PM,4.4
+STR0408,Jan Aushadhi Kendra - Kilpauk #17,"No. 34, 10th Main Road, Kilpauk, Chennai",Chennai,Tamil Nadu,600092,13.130787,80.273149,+91-8042029368,24 Hours (Open 24x7),3.9
+STR0409,MedPlus Mart - Secunderabad #17,"No. 314, 20th Main Road, Secunderabad, Hyderabad",Hyderabad,Telangana,500068,17.396866,78.47357,+91-9851512209,08:00 AM - 10:30 PM,3.8
+STR0410,Wellness Forever - Ghatkopar #17,"No. 84, 16th Main Road, Ghatkopar, Mumbai",Mumbai,Maharashtra,400011,19.018119,72.856276,+91-9180196591,07:30 AM - 11:30 PM,4.7
+STR0411,Guardian Pharmacy - JP Nagar #17,"No. 191, 5th Main Road, JP Nagar, Bengaluru",Bengaluru,Karnataka,560031,13.010971,77.530202,+91-9425845304,24 Hours (Open 24x7),4.1
+STR0412,Guardian Pharmacy - Nazarbad #17,"No. 33, 9th Main Road, Nazarbad, Mysuru",Mysuru,Karnataka,570077,12.274155,76.626162,+91-9976591799,09:00 AM - 10:00 PM,4.3
+STR0413,Arogya Chemist & Druggist - Adyar #17,"No. 86, 12th Main Road, Adyar, Chennai",Chennai,Tamil Nadu,600082,13.087561,80.325281,+91-9744241100,24 Hours (Open 24x7),4.9
+STR0414,Noble Plus Pharmacy - Dilsukhnagar #17,"No. 117, 24th Main Road, Dilsukhnagar, Hyderabad",Hyderabad,Telangana,500024,17.365025,78.466804,+91-7010344739,24 Hours (Open 24x7),4.8
+STR0415,Frank Ross Pharmacy - Andheri West #17,"No. 242, 12th Main Road, Andheri West, Mumbai",Mumbai,Maharashtra,400015,19.106875,72.871488,+91-8030144023,08:00 AM - 10:30 PM,4.9
+STR0416,Apollo Pharmacy - Hebbal #17,"No. 412, 23th Main Road, Hebbal, Bengaluru",Bengaluru,Karnataka,560080,12.935799,77.588417,+91-8040133935,08:30 AM - 11:00 PM,3.9
+STR0417,Sanjeevini Medicals - Siddhartha Layout #17,"No. 423, 3th Main Road, Siddhartha Layout, Mysuru",Mysuru,Karnataka,570044,12.249111,76.59733,+91-9126025721,07:30 AM - 11:30 PM,4.5
+STR0418,Wellness Forever - Adyar #17,"No. 412, 17th Main Road, Adyar, Chennai",Chennai,Tamil Nadu,600038,13.082488,80.26016,+91-9863811222,24 Hours (Open 24x7),4.8
+STR0419,Metro Health Meds - Kondapur #17,"No. 168, 3th Main Road, Kondapur, Hyderabad",Hyderabad,Telangana,500049,17.43893,78.468811,+91-7071303434,24 Hours (Open 24x7),4.1
+STR0420,TrustCare Pharmacy - Borivali #17,"No. 379, 20th Main Road, Borivali, Mumbai",Mumbai,Maharashtra,400048,19.086476,72.894894,+91-9672267186,08:30 AM - 11:00 PM,4.4
+STR0421,Metro Health Meds - Yelahanka #17,"No. 376, 18th Main Road, Yelahanka, Bengaluru",Bengaluru,Karnataka,560035,12.908302,77.61586,+91-9630208677,24 Hours (Open 24x7),4.9
+STR0422,Frank Ross Pharmacy - Vijayanagar #17,"No. 178, 21th Main Road, Vijayanagar, Mysuru",Mysuru,Karnataka,570079,12.253945,76.699339,+91-9854965270,24 Hours (Open 24x7),4.7
+STR0423,CityCare Druggist - Besant Nagar #17,"No. 54, 7th Main Road, Besant Nagar, Chennai",Chennai,Tamil Nadu,600049,13.037026,80.259601,+91-7041966313,09:00 AM - 10:00 PM,4.3
+STR0424,Wellness Forever - Banjara Hills #17,"No. 48, 2th Main Road, Banjara Hills, Hyderabad",Hyderabad,Telangana,500045,17.331095,78.551294,+91-9679760901,09:00 AM - 10:00 PM,4.6
+STR0425,Arogya Chemist & Druggist - Juhu #18,"No. 298, 4th Main Road, Juhu, Mumbai",Mumbai,Maharashtra,400020,19.076285,72.8901,+91-7027919925,09:00 AM - 10:00 PM,3.7
+STR0426,Apollo Pharmacy - Electronic City #18,"No. 340, 5th Main Road, Electronic City, Bengaluru",Bengaluru,Karnataka,560065,12.91532,77.627095,+91-9649148093,08:30 AM - 11:00 PM,4.8
+STR0427,Noble Plus Pharmacy - Nazarbad #18,"No. 163, 15th Main Road, Nazarbad, Mysuru",Mysuru,Karnataka,570051,12.258088,76.691147,+91-9441354768,24 Hours (Open 24x7),4.9
+STR0428,Metro Health Meds - T. Nagar #18,"No. 56, 5th Main Road, T. Nagar, Chennai",Chennai,Tamil Nadu,600084,13.044368,80.230489,+91-9932062036,09:00 AM - 10:00 PM,4.3
+STR0429,MedPlus Mart - Secunderabad #18,"No. 184, 7th Main Road, Secunderabad, Hyderabad",Hyderabad,Telangana,500078,17.324751,78.483069,+91-8851380361,09:00 AM - 10:00 PM,4.0
+STR0430,MedPlus Mart - Bandra West #18,"No. 414, 22th Main Road, Bandra West, Mumbai",Mumbai,Maharashtra,400030,19.084429,72.821242,+91-9490973889,24 Hours (Open 24x7),3.9
+STR0431,Sanjeevini Medicals - Hebbal #18,"No. 47, 23th Main Road, Hebbal, Bengaluru",Bengaluru,Karnataka,560028,13.007419,77.588528,+91-9657746984,09:00 AM - 10:00 PM,4.3
+STR0432,Guardian Pharmacy - Bogadi #18,"No. 420, 6th Main Road, Bogadi, Mysuru",Mysuru,Karnataka,570043,12.298971,76.631699,+91-9864276605,09:00 AM - 10:00 PM,4.4
+STR0433,Frank Ross Pharmacy - Porur #18,"No. 237, 4th Main Road, Porur, Chennai",Chennai,Tamil Nadu,600022,13.069799,80.278453,+91-9726301180,24 Hours (Open 24x7),3.7
+STR0434,Wellness Forever - Madhapur #18,"No. 422, 13th Main Road, Madhapur, Hyderabad",Hyderabad,Telangana,500035,17.340181,78.445351,+91-9194597104,24 Hours (Open 24x7),4.4
+STR0435,Sparsh Medical Store - Borivali #18,"No. 12, 3th Main Road, Borivali, Mumbai",Mumbai,Maharashtra,400019,19.123032,72.935695,+91-9696702893,09:00 AM - 10:00 PM,4.7
+STR0436,Sparsh Medical Store - Koramangala #18,"No. 63, 2th Main Road, Koramangala, Bengaluru",Bengaluru,Karnataka,560052,12.95513,77.564797,+91-8816796477,08:00 AM - 10:30 PM,4.9
+STR0437,CityCare Druggist - Nazarbad #18,"No. 255, 1th Main Road, Nazarbad, Mysuru",Mysuru,Karnataka,570060,12.31452,76.627535,+91-8067265875,08:00 AM - 10:30 PM,4.1
+STR0438,Guardian Pharmacy - T. Nagar #18,"No. 229, 5th Main Road, T. Nagar, Chennai",Chennai,Tamil Nadu,600045,13.021,80.226,+91-9892423989,07:30 AM - 11:30 PM,4.5
+STR0439,Guardian Pharmacy - Dilsukhnagar #18,"No. 211, 18th Main Road, Dilsukhnagar, Hyderabad",Hyderabad,Telangana,500073,17.413076,78.50736,+91-8818184472,24 Hours (Open 24x7),4.0
+STR0440,Sri Lakshmi Pharma - Dadar #18,"No. 330, 17th Main Road, Dadar, Mumbai",Mumbai,Maharashtra,400035,19.014522,72.841556,+91-9694658420,07:30 AM - 11:30 PM,4.7
+STR0441,Metro Health Meds - BTM Layout #18,"No. 246, 18th Main Road, BTM Layout, Bengaluru",Bengaluru,Karnataka,560055,12.93664,77.616946,+91-8856175477,07:30 AM - 11:30 PM,4.3
+STR0442,Guardian Pharmacy - Nazarbad #18,"No. 14, 11th Main Road, Nazarbad, Mysuru",Mysuru,Karnataka,570033,12.233362,76.587934,+91-9613933043,08:30 AM - 11:00 PM,3.7
+STR0443,LifeCare Medicos - Tambaram #18,"No. 393, 19th Main Road, Tambaram, Chennai",Chennai,Tamil Nadu,600055,13.121689,80.228911,+91-9631424479,24 Hours (Open 24x7),3.9
+STR0444,Guardian Pharmacy - Madhapur #18,"No. 418, 24th Main Road, Madhapur, Hyderabad",Hyderabad,Telangana,500078,17.404857,78.452664,+91-9839448924,07:30 AM - 11:30 PM,4.8
+STR0445,Sanjeevini Medicals - Chembur #18,"No. 91, 8th Main Road, Chembur, Mumbai",Mumbai,Maharashtra,400032,19.023927,72.844312,+91-9158155056,07:30 AM - 11:30 PM,3.6
+STR0446,Sanjeevini Medicals - JP Nagar #18,"No. 289, 5th Main Road, JP Nagar, Bengaluru",Bengaluru,Karnataka,560082,13.000495,77.640841,+91-9676065552,07:30 AM - 11:30 PM,4.0
+STR0447,Apollo Pharmacy - Hebbal #18,"No. 29, 8th Main Road, Hebbal, Mysuru",Mysuru,Karnataka,570021,12.338729,76.626034,+91-9612674689,07:30 AM - 11:30 PM,4.3
+STR0448,Sparsh Medical Store - Nungambakkam #18,"No. 104, 5th Main Road, Nungambakkam, Chennai",Chennai,Tamil Nadu,600088,13.104551,80.232348,+91-9133818260,08:30 AM - 11:00 PM,3.7
+STR0449,TrustCare Pharmacy - Gachibowli #18,"No. 397, 4th Main Road, Gachibowli, Hyderabad",Hyderabad,Telangana,500028,17.358109,78.538224,+91-7058974686,24 Hours (Open 24x7),4.1
+STR0450,Sri Lakshmi Pharma - Goregaon #19,"No. 52, 11th Main Road, Goregaon, Mumbai",Mumbai,Maharashtra,400085,19.01269,72.823816,+91-9453299069,08:00 AM - 10:30 PM,5.0
+STR0451,Sri Lakshmi Pharma - JP Nagar #19,"No. 250, 21th Main Road, JP Nagar, Bengaluru",Bengaluru,Karnataka,560091,12.933625,77.533049,+91-9133381086,07:30 AM - 11:30 PM,4.6
+STR0452,Metro Health Meds - Yadavagiri #19,"No. 115, 22th Main Road, Yadavagiri, Mysuru",Mysuru,Karnataka,570055,12.254387,76.650195,+91-9760785855,08:30 AM - 11:00 PM,4.6
+STR0453,Wellness Forever - Mylapore #19,"No. 374, 1th Main Road, Mylapore, Chennai",Chennai,Tamil Nadu,600032,13.072485,80.321747,+91-8086166246,24 Hours (Open 24x7),3.9
+STR0454,Sparsh Medical Store - Kukatpally #19,"No. 114, 21th Main Road, Kukatpally, Hyderabad",Hyderabad,Telangana,500088,17.426268,78.466136,+91-9976596831,08:00 AM - 10:30 PM,4.1
+STR0455,Frank Ross Pharmacy - Bandra West #19,"No. 164, 6th Main Road, Bandra West, Mumbai",Mumbai,Maharashtra,400054,19.044725,72.86206,+91-9999929175,08:30 AM - 11:00 PM,4.2
+STR0456,Frank Ross Pharmacy - Malleshwaram #19,"No. 355, 3th Main Road, Malleshwaram, Bengaluru",Bengaluru,Karnataka,560041,12.983338,77.564448,+91-9144448045,24 Hours (Open 24x7),4.6
+STR0457,Sri Lakshmi Pharma - Vijayanagar #19,"No. 376, 14th Main Road, Vijayanagar, Mysuru",Mysuru,Karnataka,570066,12.311939,76.627624,+91-9765568711,09:00 AM - 10:00 PM,4.8
+STR0458,LifeCare Medicos - Nungambakkam #19,"No. 52, 16th Main Road, Nungambakkam, Chennai",Chennai,Tamil Nadu,600058,13.089466,80.262396,+91-9631831387,09:00 AM - 10:00 PM,3.7
+STR0459,Guardian Pharmacy - Banjara Hills #19,"No. 164, 9th Main Road, Banjara Hills, Hyderabad",Hyderabad,Telangana,500012,17.358281,78.544999,+91-9919959009,08:30 AM - 11:00 PM,3.8
+STR0460,Wellness Forever - Chembur #19,"No. 281, 3th Main Road, Chembur, Mumbai",Mumbai,Maharashtra,400019,19.110269,72.830915,+91-9189729429,07:30 AM - 11:30 PM,4.9
+STR0461,Apollo Pharmacy - JP Nagar #19,"No. 335, 6th Main Road, JP Nagar, Bengaluru",Bengaluru,Karnataka,560065,13.019501,77.592966,+91-8031086112,24 Hours (Open 24x7),3.7
+STR0462,Frank Ross Pharmacy - VV Mohalla #19,"No. 357, 18th Main Road, VV Mohalla, Mysuru",Mysuru,Karnataka,570062,12.347092,76.678381,+91-7045603234,08:30 AM - 11:00 PM,4.0
+STR0463,Apollo Pharmacy - Anna Nagar #19,"No. 293, 18th Main Road, Anna Nagar, Chennai",Chennai,Tamil Nadu,600060,13.072978,80.208621,+91-8830614492,24 Hours (Open 24x7),4.1
+STR0464,MedPlus Mart - Secunderabad #19,"No. 422, 22th Main Road, Secunderabad, Hyderabad",Hyderabad,Telangana,500047,17.354928,78.492112,+91-8836799898,24 Hours (Open 24x7),3.6
+STR0465,Jan Aushadhi Kendra - Dadar #19,"No. 42, 16th Main Road, Dadar, Mumbai",Mumbai,Maharashtra,400047,19.093352,72.846225,+91-9951386492,09:00 AM - 10:00 PM,4.3
+STR0466,Jan Aushadhi Kendra - Vijayanagar #19,"No. 47, 21th Main Road, Vijayanagar, Bengaluru",Bengaluru,Karnataka,560043,12.924716,77.638141,+91-7062013009,08:00 AM - 10:30 PM,4.1
+STR0467,Sanjeevini Medicals - Nazarbad #19,"No. 229, 2th Main Road, Nazarbad, Mysuru",Mysuru,Karnataka,570033,12.358772,76.64274,+91-9469020960,09:00 AM - 10:00 PM,4.0
+STR0468,TrustCare Pharmacy - Mylapore #19,"No. 78, 23th Main Road, Mylapore, Chennai",Chennai,Tamil Nadu,600017,13.040018,80.2411,+91-9921503440,08:30 AM - 11:00 PM,4.7
+STR0469,Metro Health Meds - Secunderabad #19,"No. 117, 18th Main Road, Secunderabad, Hyderabad",Hyderabad,Telangana,500085,17.322391,78.540559,+91-9861956500,07:30 AM - 11:30 PM,4.2
+STR0470,Jan Aushadhi Kendra - Thane West #19,"No. 294, 8th Main Road, Thane West, Mumbai",Mumbai,Maharashtra,400070,19.026308,72.887647,+91-8850111251,24 Hours (Open 24x7),4.2
+STR0471,Noble Plus Pharmacy - Hebbal #19,"No. 258, 19th Main Road, Hebbal, Bengaluru",Bengaluru,Karnataka,560014,12.942227,77.601643,+91-7086703472,07:30 AM - 11:30 PM,3.8
+STR0472,Wellness Forever - Hebbal #19,"No. 109, 7th Main Road, Hebbal, Mysuru",Mysuru,Karnataka,570031,12.315485,76.682266,+91-9715727862,09:00 AM - 10:00 PM,3.7
+STR0473,Sri Lakshmi Pharma - Kilpauk #19,"No. 422, 21th Main Road, Kilpauk, Chennai",Chennai,Tamil Nadu,600035,13.044535,80.207129,+91-9789865944,08:30 AM - 11:00 PM,4.0
+STR0474,Sparsh Medical Store - Manikonda #19,"No. 45, 13th Main Road, Manikonda, Hyderabad",Hyderabad,Telangana,500018,17.337795,78.538702,+91-7063332084,07:30 AM - 11:30 PM,4.1
+STR0475,LifeCare Medicos - Borivali #20,"No. 448, 1th Main Road, Borivali, Mumbai",Mumbai,Maharashtra,400068,19.124606,72.890364,+91-7066316931,24 Hours (Open 24x7),4.2
+STR0476,TrustCare Pharmacy - Jayanagar #20,"No. 299, 4th Main Road, Jayanagar, Bengaluru",Bengaluru,Karnataka,560085,12.984667,77.616055,+91-9985522135,24 Hours (Open 24x7),4.7
+STR0477,Sparsh Medical Store - Bannimantap #20,"No. 450, 14th Main Road, Bannimantap, Mysuru",Mysuru,Karnataka,570054,12.253598,76.693274,+91-9461411224,09:00 AM - 10:00 PM,4.4
+STR0478,Apollo Pharmacy - Tambaram #20,"No. 142, 13th Main Road, Tambaram, Chennai",Chennai,Tamil Nadu,600032,13.07214,80.255508,+91-9792979370,07:30 AM - 11:30 PM,4.6
+STR0479,Apollo Pharmacy - Secunderabad #20,"No. 170, 23th Main Road, Secunderabad, Hyderabad",Hyderabad,Telangana,500060,17.387459,78.427806,+91-9616615722,09:00 AM - 10:00 PM,4.9
+STR0480,Apollo Pharmacy - Juhu #20,"No. 419, 10th Main Road, Juhu, Mumbai",Mumbai,Maharashtra,400053,19.032617,72.908644,+91-9447627490,09:00 AM - 10:00 PM,4.8
+STR0481,MedPlus Mart - Banashankari #20,"No. 69, 10th Main Road, Banashankari, Bengaluru",Bengaluru,Karnataka,560039,12.917364,77.60801,+91-8853066216,08:30 AM - 11:00 PM,4.6
+STR0482,Jan Aushadhi Kendra - Yadavagiri #20,"No. 97, 15th Main Road, Yadavagiri, Mysuru",Mysuru,Karnataka,570021,12.262695,76.625008,+91-9664649480,09:00 AM - 10:00 PM,4.7
+STR0483,CityCare Druggist - Nungambakkam #20,"No. 264, 6th Main Road, Nungambakkam, Chennai",Chennai,Tamil Nadu,600017,13.05523,80.251937,+91-9951758234,07:30 AM - 11:30 PM,4.2
+STR0484,Sparsh Medical Store - Ameerpet #20,"No. 15, 6th Main Road, Ameerpet, Hyderabad",Hyderabad,Telangana,500082,17.413476,78.460326,+91-9636941091,24 Hours (Open 24x7),3.9
+STR0485,Apollo Pharmacy - Malad #20,"No. 361, 7th Main Road, Malad, Mumbai",Mumbai,Maharashtra,400056,19.084633,72.874587,+91-9459439358,09:00 AM - 10:00 PM,4.3
+STR0486,Sparsh Medical Store - Banashankari #20,"No. 349, 1th Main Road, Banashankari, Bengaluru",Bengaluru,Karnataka,560025,12.992877,77.651388,+91-9659991642,09:00 AM - 10:00 PM,4.4
+STR0487,CityCare Druggist - Gokulam #20,"No. 301, 18th Main Road, Gokulam, Mysuru",Mysuru,Karnataka,570070,12.326034,76.602342,+91-9156204319,08:00 AM - 10:30 PM,4.8
+STR0488,Noble Plus Pharmacy - Mylapore #20,"No. 146, 1th Main Road, Mylapore, Chennai",Chennai,Tamil Nadu,600021,13.021754,80.239794,+91-8016664050,08:00 AM - 10:30 PM,4.8
+STR0489,CityCare Druggist - Madhapur #20,"No. 332, 8th Main Road, Madhapur, Hyderabad",Hyderabad,Telangana,500038,17.39736,78.428385,+91-9646115786,09:00 AM - 10:00 PM,4.3
+STR0490,Apollo Pharmacy - Goregaon #20,"No. 68, 21th Main Road, Goregaon, Mumbai",Mumbai,Maharashtra,400070,19.075528,72.89029,+91-9790683906,24 Hours (Open 24x7),3.9
+STR0491,Metro Health Meds - Electronic City #20,"No. 365, 23th Main Road, Electronic City, Bengaluru",Bengaluru,Karnataka,560049,12.950052,77.629819,+91-9466882385,09:00 AM - 10:00 PM,4.8
+STR0492,Guardian Pharmacy - Hebbal #20,"No. 239, 10th Main Road, Hebbal, Mysuru",Mysuru,Karnataka,570037,12.244658,76.584168,+91-7093698993,09:00 AM - 10:00 PM,4.4
+STR0493,LifeCare Medicos - Adyar #20,"No. 432, 12th Main Road, Adyar, Chennai",Chennai,Tamil Nadu,600094,13.112365,80.270114,+91-7096884788,07:30 AM - 11:30 PM,4.5
+STR0494,Jan Aushadhi Kendra - Kondapur #20,"No. 247, 3th Main Road, Kondapur, Hyderabad",Hyderabad,Telangana,500023,17.409492,78.478228,+91-9147108953,08:30 AM - 11:00 PM,4.8
+STR0495,Jan Aushadhi Kendra - Borivali #20,"No. 153, 7th Main Road, Borivali, Mumbai",Mumbai,Maharashtra,400093,19.043032,72.919183,+91-9779429969,08:00 AM - 10:30 PM,4.9
+STR0496,CityCare Druggist - Marathahalli #20,"No. 207, 22th Main Road, Marathahalli, Bengaluru",Bengaluru,Karnataka,560086,13.010524,77.619911,+91-9128781020,24 Hours (Open 24x7),4.5
+STR0497,Guardian Pharmacy - Saraswathipuram #20,"No. 208, 13th Main Road, Saraswathipuram, Mysuru",Mysuru,Karnataka,570063,12.266179,76.65113,+91-9888252116,07:30 AM - 11:30 PM,4.7
+STR0498,Noble Plus Pharmacy - Nungambakkam #20,"No. 352, 18th Main Road, Nungambakkam, Chennai",Chennai,Tamil Nadu,600038,13.064627,80.217606,+91-8858116670,07:30 AM - 11:30 PM,4.0
+STR0499,CityCare Druggist - Gachibowli #20,"No. 449, 18th Main Road, Gachibowli, Hyderabad",Hyderabad,Telangana,500094,17.439251,78.439486,+91-9749431028,24 Hours (Open 24x7),4.3
+STR0500,Guardian Pharmacy - Ghatkopar #21,"No. 391, 6th Main Road, Ghatkopar, Mumbai",Mumbai,Maharashtra,400081,19.134531,72.870681,+91-9197836731,24 Hours (Open 24x7),3.9
