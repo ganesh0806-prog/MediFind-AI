@@ -1,0 +1,27 @@
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.log
+*.tmp
+
+# Local Streamlit configuration
+.streamlit/secrets.toml
