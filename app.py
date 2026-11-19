@@ -10,14 +10,13 @@ from sklearn.metrics.pairwise import cosine_similarity
 # =====================================================
 
 st.set_page_config(
-    page_title="MediFind AI | Smart Pharmacy",
+    page_title="MediFind AI",
     page_icon="💊",
-    layout="wide",
-    initial_sidebar_state="collapsed"
+    layout="wide"
 )
 
 # =====================================================
-# PROFESSIONAL WEBSITE DESIGN
+# CUSTOM CSS
 # =====================================================
 
 st.markdown("""
@@ -30,31 +29,25 @@ html, body, [class*="css"] {
 }
 
 .stApp {
-    background: #f6f9f7;
+    background: #f5f9f6;
     color: #19382b;
 }
 
 .block-container {
     max-width: 1250px;
-    padding-top: 1rem;
-    padding-bottom: 2rem;
+    padding-top: 20px;
+    padding-bottom: 40px;
 }
 
 #MainMenu, footer {
     visibility: hidden;
 }
 
-header[data-testid="stHeader"] {
-    background: transparent;
-}
-
-/* NAVBAR */
-
 .navbar {
     background: white;
+    border: 1px solid #e3ece6;
+    border-radius: 15px;
     padding: 18px 25px;
-    border-radius: 14px;
-    border: 1px solid #e5eee8;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -72,30 +65,27 @@ header[data-testid="stHeader"] {
 }
 
 .nav-text {
-    color: #687c70;
     font-size: 13px;
+    color: #687c70;
     font-weight: 600;
 }
 
-/* HERO */
-
 .hero {
-    background: linear-gradient(120deg, #dff5e8, #f2faf5);
-    border: 1px solid #d9eee1;
+    background: linear-gradient(120deg, #ddf4e6, #f1faf4);
+    border: 1px solid #d8eee0;
     border-radius: 20px;
-    padding: 45px;
-    margin-bottom: 30px;
+    padding: 40px;
+    margin-bottom: 25px;
 }
 
 .hero-tag {
     display: inline-block;
     background: white;
-    color: #087f5b;
-    border-radius: 25px;
+    color: #07805a;
     padding: 7px 14px;
+    border-radius: 30px;
     font-size: 12px;
     font-weight: 800;
-    margin-bottom: 15px;
 }
 
 .hero h1 {
@@ -109,38 +99,33 @@ header[data-testid="stHeader"] {
     color: #60786a;
     font-size: 15px;
     line-height: 1.8;
-    max-width: 620px;
 }
 
-/* HEADINGS */
-
 .section-title {
-    font-size: 24px;
+    font-size: 23px;
     font-weight: 800;
     color: #193b2c;
-    margin-top: 30px;
-    margin-bottom: 5px;
+    margin-top: 25px;
+    margin-bottom: 8px;
 }
 
 .section-subtitle {
-    font-size: 13px;
     color: #809087;
+    font-size: 13px;
     margin-bottom: 18px;
 }
 
-/* SHELF */
-
 .shelf-heading {
-    font-size: 20px;
+    font-size: 19px;
     font-weight: 800;
     color: #234532;
-    margin-top: 27px;
+    margin-top: 25px;
     margin-bottom: 12px;
 }
 
 .shelf-row {
     display: flex;
-    gap: 14px;
+    gap: 15px;
     overflow-x: auto;
     padding: 16px 12px 0;
     background: linear-gradient(#eef4ef, #e5eee7);
@@ -150,10 +135,10 @@ header[data-testid="stHeader"] {
 
 .shelf-product {
     flex: 0 0 125px;
-    height: 160px;
+    height: 155px;
     background: white;
     border: 1px solid #dce5df;
-    border-radius: 8px 8px 3px 3px;
+    border-radius: 8px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -163,8 +148,8 @@ header[data-testid="stHeader"] {
 }
 
 .pack {
-    width: 67px;
-    height: 88px;
+    width: 68px;
+    height: 85px;
     border-radius: 5px;
     display: flex;
     align-items: center;
@@ -174,28 +159,13 @@ header[data-testid="stHeader"] {
     font-size: 10px;
     font-weight: 800;
     padding: 5px;
-    border: 1px solid rgba(0,0,0,.08);
 }
 
-.pack.green {
-    background: linear-gradient(135deg,#0e9d6b,#075c43);
-}
-
-.pack.blue {
-    background: linear-gradient(135deg,#3c8fce,#17538a);
-}
-
-.pack.orange {
-    background: linear-gradient(135deg,#f2a34d,#c96a1e);
-}
-
-.pack.purple {
-    background: linear-gradient(135deg,#9c79c9,#60428b);
-}
-
-.pack.red {
-    background: linear-gradient(135deg,#e66b6b,#a83232);
-}
+.pack.green { background: linear-gradient(135deg,#0e9d6b,#075c43); }
+.pack.blue { background: linear-gradient(135deg,#3c8fce,#17538a); }
+.pack.orange { background: linear-gradient(135deg,#f2a34d,#c96a1e); }
+.pack.purple { background: linear-gradient(135deg,#9c79c9,#60428b); }
+.pack.red { background: linear-gradient(135deg,#e66b6b,#a83232); }
 
 .shelf-product small {
     font-size: 10px;
@@ -213,14 +183,12 @@ header[data-testid="stHeader"] {
     margin-bottom: 20px;
 }
 
-/* PRODUCT CARDS */
-
 .product-card {
     background: white;
     border: 1px solid #e5eee8;
     border-radius: 15px;
     padding: 19px;
-    min-height: 240px;
+    min-height: 225px;
     margin-bottom: 15px;
     box-shadow: 0 4px 14px rgba(20,70,45,.04);
 }
@@ -261,8 +229,6 @@ header[data-testid="stHeader"] {
     margin-top: 10px;
 }
 
-/* FEATURES */
-
 .feature-card {
     background: white;
     border: 1px solid #e5eee8;
@@ -271,14 +237,12 @@ header[data-testid="stHeader"] {
     min-height: 150px;
 }
 
-.feature-icon {
-    font-size: 27px;
-}
+.feature-icon { font-size: 27px; }
 
 .feature-title {
     color: #203c2e;
-    font-weight: 800;
     font-size: 16px;
+    font-weight: 800;
     margin-top: 9px;
 }
 
@@ -289,9 +253,7 @@ header[data-testid="stHeader"] {
     margin-top: 7px;
 }
 
-/* FOOTER */
-
-.footer {
+.footer-box {
     background: #173b2c;
     color: #d8e9df;
     padding: 30px;
@@ -313,8 +275,6 @@ header[data-testid="stHeader"] {
     margin-top: 10px;
 }
 
-/* STREAMLIT BUTTONS */
-
 .stButton > button,
 .stFormSubmitButton > button {
     background: #087f5b;
@@ -329,7 +289,6 @@ header[data-testid="stHeader"] {
 .stFormSubmitButton > button:hover {
     background: #066b4d;
     color: white;
-    border: none;
 }
 
 .stTextInput input {
@@ -338,43 +297,41 @@ header[data-testid="stHeader"] {
     border: 1px solid #dce8e0;
 }
 
+.filter-box {
+    background: white;
+    padding: 18px;
+    border: 1px solid #e3ece6;
+    border-radius: 13px;
+    margin-bottom: 18px;
+}
+
 </style>
 """, unsafe_allow_html=True)
 
 
 # =====================================================
-# LOAD SAVED MACHINE LEARNING MODEL
+# LOAD MODEL
 # =====================================================
 
 @st.cache_resource
 def load_model():
 
     with open("models/medifind_model.pkl", "rb") as file:
-
         model = pickle.load(file)
 
     return model
 
 
 try:
-
     model = load_model()
 
     tfidf = model["tfidf_vectorizer"]
-
     tfidf_matrix = model["tfidf_matrix"]
-
     medicines = model["medicines"]
 
 except Exception as e:
 
-    st.error(f"Model loading error: {e}")
-
-    st.info(
-        "Check whether models/medifind_model.pkl "
-        "exists in your GitHub repository."
-    )
-
+    st.error(f"Unable to load model: {e}")
     st.stop()
 
 
@@ -385,17 +342,16 @@ except Exception as e:
 def normalize_text(text):
 
     text = str(text).lower().strip()
-
     text = re.sub(r"[^a-z0-9]+", " ", text)
 
     return " ".join(text.split())
 
 
 # =====================================================
-# MEDICINE SEARCH USING TF-IDF
+# AI MEDICINE SEARCH
 # =====================================================
 
-def search_medicines(query, top_n=30):
+def search_medicines(query, top_n=100):
 
     normalized_query = normalize_text(query)
 
@@ -465,7 +421,7 @@ def search_medicines(query, top_n=30):
     if direct.empty:
 
         direct = results[
-            results["similarity_score"] >= 0.15
+            results["similarity_score"] > 0
         ].copy()
 
     direct = direct.sort_values(
@@ -481,34 +437,24 @@ def search_medicines(query, top_n=30):
 
 
 # =====================================================
-# NAVIGATION BAR
+# NAVIGATION
 # =====================================================
 
 st.markdown("""
 <div class="navbar">
-
-    <div class="logo">
-        💊 MediFind<span> AI</span>
-    </div>
-
-    <div class="nav-text">
-        SMART MEDICINE DISCOVERY
-    </div>
-
+    <div class="logo">💊 MediFind<span> AI</span></div>
+    <div class="nav-text">SMART MEDICINE DISCOVERY</div>
 </div>
 """, unsafe_allow_html=True)
 
 
 # =====================================================
-# HERO SECTION
+# HERO
 # =====================================================
 
 st.markdown("""
 <div class="hero">
-
-    <div class="hero-tag">
-        ✦ YOUR SMART PHARMACY
-    </div>
+    <div class="hero-tag">✦ YOUR SMART PHARMACY</div>
 
     <h1>
         Discover Medicines.<br>
@@ -517,27 +463,19 @@ st.markdown("""
 
     <p>
         Explore medicines by name, brand or generic name.
-        Find relevant catalogue information through
+        Find relevant catalogue information using
         AI-powered medicine search.
     </p>
-
 </div>
 """, unsafe_allow_html=True)
 
 
 # =====================================================
-# MEDICINE SEARCH
+# SEARCH INPUT
 # =====================================================
 
 st.markdown(
     '<div class="section-title">🔍 Find Your Medicine</div>',
-    unsafe_allow_html=True
-)
-
-st.markdown(
-    '<div class="section-subtitle">'
-    'Search by medicine name, brand or generic name.'
-    '</div>',
     unsafe_allow_html=True
 )
 
@@ -546,26 +484,88 @@ with st.form("medicine_search_form"):
     col1, col2 = st.columns([5, 1])
 
     with col1:
-
         query = st.text_input(
-            "Medicine search",
+            "Medicine name",
             placeholder="Try Paracetamol, Crocin, Vitamin C..."
         )
 
     with col2:
-
         st.write("")
-
         st.write("")
-
         submitted = st.form_submit_button(
-            "Search",
+            "🔍 Search",
             use_container_width=True
         )
 
 
 # =====================================================
-# PHYSICAL PHARMACY SHELVES
+# CHECKBOX FILTERS
+# =====================================================
+
+st.markdown(
+    '<div class="section-title">☑️ Select Your Preferences</div>',
+    unsafe_allow_html=True
+)
+
+st.markdown(
+    '<div class="section-subtitle">'
+    'Tick one or more options to filter medicines.'
+    '</div>',
+    unsafe_allow_html=True
+)
+
+with st.container(border=True):
+
+    st.markdown("#### Medicine Categories")
+
+    all_categories = sorted(
+        medicines["category"].dropna().unique().tolist()
+    )
+
+    selected_categories = []
+
+    category_columns = st.columns(3)
+
+    for index, category in enumerate(all_categories):
+
+        with category_columns[index % 3]:
+
+            if st.checkbox(
+                category,
+                key=f"category_{category}"
+            ):
+                selected_categories.append(category)
+
+    st.divider()
+
+    st.markdown("#### Prescription Type")
+
+    prescription_types = sorted(
+        medicines["prescription_type"]
+        .dropna()
+        .unique()
+        .tolist()
+    )
+
+    selected_prescription = []
+
+    prescription_columns = st.columns(
+        max(1, len(prescription_types))
+    )
+
+    for index, prescription in enumerate(prescription_types):
+
+        with prescription_columns[index]:
+
+            if st.checkbox(
+                prescription,
+                key=f"prescription_{prescription}"
+            ):
+                selected_prescription.append(prescription)
+
+
+# =====================================================
+# PHARMACY SHELVES
 # =====================================================
 
 st.markdown(
@@ -573,19 +573,9 @@ st.markdown(
     unsafe_allow_html=True
 )
 
-st.markdown(
-    '<div class="section-subtitle">'
-    'Browse our illustrative pharmacy displays.'
-    '</div>',
-    unsafe_allow_html=True
-)
-
-
 shelves = [
-
     {
         "title": "💊 Pain Relief & General Medicines",
-
         "products": [
             ("PARACETAMOL", "green", "Paracetamol"),
             ("CROCIN", "blue", "Crocin"),
@@ -594,10 +584,8 @@ shelves = [
             ("CALPOL", "red", "Calpol")
         ]
     },
-
     {
         "title": "🌿 Vitamins & Supplements",
-
         "products": [
             ("VITAMIN C", "orange", "Vitamin C"),
             ("BECOSULES", "red", "Becosules"),
@@ -606,10 +594,8 @@ shelves = [
             ("ZINC", "purple", "Zinc")
         ]
     },
-
     {
         "title": "🩺 Healthcare & Wellness",
-
         "products": [
             ("ALLERGY CARE", "blue", "Allergy Care"),
             ("DIGESTIVE", "green", "Digestive Care"),
@@ -618,14 +604,13 @@ shelves = [
             ("WELLNESS", "red", "Wellness")
         ]
     }
-
 ]
-
 
 for shelf in shelves:
 
     st.markdown(
-        f'<div class="shelf-heading">{shelf["title"]}</div>',
+        f'<div class="shelf-heading">'
+        f'{html.escape(shelf["title"])}</div>',
         unsafe_allow_html=True
     )
 
@@ -635,27 +620,25 @@ for shelf in shelves:
 
         shelf_html += f"""
         <div class="shelf-product">
-
             <div class="pack {color}">
                 {html.escape(label)}
             </div>
-
             <small>{html.escape(name)}</small>
-
         </div>
         """
 
-    shelf_html += "</div><div class='shelf-board'></div>"
+    shelf_html += """
+    </div>
+    <div class="shelf-board"></div>
+    """
 
     st.markdown(
         shelf_html,
         unsafe_allow_html=True
     )
 
-
 st.caption(
-    "Illustrative shelf display only. Products shown here are "
-    "visual examples, not verified physical inventory."
+    "Illustrative shelf display only. It does not represent verified stock."
 )
 
 
@@ -664,42 +647,95 @@ st.caption(
 # =====================================================
 
 st.markdown(
-    '<div class="section-title">📂 Medicine Categories</div>',
+    '<div class="section-title">📂 Medicine Catalogue</div>',
     unsafe_allow_html=True
 )
 
-category_counts = (
-    medicines["category"]
-    .fillna("Other")
-    .value_counts()
-)
+category_counts = medicines["category"].value_counts()
 
-category_cols = st.columns(5)
-
-category_icons = {
-    "Vitamins & Supplements": "🌿",
-    "Pain Relief": "💊",
-    "Allergy": "🌸",
-    "Diabetes": "🩺",
-    "Antibiotics": "🧪"
-}
+category_columns = st.columns(5)
 
 for index, (category, count) in enumerate(
     category_counts.items()
 ):
 
-    with category_cols[index % 5]:
-
-        icon = category_icons.get(category, "💊")
+    with category_columns[index % 5]:
 
         st.metric(
-            label=f"{icon} {category}",
-            value=f"{count} medicines"
+            category,
+            f"{count} medicines"
         )
 
 
 # =====================================================
-# SEARCH RESULTS
+# DISPLAY MEDICINE CARDS
+# =====================================================
+
+def display_products(data):
+
+    product_columns = st.columns(3)
+
+    for index, (_, row) in enumerate(data.iterrows()):
+
+        with product_columns[index % 3]:
+
+            name = html.escape(
+                str(row.get("medicine_name", "N/A"))
+            )
+
+            generic = html.escape(
+                str(row.get("generic_name", "N/A"))
+            )
+
+            brand = html.escape(
+                str(row.get("brand_name", "N/A"))
+            )
+
+            strength = html.escape(
+                str(row.get("strength", "N/A"))
+            )
+
+            dosage = html.escape(
+                str(row.get("dosage_form", "N/A"))
+            )
+
+            prescription = html.escape(
+                str(row.get("prescription_type", "N/A"))
+            )
+
+            st.markdown(f"""
+            <div class="product-card">
+
+                <div class="product-icon">💊</div>
+
+                <div class="product-name">{name}</div>
+
+                <div class="product-detail">
+                    Generic: {generic}
+                </div>
+
+                <div class="product-detail">
+                    Brand: {brand}
+                </div>
+
+                <div class="product-detail">
+                    Strength: {strength}
+                </div>
+
+                <div class="product-detail">
+                    Form: {dosage}
+                </div>
+
+                <span class="product-tag">
+                    {prescription}
+                </span>
+
+            </div>
+            """, unsafe_allow_html=True)
+
+
+# =====================================================
+# SEARCH RESULTS AND FILTERING
 # =====================================================
 
 if submitted:
@@ -714,134 +750,48 @@ if submitted:
 
         results = search_medicines(query)
 
-        if results.empty:
+        if not results.empty:
 
-            st.warning("No matching medicines found.")
+            # Apply category filters
+            if selected_categories:
 
-        else:
+                results = results[
+                    results["category"].isin(selected_categories)
+                ]
+
+            # Apply prescription filters
+            if selected_prescription:
+
+                results = results[
+                    results["prescription_type"].isin(
+                        selected_prescription
+                    )
+                ]
 
             st.markdown(
                 '<div class="section-title">'
-                '💊 Medicine Search Results'
+                '💊 Search Results'
                 '</div>',
                 unsafe_allow_html=True
             )
 
-            st.caption(
-                f"{len(results)} matching catalogue records"
-            )
-
-            categories_available = sorted(
-                results["category"].dropna().unique().tolist()
-            )
-
-            selected_category = st.selectbox(
-                "Filter search results by category",
-                ["All Categories"] + categories_available
-            )
-
-            if selected_category != "All Categories":
-
-                results = results[
-                    results["category"] == selected_category
-                ]
-
             if results.empty:
 
-                st.info("No results in this category.")
+                st.warning(
+                    "No medicines match your search and selected filters."
+                )
 
             else:
 
-                combination_mask = (
-                    results["generic_name"]
-                    .fillna("")
-                    .astype(str)
-                    .str.contains(r"\+|,", regex=True)
+                st.success(
+                    f"{len(results)} matching catalogue entries found."
                 )
 
-                exact_results = results[~combination_mask]
+                display_products(results)
 
-                combination_results = results[combination_mask]
+        else:
 
-                def display_products(data):
-
-                    product_cols = st.columns(3)
-
-                    for index, (_, row) in enumerate(
-                        data.iterrows()
-                    ):
-
-                        with product_cols[index % 3]:
-
-                            name = html.escape(
-                                str(row.get("medicine_name", "N/A"))
-                            )
-
-                            generic = html.escape(
-                                str(row.get("generic_name", "N/A"))
-                            )
-
-                            brand = html.escape(
-                                str(row.get("brand_name", "N/A"))
-                            )
-
-                            strength = html.escape(
-                                str(row.get("strength", "N/A"))
-                            )
-
-                            dosage = html.escape(
-                                str(row.get("dosage_form", "N/A"))
-                            )
-
-                            prescription = html.escape(
-                                str(row.get("prescription_type", "N/A"))
-                            )
-
-                            st.markdown(f"""
-                            <div class="product-card">
-
-                                <div class="product-icon">
-                                    💊
-                                </div>
-
-                                <div class="product-name">
-                                    {name}
-                                </div>
-
-                                <div class="product-detail">
-                                    Generic: {generic}
-                                </div>
-
-                                <div class="product-detail">
-                                    Brand: {brand}
-                                </div>
-
-                                <div class="product-detail">
-                                    Strength: {strength}
-                                </div>
-
-                                <div class="product-detail">
-                                    Form: {dosage}
-                                </div>
-
-                                <span class="product-tag">
-                                    {prescription}
-                                </span>
-
-                            </div>
-                            """, unsafe_allow_html=True)
-
-                if not exact_results.empty:
-
-                    st.markdown("#### Matching catalogue entries")
-
-                    display_products(exact_results)
-
-                if not combination_results.empty:
-
-                    st.markdown("#### Combination products")
-
-                    display_products(combination_results)
+            st.warning("No matching medicines found.")
 
 
 # =====================================================
@@ -861,58 +811,38 @@ with f1:
 
     st.markdown("""
     <div class="feature-card">
-
         <div class="feature-icon">🤖</div>
-
-        <div class="feature-title">
-            AI-Powered Search
-        </div>
-
+        <div class="feature-title">AI-Powered Search</div>
         <div class="feature-description">
-            Discover relevant catalogue entries using
+            Find relevant catalogue entries using
             TF-IDF and cosine similarity.
         </div>
-
     </div>
     """, unsafe_allow_html=True)
-
 
 with f2:
 
     st.markdown("""
     <div class="feature-card">
-
         <div class="feature-icon">💊</div>
-
-        <div class="feature-title">
-            Medicine Catalogue
-        </div>
-
+        <div class="feature-title">Medicine Catalogue</div>
         <div class="feature-description">
             Explore medicine names, brands, strengths
             and categories.
         </div>
-
     </div>
     """, unsafe_allow_html=True)
-
 
 with f3:
 
     st.markdown("""
     <div class="feature-card">
-
         <div class="feature-icon">📍</div>
-
-        <div class="feature-title">
-            Medical Store Locator
-        </div>
-
+        <div class="feature-title">Store Locator</div>
         <div class="feature-description">
-            Discover medical stores through our
-            planned store-location feature.
+            Medical store discovery is planned as
+            the next project feature.
         </div>
-
     </div>
     """, unsafe_allow_html=True)
 
@@ -922,7 +852,7 @@ with f3:
 # =====================================================
 
 st.markdown("""
-<div class="footer">
+<div class="footer-box">
 
     <div class="footer-logo">
         💊 MediFind AI
@@ -931,7 +861,6 @@ st.markdown("""
     <div class="footer-text">
 
         Smart Medicine Search & Medical Store Locator<br>
-
         AI & Data Science Academic Mini Project<br><br>
 
         This application uses demonstration catalogue data.
