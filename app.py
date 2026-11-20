@@ -1,4 +1,5 @@
 
+
 import pickle
 import re
 from pathlib import Path
@@ -12,31 +13,36 @@ from sklearn.metrics.pairwise import cosine_similarity
 # PAGE CONFIGURATION
 # ---------------------------------------------------------
 st.set_page_config(
-    page_title="MediFind AI",
+    page_title="MediFind AI - Virtual Pharmacy",
     page_icon="💊",
     layout="wide",
 )
 
 
 # ---------------------------------------------------------
-# PAGE HEADER
+# STYLING
 # ---------------------------------------------------------
-st.title("💊 MediFind AI")
-st.caption("SMART MEDICINE DISCOVERY")
-
-st.success("Discover Medicines. Search Smarter.")
-
-st.write(
-    "Explore medicines by name, brand or generic name. "
-    "Find relevant catalogue information using AI-powered medicine search."
-)
-
-st.divider()
+st.markdown("""
+<style>
+.stApp {
+    background-color: #f5f9f6;
+}
+.block-container {
+    max-width: 1350px;
+    padding-top: 2rem;
+}
+div[data-testid="stMetric"] {
+    background: white;
+    border: 1px solid #dce9e0;
+    padding: 12px;
+    border-radius: 12px;
+}
+</style>
+""", unsafe_allow_html=True)
 
 
 # ---------------------------------------------------------
-# LOAD TRAINED MODEL
-# Expected file: models/medifind_model.pkl
+# LOAD MODEL
 # ---------------------------------------------------------
 @st.cache_resource
 def load_model():
@@ -49,12 +55,11 @@ def load_model():
 
     if not model_path.exists():
         raise FileNotFoundError(
-            "Model file not found. Add medifind_model.pkl "
-            "inside the models folder."
+            "medifind_model.pkl not found inside models folder."
         )
 
-    with model_path.open("rb") as model_file:
-        return pickle.load(model_file)
+    with model_path.open("rb") as file:
+        return pickle.load(file)
 
 
 try:
@@ -65,19 +70,12 @@ try:
     medicines = model["medicines"].copy()
 
 except Exception as error:
-
-    st.error(f"Unable to load the MediFind model: {error}")
-
-    st.info(
-        "Check that models/medifind_model.pkl "
-        "is present in your GitHub repository."
-    )
-
+    st.error(f"Unable to load model: {error}")
     st.stop()
 
 
 # ---------------------------------------------------------
-# CHECK REQUIRED COLUMNS
+# CHECK COLUMNS
 # ---------------------------------------------------------
 required_columns = [
     "medicine_name",
@@ -89,29 +87,97 @@ required_columns = [
     "category",
 ]
 
-missing_columns = [
-    column
-    for column in required_columns
+missing = [
+    column for column in required_columns
     if column not in medicines.columns
 ]
 
-if missing_columns:
-
-    st.error(
-        "The model's medicine data is missing these columns: "
-        + ", ".join(missing_columns)
-    )
-
+if missing:
+    st.error("Missing columns: " + ", ".join(missing))
     st.stop()
 
 
 # ---------------------------------------------------------
-# SEARCH HELPERS
+# CREATE DEMONSTRATION PHARMACY LOCATIONS
+# 5 racks x 10 rows x 20 slots = 1000 positions
+# ---------------------------------------------------------
+RACKS = ["A", "B", "C", "D", "E"]
+ROWS_PER_RACK = 10
+SLOTS_PER_ROW = 20
+
+
+def medicine_key(row):
+
+    return "|".join([
+        str(row["medicine_name"]).strip().lower(),
+        str(row["strength"]).strip().lower(),
+        str(row["dosage_form"]).strip().lower()
+    ])
+
+
+medicines["_medicine_key"] = medicines.apply(
+    medicine_key,
+    axis=1
+)
+
+unique_medicines = (
+    medicines[
+        ["_medicine_key", "medicine_name", "strength", "dosage_form"]
+    ]
+    .drop_duplicates("_medicine_key")
+    .sort_values("_medicine_key")
+    .reset_index(drop=True)
+)
+
+location_map = {}
+
+for index, row in unique_medicines.iterrows():
+
+    rack_index = index // (
+        ROWS_PER_RACK * SLOTS_PER_ROW
+    )
+
+    if rack_index >= len(RACKS):
+        rack_index = len(RACKS) - 1
+
+    position_in_rack = index % (
+        ROWS_PER_RACK * SLOTS_PER_ROW
+    )
+
+    row_number = (
+        position_in_rack // SLOTS_PER_ROW
+    ) + 1
+
+    slot_number = (
+        position_in_rack % SLOTS_PER_ROW
+    ) + 1
+
+    location_map[row["_medicine_key"]] = {
+        "rack": RACKS[rack_index],
+        "row": row_number,
+        "slot": slot_number,
+    }
+
+
+medicines["Rack"] = medicines["_medicine_key"].map(
+    lambda key: location_map[key]["rack"]
+)
+
+medicines["Row"] = medicines["_medicine_key"].map(
+    lambda key: location_map[key]["row"]
+)
+
+medicines["Slot"] = medicines["_medicine_key"].map(
+    lambda key: location_map[key]["slot"]
+)
+
+
+# ---------------------------------------------------------
+# SEARCH FUNCTIONS
 # ---------------------------------------------------------
 def normalize_text(value):
 
     value = str(value).lower().strip()
-
     value = re.sub(r"[^a-z0-9]+", " ", value)
 
     return " ".join(value.split())
@@ -182,40 +248,50 @@ def search_medicines(query, top_n=100):
         + results["name_match"].astype(int) * 0.3
     )
 
-    direct_matches = results[
-        results["generic_match"]
-        | results["name_match"]
+    matches = results[
+        results["generic_match"] | results["name_match"]
     ].copy()
 
-    if direct_matches.empty:
-
-        direct_matches = results[
+    if matches.empty:
+        matches = results[
             results["similarity_score"] > 0
         ].copy()
 
-    direct_matches = direct_matches.sort_values(
+    matches = matches.sort_values(
         "final_score",
         ascending=False
     )
 
-    direct_matches = direct_matches.drop_duplicates(
-        subset=[
-            "generic_name",
-            "brand_name",
-            "strength"
-        ]
+    matches = matches.drop_duplicates(
+        subset=["generic_name", "brand_name", "strength"]
     )
 
-    return direct_matches.head(top_n)
+    return matches.head(top_n)
 
 
 # ---------------------------------------------------------
-# FIND YOUR MEDICINE
-# Search and checkbox options are together in one section.
+# HEADER
+# ---------------------------------------------------------
+st.title("💊 MediFind AI")
+
+st.caption("SMART MEDICINE SEARCH & VIRTUAL PHARMACY")
+
+st.success("Discover Medicines. Find Their Exact Shelf Location.")
+
+st.write(
+    "Search for a medicine and discover its virtual pharmacy "
+    "rack, row and shelf position."
+)
+
+st.divider()
+
+
+# ---------------------------------------------------------
+# MEDICINE SEARCH AND FILTERS
 # ---------------------------------------------------------
 st.header("🔍 Find Your Medicine")
 
-all_categories = sorted(
+categories = sorted(
     medicines["category"]
     .dropna()
     .astype(str)
@@ -233,36 +309,32 @@ prescription_types = sorted(
 
 with st.container(border=True):
 
-    st.write("**Search by medicine name**")
-
-    with st.form("medicine_search_form"):
+    with st.form("medicine_search"):
 
         query = st.text_input(
             "Medicine name",
-            placeholder="Try Paracetamol, Crocin, Vitamin C..."
+            placeholder="Search Crocin, Dolo, Paracetamol..."
         )
 
-        st.divider()
-
-        st.write("**Choose Medicine Category**")
+        st.write("**Medicine Category**")
 
         selected_categories = []
 
         category_columns = st.columns(3)
 
-        for index, category in enumerate(all_categories):
+        for index, category in enumerate(categories):
 
             with category_columns[index % 3]:
 
                 if st.checkbox(
                     category,
-                    key=f"category_{category}"
+                    key=f"cat_{category}"
                 ):
                     selected_categories.append(category)
 
         st.divider()
 
-        st.write("**Choose Prescription Type**")
+        st.write("**Prescription Type**")
 
         selected_prescription = []
 
@@ -278,66 +350,87 @@ with st.container(border=True):
 
                 if st.checkbox(
                     prescription,
-                    key=f"prescription_{prescription}"
+                    key=f"pres_{prescription}"
                 ):
                     selected_prescription.append(prescription)
 
-        st.divider()
-
         submitted = st.form_submit_button(
-            "🔍 Search Medicines",
+            "🔍 Search Medicine",
             use_container_width=True
         )
 
 
 # ---------------------------------------------------------
-# DISPLAY MEDICINE RESULT CARDS
+# DISPLAY LOCATION DETAILS
 # ---------------------------------------------------------
-def display_products(data):
+def display_location(row):
 
-    product_columns = st.columns(3)
+    rack = row["Rack"]
+    row_number = int(row["Row"])
+    slot = int(row["Slot"])
 
-    for index, (_, row) in enumerate(data.iterrows()):
+    st.success("📍 Medicine location found!")
 
-        with product_columns[index % 3]:
+    col1, col2, col3 = st.columns(3)
+
+    with col1:
+        st.metric("RACK", rack)
+
+    with col2:
+        st.metric("ROW", row_number)
+
+    with col3:
+        st.metric("SLOT", slot)
+
+    st.info(
+        f"Go to **Rack {rack} → Row {row_number} → Slot {slot}**"
+    )
+
+
+# ---------------------------------------------------------
+# VIRTUAL PHARMACY RACK VIEW
+# ---------------------------------------------------------
+def display_rack_layout(selected_medicine):
+
+    selected_rack = selected_medicine["Rack"]
+    selected_row = int(selected_medicine["Row"])
+    selected_slot = int(selected_medicine["Slot"])
+
+    st.header("🏪 Virtual Pharmacy Layout")
+
+    st.write(
+        "The highlighted row shows the medicine's assigned "
+        "demonstration location."
+    )
+
+    rack_columns = st.columns(5)
+
+    for rack_index, rack_name in enumerate(RACKS):
+
+        with rack_columns[rack_index]:
+
+            st.markdown(f"### Rack {rack_name}")
 
             with st.container(border=True):
 
-                st.markdown(
-                    "### 💊 " + str(
-                        row.get("medicine_name", "N/A")
-                    )
-                )
+                for row_number in range(1, ROWS_PER_RACK + 1):
 
-                st.write(
-                    "**Generic:**",
-                    row.get("generic_name", "N/A")
-                )
+                    if (
+                        rack_name == selected_rack
+                        and row_number == selected_row
+                    ):
 
-                st.write(
-                    "**Brand:**",
-                    row.get("brand_name", "N/A")
-                )
+                        st.success(
+                            f"📦 ROW {row_number}\n\n"
+                            f"💊 {selected_medicine['medicine_name']}\n\n"
+                            f"Slot {selected_slot}"
+                        )
 
-                st.write(
-                    "**Strength:**",
-                    row.get("strength", "N/A")
-                )
+                    else:
 
-                st.write(
-                    "**Form:**",
-                    row.get("dosage_form", "N/A")
-                )
-
-                st.write(
-                    "**Prescription Type:**",
-                    row.get("prescription_type", "N/A")
-                )
-
-                st.write(
-                    "**Category:**",
-                    row.get("category", "N/A")
-                )
+                        st.caption(
+                            f"ROW {row_number}  |  Medicine slots"
+                        )
 
 
 # ---------------------------------------------------------
@@ -357,14 +450,12 @@ if submitted:
 
         results = search_medicines(query)
 
-        # Apply category filter
         if selected_categories:
 
             results = results[
                 results["category"].isin(selected_categories)
             ]
 
-        # Apply prescription type filter
         if selected_prescription:
 
             results = results[
@@ -376,8 +467,8 @@ if submitted:
         if results.empty:
 
             st.warning(
-                "No medicines match your search "
-                "and selected filters."
+                "No medicines found. Try another medicine name "
+                "or change the selected filters."
             )
 
         else:
@@ -386,13 +477,78 @@ if submitted:
                 f"{len(results)} matching catalogue entries found."
             )
 
+            first_result = results.iloc[0]
+
+            # Exact demonstration location for top result
+            display_location(first_result)
+
+            # Display rack and row
+            display_rack_layout(first_result)
+
+            st.divider()
+
+            st.subheader("Other Matching Medicines")
+
             st.caption(
-                "Similarity is a text-matching score only. "
-                "It does not establish medical equivalence, "
-                "safety, or suitability."
+                "Each medicine has its own assigned demonstration "
+                "rack, row and slot."
             )
 
-            display_products(results)
+            for _, row in results.iterrows():
+
+                with st.container(border=True):
+
+                    st.markdown(
+                        f"### 💊 {row['medicine_name']}"
+                    )
+
+                    col1, col2 = st.columns(2)
+
+                    with col1:
+
+                        st.write(
+                            "**Generic:**",
+                            row["generic_name"]
+                        )
+
+                        st.write(
+                            "**Brand:**",
+                            row["brand_name"]
+                        )
+
+                        st.write(
+                            "**Strength:**",
+                            row["strength"]
+                        )
+
+                    with col2:
+
+                        st.write(
+                            "**Category:**",
+                            row["category"]
+                        )
+
+                        st.write(
+                            "**Form:**",
+                            row["dosage_form"]
+                        )
+
+                        st.write(
+                            "**Prescription:**",
+                            row["prescription_type"]
+                        )
+
+                    st.info(
+                        f"📍 Rack {row['Rack']} | "
+                        f"Row {int(row['Row'])} | "
+                        f"Slot {int(row['Slot'])}"
+                    )
+
+            st.caption(
+                "Search similarity is text matching only. "
+                "It does not establish medical equivalence, "
+                "safety or suitability."
+            )
 
 
 # ---------------------------------------------------------
@@ -402,33 +558,31 @@ st.divider()
 
 st.header("Why Choose MediFind AI?")
 
-feature_1, feature_2, feature_3 = st.columns(3)
+col1, col2, col3 = st.columns(3)
 
-with feature_1:
-
-    with st.container(border=True):
-
-        st.markdown("### 🤖 AI-Powered Search")
-
-        st.write(
-            "Find relevant catalogue entries using "
-            "TF-IDF and cosine similarity."
-        )
-
-
-with feature_2:
+with col1:
 
     with st.container(border=True):
 
-        st.markdown("### 💊 Medicine Information")
+        st.markdown("### 🤖 AI Search")
 
         st.write(
-            "Explore medicine names, brands, strengths "
-            "and categories."
+            "Search medicines using TF-IDF "
+            "and cosine similarity."
         )
 
+with col2:
 
-with feature_3:
+    with st.container(border=True):
+
+        st.markdown("### 🏪 Virtual Pharmacy")
+
+        st.write(
+            "Explore the demonstration rack, "
+            "row and shelf positions."
+        )
+
+with col3:
 
     with st.container(border=True):
 
@@ -436,7 +590,7 @@ with feature_3:
 
         st.write(
             "Medical store discovery is planned "
-            "as the next project feature."
+            "as a future feature."
         )
 
 
@@ -453,8 +607,8 @@ st.caption(
 )
 
 st.caption(
-    "This application uses demonstration catalogue data. "
-    "Search similarity does not establish medical equivalence, "
-    "safety or suitability. Consult a qualified healthcare "
-    "professional before making medicine decisions."
+    "Rack, row and slot assignments are simulated for this "
+    "academic demonstration. They do not represent the actual "
+    "layout or stock of a real pharmacy. Search similarity does "
+    "not establish medical equivalence, safety or suitability."
 )
